@@ -1,0 +1,11 @@
+{{ define "content" }}
+  <h1>Noty</h1>
+  {{ template "_internal/pagination.html" . }}
+  {{ range .Paginator.Pages }}
+    <article>
+      <h2>{{ .Title }}</h2>
+      {{ .Content }}
+    </article>
+  {{ end }}
+  {{ template "_internal/pagination.html" . }}
+{{ end }}

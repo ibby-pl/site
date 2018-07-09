@@ -1,0 +1,29 @@
+---
+title: POLSKA SEKCJA IBBY NA 8.WTK
+author: Tomasz Osadowski
+type: post
+date: 2017-05-22T19:26:26+00:00
+url: /?p=4159
+categories:
+  - Aktualności
+
+---
+W dniach 18-21 maja 2017 r. na PGE Narodowym odbyły się 8.Warszawskie Targi Książki. Polska Sekcja IBBY brała w nich udział jako jeden z partnerów wydarzenia.
+
+O nieprzebranych tłumach czytelników, o wystawcach uczestniczących w imprezie, wydarzeniach  towarzyszących targom donosiła prasa lokalna i ogólnopolska.
+
+<img class="alignnone size-medium wp-image-4161" src="http://www.ibby.pl/wp-content/uploads/2017/05/18581487_1370198729762978_5274456728824527371_n-300x200.jpg" alt="" width="300" height="200" srcset="http://www.ibby.pl/wp-content/uploads/2017/05/18581487_1370198729762978_5274456728824527371_n-300x200.jpg 300w, http://www.ibby.pl/wp-content/uploads/2017/05/18581487_1370198729762978_5274456728824527371_n-150x100.jpg 150w, http://www.ibby.pl/wp-content/uploads/2017/05/18581487_1370198729762978_5274456728824527371_n-768x511.jpg 768w, http://www.ibby.pl/wp-content/uploads/2017/05/18581487_1370198729762978_5274456728824527371_n-800x533.jpg 800w, http://www.ibby.pl/wp-content/uploads/2017/05/18581487_1370198729762978_5274456728824527371_n.jpg 960w" sizes="(max-width: 300px) 100vw, 300px" /><img class="alignnone size-medium wp-image-4173" src="http://www.ibby.pl/wp-content/uploads/2017/05/18664413_1370198969762954_4190879315320153482_n-150x200.jpg" alt="" width="150" height="200" srcset="http://www.ibby.pl/wp-content/uploads/2017/05/18664413_1370198969762954_4190879315320153482_n-150x200.jpg 150w, http://www.ibby.pl/wp-content/uploads/2017/05/18664413_1370198969762954_4190879315320153482_n-75x100.jpg 75w, http://www.ibby.pl/wp-content/uploads/2017/05/18664413_1370198969762954_4190879315320153482_n-450x600.jpg 450w, http://www.ibby.pl/wp-content/uploads/2017/05/18664413_1370198969762954_4190879315320153482_n.jpg 720w" sizes="(max-width: 150px) 100vw, 150px" />  <img class="alignnone size-medium wp-image-4160" src="http://www.ibby.pl/wp-content/uploads/2017/05/18556201_1370197946429723_6706407045657991073_n-300x200.jpg" alt="" width="300" height="200" srcset="http://www.ibby.pl/wp-content/uploads/2017/05/18556201_1370197946429723_6706407045657991073_n-300x200.jpg 300w, http://www.ibby.pl/wp-content/uploads/2017/05/18556201_1370197946429723_6706407045657991073_n-150x100.jpg 150w, http://www.ibby.pl/wp-content/uploads/2017/05/18556201_1370197946429723_6706407045657991073_n-768x511.jpg 768w, http://www.ibby.pl/wp-content/uploads/2017/05/18556201_1370197946429723_6706407045657991073_n-800x533.jpg 800w, http://www.ibby.pl/wp-content/uploads/2017/05/18556201_1370197946429723_6706407045657991073_n.jpg 960w" sizes="(max-width: 300px) 100vw, 300px" /><img class="alignnone size-medium wp-image-4166" src="http://www.ibby.pl/wp-content/uploads/2017/05/18664352_1370199016429616_4921064954557707927_n-150x200.jpg" alt="" width="150" height="200" srcset="http://www.ibby.pl/wp-content/uploads/2017/05/18664352_1370199016429616_4921064954557707927_n-150x200.jpg 150w, http://www.ibby.pl/wp-content/uploads/2017/05/18664352_1370199016429616_4921064954557707927_n-75x100.jpg 75w, http://www.ibby.pl/wp-content/uploads/2017/05/18664352_1370199016429616_4921064954557707927_n-450x600.jpg 450w, http://www.ibby.pl/wp-content/uploads/2017/05/18664352_1370199016429616_4921064954557707927_n.jpg 720w" sizes="(max-width: 150px) 100vw, 150px" /><img class="alignnone wp-image-4163 size-medium" src="http://www.ibby.pl/wp-content/uploads/2017/05/18698330_1370198369763014_7260226324645897563_n-300x200.jpg" alt="" width="300" height="200" srcset="http://www.ibby.pl/wp-content/uploads/2017/05/18698330_1370198369763014_7260226324645897563_n-300x200.jpg 300w, http://www.ibby.pl/wp-content/uploads/2017/05/18698330_1370198369763014_7260226324645897563_n-150x100.jpg 150w, http://www.ibby.pl/wp-content/uploads/2017/05/18698330_1370198369763014_7260226324645897563_n-768x511.jpg 768w, http://www.ibby.pl/wp-content/uploads/2017/05/18698330_1370198369763014_7260226324645897563_n-800x533.jpg 800w, http://www.ibby.pl/wp-content/uploads/2017/05/18698330_1370198369763014_7260226324645897563_n.jpg 960w" sizes="(max-width: 300px) 100vw, 300px" /><img class="alignnone size-medium wp-image-4168" src="http://www.ibby.pl/wp-content/uploads/2017/05/18557094_1370199073096277_1222147440801562765_n-150x200.jpg" alt="" width="150" height="200" srcset="http://www.ibby.pl/wp-content/uploads/2017/05/18557094_1370199073096277_1222147440801562765_n-150x200.jpg 150w, http://www.ibby.pl/wp-content/uploads/2017/05/18557094_1370199073096277_1222147440801562765_n-75x100.jpg 75w, http://www.ibby.pl/wp-content/uploads/2017/05/18557094_1370199073096277_1222147440801562765_n-450x600.jpg 450w, http://www.ibby.pl/wp-content/uploads/2017/05/18557094_1370199073096277_1222147440801562765_n.jpg 720w" sizes="(max-width: 150px) 100vw, 150px" />
+
+Salonik Polskiej Sekcji IBBY tętnił targowym życiem.
+
+<a href="https://www.facebook.com/pg/PolskaSekcjaIBBY/photos/?tab=album&album_id=1370197386429779" target="_blank" rel="noopener noreferrer">Zobacz pełną relację fotograficzną.</a>
+
+Promowaliśmy w nim czytelnictwo i dobrą książkę dla niedorosłych.
+
+Wolontariusze IBBY dyżurujący w naszym saloniku przeprowadzili ponad dwieście pięćdziesiąt rozmów z młodymi czytelnikami i ich opiekunami, nauczycielami i bibliotekarzami, służąc im radą w sprawach literatury dla młodych. Odwiedzali nas również członkowie naszego stowarzyszenia oraz twórcy i wydawcy książek.
+
+Rozdawaliśmy ulotki, plakaty i zakładki.
+
+Zorganizowaliśmy i przeprowadziliśmy Literacką Grę Targową , w której uczestniczyło ponad stu młodych czytelników. Uczestnicy gry otrzymali pamiątkowe przypinki z logo PS IBBY i sympatyczną postacią narysowaną ręką Niki Jaworowskiej (dziękujemy!).
+
+Dziękujemy gościom, wolontariuszom, którzy pomagali nam prowadzić salonik i uczestnikom Literackiej Gry Targowej. Do zobaczenia za rok!

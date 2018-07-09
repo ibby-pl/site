@@ -1,0 +1,13 @@
+---
+title: Jubileusz warszawskiego przedszkola
+author: Magda Kremer
+type: post
+date: 2013-12-04T13:46:30+00:00
+url: /?p=1358
+categories:
+  - Aktualności
+
+---
+Już od 5 lat przedszkole przy ul. Kruczej nosi imię Zdzisława Witwickiego; z okazji jubileuszu został zorganizowany konkurs plastyczny, a Polska Sekcja IBBY, która jest członkiem Klubu Przyjaciół Twórczości Zdzisława Witwickiego, przekazała książki dla laureatów. Dzieci przygotowały piękne przedstawienie, które podobało się wszystkim, a zwłaszcza patronowi. W przedszkolu jest bogaty zbiór książek znakomitego ilustratora, naszego medalisty z roku 2001, a zaprojektowana przez niego Syrenka jest logotypem na dyplomach. Absolwenci przedszkola, obecnie dorośli, nadal je przechowują
+
+.<a href="http://www.ibby.pl/wp-content/uploads/2013/12/Certyfikat-Klubu-Witwickiego1.jpg" rel="lightbox[1358]"><img class="alignnone size-thumbnail wp-image-1362" alt="Certyfikat Klubu Witwickiego" src="http://www.ibby.pl/wp-content/uploads/2013/12/Certyfikat-Klubu-Witwickiego1-72x100.jpg" width="72" height="100" srcset="http://www.ibby.pl/wp-content/uploads/2013/12/Certyfikat-Klubu-Witwickiego1-72x100.jpg 72w, http://www.ibby.pl/wp-content/uploads/2013/12/Certyfikat-Klubu-Witwickiego1-145x200.jpg 145w, http://www.ibby.pl/wp-content/uploads/2013/12/Certyfikat-Klubu-Witwickiego1-436x600.jpg 436w, http://www.ibby.pl/wp-content/uploads/2013/12/Certyfikat-Klubu-Witwickiego1.jpg 850w" sizes="(max-width: 72px) 100vw, 72px" /></a><a href="http://www.ibby.pl/wp-content/uploads/2013/12/20131129245.jpg" rel="lightbox[1358]"><img class="alignnone size-thumbnail wp-image-1365" alt="20131129245" src="http://www.ibby.pl/wp-content/uploads/2013/12/20131129245-75x100.jpg" width="75" height="100" srcset="http://www.ibby.pl/wp-content/uploads/2013/12/20131129245-75x100.jpg 75w, http://www.ibby.pl/wp-content/uploads/2013/12/20131129245-150x200.jpg 150w, http://www.ibby.pl/wp-content/uploads/2013/12/20131129245-450x600.jpg 450w, http://www.ibby.pl/wp-content/uploads/2013/12/20131129245.jpg 1536w" sizes="(max-width: 75px) 100vw, 75px" /></a><a href="http://www.ibby.pl/wp-content/uploads/2013/12/p31_Nr080.jpg" rel="lightbox[1358]"><img class="alignnone size-thumbnail wp-image-1363" alt="p31_Nr080" src="http://www.ibby.pl/wp-content/uploads/2013/12/p31_Nr080-150x100.jpg" width="150" height="100" srcset="http://www.ibby.pl/wp-content/uploads/2013/12/p31_Nr080-150x100.jpg 150w, http://www.ibby.pl/wp-content/uploads/2013/12/p31_Nr080-300x200.jpg 300w, http://www.ibby.pl/wp-content/uploads/2013/12/p31_Nr080-800x533.jpg 800w" sizes="(max-width: 150px) 100vw, 150px" /></a>
