@@ -2,7 +2,6 @@
 <!-- ------------- hero-------------- -->
 
 <!--------------banner-------------------------------->
-
 <div class="banner">
   <div class="search-bar">
   <!-- ----------search form------------- -->
@@ -88,22 +87,45 @@
 <div class="container">
   <div class="row row-blog">
     <div class="col-md-8 col-blog-img">
-      <img src="images/blog1.jpg" class="img-responsive center-block" alt="zdjęcie z bloga IBBY">
+      <img id="blog_post_img" src="images/blog1.jpg" class="img-responsive center-block" alt="zdjęcie z bloga IBBY">
     </div>
     <div class="col-md-4 col-blog-txt">
       <div class="txt">
-        <h2>POLSKIE NOMINACJE DO ASTRID LINDGREN MEMORIAL AWARD (ALMA) ‘ 2018</h2>
-        <p>Jury ALMA składa się 12 członków – badaczy, bibliotekarzy, krytyków, pisarzy i ilustratorów. Przyznają oni laureatowi nagrodę pieniężną w kwocie do 5 mln SEK. Nagrodę finansują władze Szwecji.
+        <h2 id="blog_post_title">POLSKIE NOMINACJE DO ASTRID LINDGREN MEMORIAL AWARD (ALMA) ‘ 2018</h2>
+        <p id="blog_post_body">Jury ALMA składa się 12 członków – badaczy, bibliotekarzy, krytyków, pisarzy i ilustratorów. Przyznają oni laureatowi nagrodę pieniężną w kwocie do 5 mln SEK. Nagrodę finansują władze Szwecji.
         Podczas konferencji prasowej, która odbędzie się w marcu, dowiemy się, do kogo ALMA trafi w 2018 roku.
         W maju przyszłego roku w Sztokholmie odbędzie się uroczystość wręczenia ALMA’2018 .
         Trzymajmy kciuki za polskich kandydatów.</p>
       </div>
 
       <div>
-        <a class="slanted-btn btn-tip" href="#">
+        <a id="blog_post_link" class="slanted-btn btn-tip" href="#">
             Czytaj dalej...
         </a>
       </div>
+    <script>
+      function handleResponse(response) {
+        var post = response.items[0];
+        var contentDiv = document.createElement("div")
+        contentDiv.innerHTML = post.content
+        imgs = contentDiv.getElementsByTagName("img");
+        if (imgs.length > 0) {
+            var img = imgs[0];
+            var targetImg = document.getElementById("blog_post_img")
+            targetImg.src = img.src
+            targetImg.alt = img.alt
+            targetImg.title = img.title
+        }
+        document.getElementById("blog_post_body").innerText = contentDiv.innerText
+        document.getElementById("blog_post_title").innerText = post.title
+        document.getElementById("blog_post_link").href = post.url
+        console.log(post)
+//        document.getElementById("content").innerHTML += "<h1>" + response.title + "</h1>" + response.content;
+      }
+    </script>
+    <script
+    src="https://www.googleapis.com/blogger/v3/blogs/3114801665746647616/posts/?callback=handleResponse&maximum=1&key=AIzaSyAgM9g-RbZENl23ghBbfsY8rtrSPfXdCGY"></script>
+ 
 
     </div>
   </div>
