@@ -1,10 +1,11 @@
 {{ define "content" }}
-  <h1>Noty</h1>
-  {{ template "_internal/pagination.html" . }}
+
+  <p style = "font-weight: bold; font-size: 60px; padding-top: 15px; color: #28348A;">Noty</p>
+
   {{ range .Paginator.Pages }}
     <article>
-      <h2>{{ .Title }}</h2>
-      {{ .Content }}
+      <h2><a href="{{.Permalink}}">{{ .Title }}</a></h2>
+     
     </article>
   {{ end }}
   {{ template "_internal/pagination.html" . }}

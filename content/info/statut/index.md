@@ -5,7 +5,7 @@ type: page
 date: 2013-02-22T20:32:33+00:00
 
 ---
-<p style="text-align: center;">
+<p style="text-align: center; margin-top: 20px;">
   <strong>Statut Stowarzyszenia Przyjaciół Książki dla Młodych (Polskiej Sekcji IBBY)</strong>
 </p>
 

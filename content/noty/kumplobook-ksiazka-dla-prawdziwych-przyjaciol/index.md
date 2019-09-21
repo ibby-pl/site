@@ -5,7 +5,7 @@ type: page
 date: 2016-12-17T18:02:29+00:00
 
 ---
-  * Nominacja graficzna 2016
+  <h2>* Nominacja graficzna 2016</h2>
 
 **Dennis Wojda** _Kumplobook. Książka dla prawdziwych przyjaciół_
 

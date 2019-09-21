@@ -34,6 +34,7 @@ section h1, section h1 {
 	font-family: 'Josefin Sans';
 }
 
+
 /*---------navbar---------------*/
 
 #main {
@@ -471,17 +472,22 @@ li {
 /*------------blog----------*/
 .blog {
 	padding:0;
+
 }
 .txt p {
 	padding: 20px;
+  font-size: 18px;
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-line-clamp: 7;
+  -webkit-box-orient: vertical;
+
 }
 
 .col-blog-img img {
   min-height: 400px;
   height: auto;
   margin-top: 30px;
-  
-
 }
 
 /*-----------slanted button right--------*/
@@ -611,7 +617,7 @@ li {
 	-moz-box-shadow: 0px 0px 4px rgba(0,0,0,0.55);
   -khtml-box-shadow: 0px 0px 4px rgba(0,0,0,0.55);
   -webkit-box-shadow: 0px 0px 4px rgba(0,0,0,0.55);
-	z-index: 100; /* the stack order: foreground */
+	z-index: 100; /* stack order: foreground */
 }
 
 .rectangle h2 {
@@ -671,6 +677,7 @@ li {
 }
 .upowszechnianie p {
   padding: 20px;
+  font-size: 18px;
 }
 .col-czytelnictwo {
   padding: 40px;
@@ -679,12 +686,14 @@ li {
 /*---------------winner slideshow--------------------*/
 
 .winners {
-  float: right;
+  float: left;
+  overflow: hidden;
+
 }
 
 .winners img {
   max-height: 200px; 
-
+  max-width: 270px;
 }
 
 #first-slider {
@@ -706,6 +715,7 @@ li {
   background-color: #ECB7A5;
 	background-size: 115%;
 	min-height: 500px;
+   font-size: 18px;
 }
 
 .medal-img {
@@ -774,6 +784,7 @@ li {
 }
 .col-wydarzenia p {
 	padding: 15px;
+   font-size: 18px;
 }
 .col-partnerzy {
 	padding: 0 30px;
@@ -1161,4 +1172,19 @@ bottom: 7px;
 .col-partnerzy h3 {
   padding-bottom: 10px;
 }
+}
+
+/*-------------everyman--subsekcje----------*/
+
+.everyman {
+  font-size: 18px;
+  padding: 40px;
+  text-align: left;
+}
+.everyman img {
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+    margin-bottom: 30px;
 }

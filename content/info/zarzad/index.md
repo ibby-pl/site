@@ -4,37 +4,38 @@ author: admin
 type: page
 date: 2013-02-22T20:32:33+00:00
 ---
-#Zarząd
+<div style="text-align: center; margin-top: 20px;">
+	<h1>Zarząd</h1>
 
-W aktualnej kadencji władze PS IBBY stanowią:
+<h3 style="color: #28348A;">W aktualnej kadencji władze PS IBBY stanowią:</h3>
 
-* **Prezeska**
+<ul style="list-style: none;"><h3>Prezeska</h3>
 
-  Anna Maria Czernow
+  <li>Anna Maria Czernow</li></ul>
 
-* **Wiceprezeska**
+<ul style="list-style: none;"><h3>Wiceprezeska</h3>
 
-  Tatiana Audycka-Szatrawska
+  <li>Tatiana Audycka-Szatrawska</li></ul>
 
-* **Sekretarzyni**
+<ul style="list-style: none;"><h3>Sekretarzyni</h3>
 
-  Monika Hałucha
+  <li>Monika Hałucha</li></ul>
 
-* **Skarbniczka**
+<ul style="list-style: none;"><h3>Skarbniczka</h3>
 
-  Beata Kowalska- Osadowska
+  <li>Beata Kowalska- Osadowska</li></ul>
 
-* **Członkini Zarządu**
+<ul style="list-style: none;"><h3>Członkini Zarządu</h3>
 
-  Dorota Lipińska
+  <li>Dorota Lipińska</li></ul>
  
 
 
-* **Główna Komisja Rewizyjna**
+<ul style="list-style: none;"><h3>Główna Komisja Rewizyjna</h3>
 
-  Maria Kulik
+  <li>Maria Kulik</li>
 
-  Agnieszka Dobrowolska
+  <li>Agnieszka Dobrowolska</li>
 
-  Grażyna Lewandowicz-Nosal
+  <li>Grażyna Lewandowicz-Nosal</li></ul> </div>
   
