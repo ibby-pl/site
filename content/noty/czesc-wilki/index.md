@@ -1,7 +1,6 @@
 ---
 title: Cześć, wilki!
 author: Maria Kulik
-type: page
 date: 2014-12-06T15:33:49+00:00
 
 ---

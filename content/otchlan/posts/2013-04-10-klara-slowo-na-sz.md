@@ -18,16 +18,15 @@ Fragmenty książki przeczyta autor – **Marcin Wicha**, a podczas warsztatu pl
 
 Zapraszają Muzeum Literatury i wydawnictwo Czarna Owieczka.
 
-&nbsp;
+ 
 
-&nbsp;
+ 
 
-&nbsp;
+ 
 
-&nbsp;
+ 
 
-&nbsp;
+ 
 
-&nbsp;
+ 
 
-&nbsp;

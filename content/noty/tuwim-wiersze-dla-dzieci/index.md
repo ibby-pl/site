@@ -1,7 +1,6 @@
 ---
 title: Tuwim. Wiersze dla dzieci
 author: Michał Zając
-type: page
 date: 2013-06-19T19:29:19+00:00
 
 ---

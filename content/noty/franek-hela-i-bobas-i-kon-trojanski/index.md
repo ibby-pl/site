@@ -1,7 +1,6 @@
 ---
 title: Franek, Hela i Bobas i koń trojański
 author: Michał Zając
-type: page
 date: 2014-02-17T08:10:51+00:00
 
 ---

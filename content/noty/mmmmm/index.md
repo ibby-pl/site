@@ -1,7 +1,6 @@
 ---
 title: Mmmmm
 author: Maria Kulik
-type: page
 date: 2015-12-15T07:45:04+00:00
 
 ---

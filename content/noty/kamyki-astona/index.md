@@ -1,7 +1,6 @@
 ---
 title: Kamyki Astona
 author: Maria Kulik
-type: page
 date: 2014-02-18T07:43:59+00:00
 
 ---

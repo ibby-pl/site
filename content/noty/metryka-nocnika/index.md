@@ -1,11 +1,10 @@
 ---
 title: Metryka nocnika
 author: Maria Kulik
-type: page
 date: 2014-12-06T16:01:19+00:00
 
 ---
-&nbsp;
+ 
 
 **Tekst**: Iwona Wierzba
 
@@ -27,4 +26,4 @@ date: 2014-12-06T16:01:19+00:00
 
 <span style="color: #222222;">WYRÓ</span><span style="color: #222222; font-family: Calibri;"><span style="color: #222222; font-family: Calibri;"><span lang="P">ŻNIENIE GRAFICZNE KSIĄŻKA ROKU 2014</span></span></span>
 
-&nbsp;
+ 

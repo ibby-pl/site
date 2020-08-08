@@ -22,10 +22,9 @@ Nagrodę za upowszechnianie czytelnictwa przyznano  **<a href="http://www.ibby.
 
 <a href="http://www.ibby.pl/wp-content/uploads/2015/12/mkidn_01_cmyk.jpg" rel="lightbox[2690]"><img class="alignnone size-medium wp-image-2693" src="http://www.ibby.pl/wp-content/uploads/2015/12/mkidn_01_cmyk-200x200.jpg" alt="mkidn_01_cmyk" width="200" height="200" srcset="http://www.ibby.pl/wp-content/uploads/2015/12/mkidn_01_cmyk-200x200.jpg 200w, http://www.ibby.pl/wp-content/uploads/2015/12/mkidn_01_cmyk-100x100.jpg 100w, http://www.ibby.pl/wp-content/uploads/2015/12/mkidn_01_cmyk-600x600.jpg 600w, http://www.ibby.pl/wp-content/uploads/2015/12/mkidn_01_cmyk.jpg 1323w" sizes="(max-width: 200px) 100vw, 200px" /></a> <a href="http://www.ibby.pl/wp-content/uploads/2015/12/NPRC_malinowy.jpg" rel="lightbox[2690]"><img class="alignnone size-medium wp-image-2694" src="http://www.ibby.pl/wp-content/uploads/2015/12/NPRC_malinowy-300x113.jpg" alt="NPRC_malinowy" width="300" height="113" srcset="http://www.ibby.pl/wp-content/uploads/2015/12/NPRC_malinowy-300x113.jpg 300w, http://www.ibby.pl/wp-content/uploads/2015/12/NPRC_malinowy-150x57.jpg 150w, http://www.ibby.pl/wp-content/uploads/2015/12/NPRC_malinowy.jpg 492w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 
-&nbsp;
+ 
 
-&nbsp;
+ 
 
-&nbsp;
+ 
 
-&nbsp;

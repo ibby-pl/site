@@ -1,7 +1,6 @@
 ---
 title: Pszczoły
 author: Maria Kulik
-type: page
 date: 2015-12-15T07:46:58+00:00
 
 ---
@@ -15,4 +14,4 @@ Rec. Małgorzata Cackowska
 
 NOMINACJA  GRAFICZNA KSIĄŻKA ROKU 2015
 
-&nbsp;
+ 

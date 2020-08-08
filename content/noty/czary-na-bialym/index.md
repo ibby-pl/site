@@ -1,7 +1,6 @@
 ---
 title: Czary na Białym
 author: Tomasz Osadowski
-type: page
 date: 2016-12-17T16:50:32+00:00
 
 ---

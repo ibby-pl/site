@@ -1,7 +1,6 @@
 ---
 title: Członkowie IBBY
 author: admin
-type: page
 date: 2013-02-22T20:48:27+00:00
 
 ---

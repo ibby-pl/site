@@ -54,4 +54,3 @@ Podczas gali w Ratuszu zostanie ogłoszony **laureat Nagrody DOBRE STRONY ufundo
 
 Więcej o targach na:  <a href="http://www.wpdk.pl" target="_blank">www.wpdk.pl</a>
 
-&nbsp;

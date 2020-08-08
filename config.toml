@@ -1,5 +1,5 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseURL = "http://ibby.pl/"
+languageCode = "pl"
+title = "Sekcja Polska IBBY"
 Paginate = 10
 PaginatePath = "strona"

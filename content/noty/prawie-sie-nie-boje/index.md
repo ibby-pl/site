@@ -1,7 +1,6 @@
 ---
 title: Prawie się nie boję…
 author: Tomasz Osadowski
-type: page
 date: 2016-12-17T15:34:30+00:00
 
 ---

@@ -1,7 +1,6 @@
 ---
 title: Opowieści grozy wuja Mortimera
 author: Maria Kulik
-type: page
 date: 2014-02-18T07:37:24+00:00
 
 ---

@@ -1,7 +1,6 @@
 ---
 title: Bałtycka Syrena. Historia Konstancji Czirenberg
 author: Maria Kulik
-type: page
 date: 2015-12-14T15:29:06+00:00
 
 ---

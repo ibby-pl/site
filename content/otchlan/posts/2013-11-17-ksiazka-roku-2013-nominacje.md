@@ -8,18 +8,10 @@ categories:
   - Aktualności
 
 ---
-<p style="text-align: justify;">
-  <a href="http://www.ibby.pl/wp-content/uploads/2013/11/mkidn_logo.jpg" rel="lightbox[1318]"><img class="alignleft size-thumbnail wp-image-1320" alt="MKiDN - logo" src="http://www.ibby.pl/wp-content/uploads/2013/11/mkidn_logo-150x89.jpg" width="150" height="89" srcset="http://www.ibby.pl/wp-content/uploads/2013/11/mkidn_logo-150x89.jpg 150w, http://www.ibby.pl/wp-content/uploads/2013/11/mkidn_logo-300x179.jpg 300w, http://www.ibby.pl/wp-content/uploads/2013/11/mkidn_logo.jpg 640w" sizes="(max-width: 150px) 100vw, 150px" /></a>Zakończyły się obrady jury konkursu <strong>&#8222;Książka Roku Polskiej Sekcji IBBY&#8221; 2013</strong>. To wyjątkowa, już 25. edycja, ponad 15 wydawnictw debiutuje w tym konkursie.
-</p>
 
-<p style="text-align: justify;">
-  <!--more-->
-</p>
-
-<p style="text-align: justify;">
-  Gremia jurorskie oparły swoje werdykty na kryteriach, które można przeczytać tutaj:
-</p>
-
+  <a href="http://www.ibby.pl/wp-content/uploads/2013/11/mkidn_logo.jpg" rel="lightbox[1318]"><img class="alignleft size-thumbnail wp-image-1320" alt="MKiDN - logo" src="http://www.ibby.pl/wp-content/uploads/2013/11/mkidn_logo-150x89.jpg" width="150" height="89" srcset="http://www.ibby.pl/wp-content/uploads/2013/11/mkidn_logo-150x89.jpg 150w, http://www.ibby.pl/wp-content/uploads/2013/11/mkidn_logo-300x179.jpg 300w, http://www.ibby.pl/wp-content/uploads/2013/11/mkidn_logo.jpg 640w" sizes="(max-width: 150px) 100vw, 150px" /></a>Zakończyły się obrady jury konkursu &#8222;Książka Roku Polskiej Sekcji IBBY&#8221; 2013. To wyjątkowa, już 25. edycja, ponad 15 wydawnictw debiutuje w tym konkursie.
+<!--more-->
+Gremia jurorskie oparły swoje werdykty na kryteriach, które można przeczytać tutaj:
 <ul style="text-align: justify;">
   <li>
     <a href="http://www.ibby.pl/files/kryteria_literackie_2013.pdf" target="_blank">kryteria literackie</a>
@@ -29,15 +21,10 @@ categories:
   </li>
 </ul>
 
-<p style="text-align: justify;">
+
   W gronie nominowanych znaleźli się:
-</p>
-
-<p style="text-align: justify;">
-  <strong><span style="text-decoration: underline;">&#8211; do nagrody literackiej:</span></strong>
-</p>
-
-  1. Anna Czerwińska-Rydel &#8211; Kryształowe odkrycie. Powieść o Janie Czochralskim (Debit, Atut 2013, Bielsko Biała – Wrocław 2013)
+<span style="text-decoration: underline;">&#8211; do nagrody literackiej:</span>
+1. Anna Czerwińska-Rydel &#8211; Kryształowe odkrycie. Powieść o Janie Czochralskim (Debit, Atut 2013, Bielsko Biała – Wrocław 2013)
   2. Grzegorz Gortat &#8211; Ewelina i czarny ptak (Ezop, Warszawa 2013)
   3. Grzegorz Kasdepke &#8211; Pestka, drops i cukierek. Liczby kultury (Narodowe Centrum Kultury, Warszawa 2013)
   4. Tomasz Kwaśniewski &#8211; Jedno oko na Maroko (Czarna Owieczka, Warszawa 2013)
@@ -52,11 +39,9 @@ categories:
  13. Marcin Szczygielski &#8211; Czarownica piętro niżej (Bajka, Warszawa 2013)
  14. Przemysław Wechterowicz &#8211; Wilk, pies i owce (Kultura Gniewu, Warszawa 2013)
 
-<p style="text-align: justify;">
-  <span style="text-decoration: underline;"><strong>&#8211; do nagrody graficznej:</strong></span>
-</p>
 
-  1. Anita Andrzejewska i Andrzej Pilichowski-Ragno za ilustracje do książki Anny Chachulskiej Jak Stańczyk z dworzan zażartował (Zamek Królewski na Wawelu, Kraków 2013)
+  <span style="text-decoration: underline;">&#8211; do nagrody graficznej:</span>
+1. Anita Andrzejewska i Andrzej Pilichowski-Ragno za ilustracje do książki Anny Chachulskiej Jak Stańczyk z dworzan zażartował (Zamek Królewski na Wawelu, Kraków 2013)
   2. Jan Bajtlik za ilustracje do książki Auto z tekstem opracowanym w wydawnictwie (Dwie Siostry, Warszawa 2013)
   3. Edgar Bąk za ilustracje do książki Kto ty jesteś Joanny Olech (Wytwórnia, Warszawa 2013)
   4. Agata Bogacka za ilustracje do książki Zdarzenie nad strumykiem Jakuba Żulczyka (Bunkier Sztuki, Kraków 2013)

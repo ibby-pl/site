@@ -1,7 +1,6 @@
 ---
 title: To wszystko rodzina
 author: Maria Kulik
-type: page
 date: 2014-02-18T08:58:55+00:00
 
 ---

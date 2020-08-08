@@ -1,7 +1,6 @@
 ---
 title: Więcej niż klub
 author: Tomasz Osadowski
-type: page
 date: 2016-12-17T16:00:07+00:00
 
 ---

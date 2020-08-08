@@ -16,7 +16,7 @@ Prezentujemy informację o targach. O stoisku PS IBBY już wkrótce!
 
 <ol start="20">
   <li>
-    <strong> jubileuszowa edycja Międzynarodowych Targów Książki w Krakowie</strong>®
+     jubileuszowa edycja Międzynarodowych Targów Książki w Krakowie®
   </li>
 </ol>
 
@@ -80,6 +80,6 @@ Zapraszamy!
   
 Zespół Międzynarodowych Targów Książki w Krakowie
 
-&nbsp;
+ 
 
-&nbsp;
+ 

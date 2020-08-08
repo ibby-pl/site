@@ -1,7 +1,6 @@
 ---
 title: Dwa serca anioła
 author: Maria Kulik
-type: page
 date: 2014-02-18T08:17:21+00:00
 
 ---

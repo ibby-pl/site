@@ -1,7 +1,6 @@
 ---
 title: Plus Minus 16
 author: Maria Kulik
-type: page
 date: 2014-02-18T08:55:35+00:00
 
 ---
@@ -23,4 +22,4 @@ Rec. Ewa Gajcy
 
 **Wyróżnienie dziecięcego jury DONG 2012**
 
-&nbsp;
+ 

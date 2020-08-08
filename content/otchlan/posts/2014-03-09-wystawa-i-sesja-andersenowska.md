@@ -10,4 +10,3 @@ categories:
 ---
 Uniwersytet Łódzki, Duński Instytut Kultury oraz wydawnictwo MEDIA RODZINA zapraszają 13 marca, o godz. 11.00 na wernisaż i sesję poświęconą Andersenowi.
 
-&nbsp;

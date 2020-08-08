@@ -1,11 +1,10 @@
 ---
 title: Na wysokiej górze
 author: Maria Kulik
-type: page
 date: 2014-12-06T16:03:35+00:00
 
 ---
-&nbsp;
+ 
 
 <span style="font-size: medium;"><b>Tekst: </b>Krystyna Mi</span><span style="font-family: Calibri; font-size: medium;"><span style="font-family: Calibri; font-size: medium;"><span lang="P">łobędzka</span></span></span>
 
@@ -29,4 +28,4 @@ WYDAWNICTWO MIEJSKIE POSNANIA
 
 <span style="color: #222222;">NOMINACJA GRAFICZNA KSI</span><span style="color: #222222; font-family: Calibri;"><span style="color: #222222; font-family: Calibri;"><span lang="P">ĄŻKA ROKU 2014</span></span></span>
 
-&nbsp;
+ 

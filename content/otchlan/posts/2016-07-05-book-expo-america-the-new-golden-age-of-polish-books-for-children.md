@@ -14,4 +14,3 @@ W ramach konferencji o dorobku wydawnictw książek w Polsce &#8211; gościa hon
 
 W panelu udział wzięły: Maria Deskur z Egmontu jako przedstawicielka wydawców, Anna Czernow &#8211; prezeska Polskiej Sekcji <span class="highlightNode">IBBY</span> i Junko Yokota, światowej sławy specjalistka od literatury dziecięcej jako moderatorka i niestrudzona ambasadorka polskiej książki w USA.
 
-&nbsp;

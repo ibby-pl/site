@@ -1,7 +1,6 @@
 ---
 title: Mamma mia. Włochy dla dociekliwych
 author: Maria Kulik
-type: page
 date: 2015-12-15T07:50:56+00:00
 
 ---
@@ -13,4 +12,4 @@ Rec. Krystyna Rybicka
 
 NOMINACJA GRAFICZNA KSIĄŻKA ROKU 2015
 
-&nbsp;
+ 

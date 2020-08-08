@@ -16,23 +16,23 @@ Polska Sekcja IBBY zaprasza na swoje stoisko na Targach Książki dla Dzieci, M�
 
 > <div>
 >
-> </div>
+> 
 > 
 > <div>
 >   Targi to oczywiście okazja do spotkań z autorami i książkami, ale towarzyszy im także wiele wyjątkowych atrakcji!
-> </div>
+> 
 > 
 > <div>
 >
-> </div>
+> 
 > 
 > <div>
 >
-> </div>
+> 
 > 
 > <div>
 >   Między innymi:
-> </div>
+> 
 > 
 >   * wręczenie statuetek **„Pegazika”** &#8211; **Honorowej Nagrody towarzyszącej ****XV Poznańskim Spotkaniom Targowym ****Książka dla Dzieci, Młodzieży i Rodziców. **W tym roku wśród nominowanych w kategorii Twórca &#8211; członkowie PS IBBY: pani Krystyna Michałowska i pan Paweł Pawlak! A w kategorii Przyjaciel Książki: Marta Lipczyńska–Gil i Ewa Świerżewska (obie nagrodzone w konkursie PS IBBY „Książka Roku” za upowszechnianie czytelnictwa) oraz Krystyna Rybicka (jurorka w konkursie „Książka Roku”). Trzymamy kciuki!
 > 
@@ -40,26 +40,26 @@ Polska Sekcja IBBY zaprasza na swoje stoisko na Targach Książki dla Dzieci, M�
 > 
 > <div>
 >   Informacje na temat wszystkich wydarzeń znajdziecie Państwo tu:
-> </div>
+> 
 > 
 > <div>
 >
-> </div>
+> 
 > 
 > <div>
 >   <div>
 >     <span class="UFICommentBody"><a dir="ltr" href="http://l.facebook.com/l.php?u=http%3A%2F%2Fwww.targiksiazki.pl%2Fpl%2Fdla-zwiedzajacych%2Fvademecum%2F&h=XAQGf85n6" target="_blank">www.targiksiazki.pl/pl/dla-zwiedzajacych/vademecum/</a></span>
->   </div>
+>   
 >   
 >   <div>
 >
->   </div>
-> </div>
+>   
+> 
 > 
 > <div>
 >
-> </div>
+> 
 > 
 > <div>
 >   Do zobaczenia w Poznaniu!
-> </div>
+> 

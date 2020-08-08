@@ -1,7 +1,6 @@
 ---
 title: Na imię mi Rower!
 author: Maria Kulik
-type: page
 date: 2014-05-28T12:30:02+00:00
 
 ---

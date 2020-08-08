@@ -1,7 +1,6 @@
 ---
 title: Warszawa. Antologia tekstów
 author: Maria Kulik
-type: page
 date: 2015-12-15T07:43:39+00:00
 
 ---

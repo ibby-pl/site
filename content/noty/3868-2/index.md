@@ -1,7 +1,6 @@
 ---
 title: Trzy, dwa, raz, Günter Grass
 author: Tomasz Osadowski
-type: page
 date: 2016-12-17T16:56:54+00:00
 
 ---

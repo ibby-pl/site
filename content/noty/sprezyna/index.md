@@ -1,7 +1,6 @@
 ---
 title: Sprężyna
 author: Michał Zając
-type: page
 date: 2014-02-17T08:05:40+00:00
 
 ---

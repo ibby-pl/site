@@ -23,4 +23,3 @@ W tym roku wśród 200 tytułów pochodzących z 60 krajów znalazły się 4 ksi
 
 Wyróżnionym twórcom i wydawcom serdecznie gratulujemy!
 
-&nbsp;

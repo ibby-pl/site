@@ -15,5 +15,4 @@ categories:
   
   <p class="wp-caption-text">
     Autorkami tegorocznej kartki z życzeniami są Agata Dudek i Małgorzata Nowak z Acapulco Studio, które otrzymały główną nagrodę w konkursie Książka Roku 2016 Polskiej Sekcji IBBY za ilustracje oraz projekt graficzny książki &#8222;Daję słowo. Wędrówki po języku i literaturze&#8221; Grzegorza Leszczyńskiego (Wydawnictwo Tamaryn) oraz nominację za ilustracje i projekt graficzny do książki &#8222;Drzwi. Opowieść o św. Wojciechu&#8221; Anny Czerwińskiej-Rydel (Muchomor).
-  </p>
-</div>
+  

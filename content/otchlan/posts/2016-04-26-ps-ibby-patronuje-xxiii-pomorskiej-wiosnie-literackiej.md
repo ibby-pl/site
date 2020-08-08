@@ -34,4 +34,3 @@ oraz Stowarzyszenia Edukacyjnego „Volumin”, zapraszamy na galę, która odb�
 17 maja o godz. 14 w Teatrze Rondo – Słupskiego Ośrodka Kultury 
 (ul. Niedziałkowskiego 5 a). Więcej informacji na stronie <a href="http://www.pbw.slupsk.pl" target="_blank">www.pbw.slupsk.pl</a>.</pre>
 
-&nbsp;

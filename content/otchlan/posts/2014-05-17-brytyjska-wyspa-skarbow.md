@@ -16,8 +16,6 @@ Podczas tegorocznej edycji pikniku **&#8222;Brytyjska wyspa skarbów&#8221;** sp
 
 <p style="text-align: center;">
   <a href="http://www.ibby.pl/wp-content/uploads/2014/05/bws_ulotka.jpg" rel="lightbox[2031]"><img class="alignnone size-medium wp-image-2033" src="http://www.ibby.pl/wp-content/uploads/2014/05/bws_ulotka-300x194.jpg" alt="BWS - ulotka" width="300" height="194" srcset="http://www.ibby.pl/wp-content/uploads/2014/05/bws_ulotka-300x194.jpg 300w, http://www.ibby.pl/wp-content/uploads/2014/05/bws_ulotka-150x97.jpg 150w, http://www.ibby.pl/wp-content/uploads/2014/05/bws_ulotka-800x519.jpg 800w, http://www.ibby.pl/wp-content/uploads/2014/05/bws_ulotka.jpg 1232w" sizes="(max-width: 300px) 100vw, 300px" /></a>
-</p>
-
 Więcej szczegółów, opisy warsztatów, rozmowy z prowadzącymi zajęcia na:
 
   * <a href="http://www.piknikliteracki.com.pl" target="_blank">www.piknikliteracki.com.pl</a>

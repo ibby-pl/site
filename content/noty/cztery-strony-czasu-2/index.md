@@ -1,7 +1,6 @@
 ---
 title: Cztery strony czasu
 author: Michał Zając
-type: page
 date: 2014-01-04T12:28:12+00:00
 
 ---

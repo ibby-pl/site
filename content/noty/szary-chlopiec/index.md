@@ -1,11 +1,10 @@
 ---
 title: Szary chłopiec
 author: Maria Kulik
-type: page
 date: 2014-02-18T09:20:28+00:00
 
 ---
-&nbsp;
+ 
 
 Lluís Farré, il. Gusti, tłum. Beata Haniec, wyd. Entliczek, ISBN 978-83-63156-03-9, s. 36, oprawa twarda, 262 x 200 mm, wiek 5
 
@@ -19,4 +18,4 @@ Rec. Maria Ryll
 
 WYRÓŻNIENIE DONG 2012
 
-&nbsp;
+ 

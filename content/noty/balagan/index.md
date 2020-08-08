@@ -1,7 +1,6 @@
 ---
 title: Bałagan
 author: Michał Zając
-type: page
 date: 2014-01-04T15:34:22+00:00
 
 ---

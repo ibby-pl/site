@@ -1,7 +1,6 @@
 ---
 title: Doktor Proktor i koniec świata. Być może
 author: Maria Kulik
-type: page
 date: 2014-02-18T09:11:36+00:00
 
 ---
@@ -11,4 +10,4 @@ Przewrotna powieść, zabawna i bezkompromisowa zarazem. Z jednej strony skrzy s
 
 DUŻY   DONG 2012
 
-&nbsp;
+ 

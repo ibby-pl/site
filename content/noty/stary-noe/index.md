@@ -1,7 +1,6 @@
 ---
 title: Stary Noe
 author: Maria Kulik
-type: page
 date: 2015-12-14T07:19:53+00:00
 
 ---
@@ -13,4 +12,4 @@ Rodzice wymagają od dzieci posłuszeństwa, co chętnie uzasadniają troską o 
 
 WYRÓŻNIENIE   LITERACKIE KSIĄŻKA ROKU 2015
 
-&nbsp;
+ 

@@ -1,7 +1,6 @@
 ---
 title: Wiersze na wagarach
 author: Maria Kulik
-type: page
 date: 2014-02-18T08:54:38+00:00
 
 ---

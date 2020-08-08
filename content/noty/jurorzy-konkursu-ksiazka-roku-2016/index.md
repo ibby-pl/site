@@ -1,7 +1,6 @@
 ---
 title: Jurorzy konkursu Książka Roku 2016
 author: Tomasz Osadowski
-type: page
 date: 2016-12-06T22:19:16+00:00
 
 ---
@@ -29,7 +28,7 @@ Artysta, designer i niezależny kurator. Twórca projektów z pogranicza teorii 
 
 Polonistka, przez blisko 45 lat związana z czasopismem „Nowe Książki” jako sekretarz redakcji (od 1975) i jednocześnie jako redaktor prowadząca dział literatury dziecięcej i młodzieżowej (od 1978). Od 1991 do 2002 r. była członkiem zespołu redakcyjnego dwumiesięcznika poświęconego książce dla dzieci „Guliwer”. W latach 80. zasiadała w Radzie Artystycznej przy redakcji czasopisma dla dzieci „Miś”. Była też jurorką w konkursach wydawniczych (m.in. Nasza Księgarnia, Młodzieżowa Agencja Wydawnicza), przewodniczyła jury konkursu Dziecięcy Bestseller Roku &#8211; Duży Dong, a także uczestniczyła w pracach jury konkursu Książka Roku Polskiej Sekcji IBBY (od samego jego początku jako członkini jury, a od dwóch lat jako przewodnicząca). Polska Sekcja IBBY przyznała jej nagrodę za działalność związaną z upowszechnianiem literatury dla dzieci i młodzieży (1988). W 2015 r. została uhonorowana odznaczeniem „Zasłużona dla Kultury Polskiej”.
 
-&nbsp;
+ 
 
 **DR DANUTA ŚWIERCZYŃSKA-JELONEK**
 
@@ -41,4 +40,4 @@ Przez przeszło 30 lat na Wydziale Pedagogicznym Uniwersytetu Warszawskiego prow
 
 Badacz baśni, literatury dziecięcej i młodzieżowej oraz popkultury. Absolwent kulturoznawstwa w Instytucie Kultury Polskiej UW, doktorant w Instytucie Literatury Polskiej UW, członek Pracowni Badań Literatury dla Dzieci i Młodzieży UW, członek Polskiej Sekcji IBBY i juror w konkursie Książka Roku w latach 2015–2016, członek-założyciel Koła Naukowego Baśni, Literatury Dziecięcej i Młodzieżowej i Fantastyki UW. Prowadzi konwersatoria ogólnouniwersyteckie i polonistyczne na temat utworów dla młodych odbiorców oraz zajęcia na studiach podyplomowych „Literatura i książka dla dzieci i młodzieży wobec wyzwań nowoczesności”. Współorganizator i uczestnik konferencji poświęconych literaturze dziecięcej i młodzieżowej. Publikował artykuły naukowe m.in. w „Creatio Fantastica”, „Kontekstach Kultury”, „Masce”, „Tekstualiach” i tomach zbiorowych. Współredaktor monografii: _Harry Potter. Fenomen społeczny, zjawisko literackie – ikona popkultury _(z Weroniką Kostecką), _Geografia krain zmyślonych. Wokół kategorii miejsca i przestrzeni w literaturze dziecięcej, młodzieżowej i fantastycznej _(z Weroniką Kostecką) oraz _Czytanie menażerii. Zwierzęta w literaturze dziecięcej, młodzieżowej i fantastycznej _(z Anną Mik i Patrycją Pokorą). Współpracuje jako recenzent z czasopismami „Nowe Książki” i „Kultura Liberalna”. Przygotowuje rozprawę doktorską na temat obecności odwołań do klasyki dziecięcej w literaturze „dla dorosłych”.
 
-&nbsp;
+ 

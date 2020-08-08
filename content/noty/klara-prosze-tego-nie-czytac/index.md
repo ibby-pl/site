@@ -1,7 +1,6 @@
 ---
 title: Klara. Proszę tego nie czytać!
 author: Maria Kulik
-type: page
 date: 2014-02-18T08:16:31+00:00
 
 ---

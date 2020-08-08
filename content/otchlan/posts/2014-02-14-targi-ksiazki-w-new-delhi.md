@@ -14,8 +14,7 @@ Choć wciąż podziwiani są starzy mistrzowie, to książki młodych artystów 
 
 Tytuł wystawy &#8222;It&#8217;s a Strange World: 20 Illustrators from Poland&#8221;, zaczerpnięty z książki Grażki Lange, dobrze oddaje to, co współcześnie dzieje się w polskiej ilustracji dla dzieci: mnogość stylów, technik, tematów i propozycji zadziwia i zachęca do zadawania pytań.
 
-&nbsp;
+ 
 
-&nbsp;
+ 
 
-&nbsp;

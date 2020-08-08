@@ -14,7 +14,7 @@ Do tytułu Książka Roku jury graficzne i literackie nominuje 30 książek. Tak
 
 Tuż po ogłoszeniu short listy jury konkursu Książka Roku 2016 dzieliło się wrażeniami z wielotygodniowej pracy: ten rok obfitował w dobre książki. Niestety, według regulaminu nominacje mogło otrzymać tylko 30 tytułów. Co oznacza, że wiele ciekawych książek nie miało szansy, by wejść do ścisłego finału, że zabrakło im ułamka punktu, by stanąć w blasku jupiterów. Oto list od jury literackiego, które przesłało pokonkursową listę bis.
 
-&nbsp;
+ 
 
 **Jury literackie poleca**
 
@@ -22,7 +22,7 @@ Tuż po ogłoszeniu short listy jury konkursu Książka Roku 2016 dzieliło się
 
 _Jury literackie konkursu Książka Roku 2016: Irena Bolek-Wiącek, Maciej Skowera, Danuta Świerczyńska-Jelonek_
 
-&nbsp;
+ 
 
 **Książki dla dzieci od lat trzech do sześciu:**
 
@@ -51,7 +51,7 @@ _Jury literackie konkursu Książka Roku 2016: Irena Bolek-Wiącek, Maciej Sko
   * Joanna Wachowiak _Baba Blaga, _Literatura
   * Katarzyna Wasilkowska _Królestwo jakich wiele_, Literatura
 
-&nbsp;
+ 
 
 **Książki dla dzieci od dziewięciu do jedenastu lat:**
 
@@ -65,7 +65,7 @@ _Jury literackie konkursu Książka Roku 2016: Irena Bolek-Wiącek, Maciej Sko
   * Ewa Świerżewska, Łukasz Świerżewski _Wszystko dla Klary_, Wilga/ Foksal
   * Michał Wójcik _Porwanie króla, czyli Olaf i Lena na tropie_, Druganoga
 
-&nbsp;
+ 
 
 **Książki dla czytelników jedenastoletnich – trzynastoletnich:**
 
@@ -75,7 +75,7 @@ _Jury literackie konkursu Książka Roku 2016: Irena Bolek-Wiącek, Maciej Sko
   * Małgorzata Musierowicz _Feblik_, Akapit Press
   * Magdalena Zarębska _Projekt Breslau, _Bis
 
-&nbsp;
+ 
 
 **Książki dla czytelników powyżej trzynastego roku życia:**
 
@@ -88,7 +88,7 @@ _Jury literackie konkursu Książka Roku 2016: Irena Bolek-Wiącek, Maciej Sko
 
   * Dorota Kassjanowicz _30 znikających trampolin_, Albus
 
-&nbsp;
+ 
 
 **Jury graficzne poleca**
 

@@ -1,7 +1,6 @@
 ---
 title: Strachopolis
 author: Maria Kulik
-type: page
 date: 2015-12-14T07:24:26+00:00
 
 ---

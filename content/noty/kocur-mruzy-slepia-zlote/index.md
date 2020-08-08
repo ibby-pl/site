@@ -1,7 +1,6 @@
 ---
 title: Kocur mruży ślepia złote
 author: Maria Kulik
-type: page
 date: 2014-05-28T12:24:30+00:00
 
 ---

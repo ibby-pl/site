@@ -26,16 +26,15 @@ Organizatorem 24. Wrocławskich Targów Dobrych Książek jest Miejska Bibliotek
 
 <a href="http://www.ibby.pl/wp-content/uploads/2015/11/wtdk-ulotkaA6.jpg" rel="lightbox[2647]"><img class="alignnone size-medium wp-image-2648" src="http://www.ibby.pl/wp-content/uploads/2015/11/wtdk-ulotkaA6-142x200.jpg" alt="wtdk-ulotkaA6" width="142" height="200" srcset="http://www.ibby.pl/wp-content/uploads/2015/11/wtdk-ulotkaA6-142x200.jpg 142w, http://www.ibby.pl/wp-content/uploads/2015/11/wtdk-ulotkaA6-71x100.jpg 71w, http://www.ibby.pl/wp-content/uploads/2015/11/wtdk-ulotkaA6-426x600.jpg 426w, http://www.ibby.pl/wp-content/uploads/2015/11/wtdk-ulotkaA6.jpg 500w" sizes="(max-width: 142px) 100vw, 142px" /></a>
 
-&nbsp;
+ 
 
-&nbsp;
+ 
 
-&nbsp;
+ 
 
-&nbsp;
+ 
 
-&nbsp;
+ 
 
-&nbsp;
+ 
 
-&nbsp;

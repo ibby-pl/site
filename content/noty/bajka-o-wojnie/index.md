@@ -1,7 +1,6 @@
 ---
 title: Bajka o Wojnie
 author: Maria Kulik
-type: page
 date: 2015-12-14T07:21:57+00:00
 
 ---
@@ -13,4 +12,4 @@ Wojna to imię dziewczynki z kraju „za siedmioma morzami”, która marzyła, 
 
 WYRÓŻNIENIE   LITERACKIE KSIĄŻKA ROKU 2015
 
-&nbsp;
+ 

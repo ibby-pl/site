@@ -27,11 +27,11 @@ Jury graficzne konkursu Polskiej Sekcji IBBY „Książka Roku 2016” w składz
 
 <img class="wp-image-3691 size-thumbnail alignleft" src="http://www.ibby.pl/wp-content/uploads/2016/12/nagroda_graf_obrazkowa-102x100.jpg" alt="nagroda_graf_obrazkowa" width="102" height="100" srcset="http://www.ibby.pl/wp-content/uploads/2016/12/nagroda_graf_obrazkowa-102x100.jpg 102w, http://www.ibby.pl/wp-content/uploads/2016/12/nagroda_graf_obrazkowa-205x200.jpg 205w, http://www.ibby.pl/wp-content/uploads/2016/12/nagroda_graf_obrazkowa.jpg 516w" sizes="(max-width: 102px) 100vw, 102px" />
 
-&nbsp;
+ 
 
-&nbsp;
+ 
 
-&nbsp;
+ 
 
 **Małgorzacie Gurowskiej, Monice Hanulak, Marcie Ignerskiej, Agnieszce Kucharskiej-Zajkowskiej, Annie Niemierko, Gosi Urbańskiej-Macias, Justynie Wróblewskiej** za ilustracje i projekt graficzny do książki _<a href="http://www.ibby.pl/?page_id=3838" target="_blank">Kern. Wiersze dla dzieci</a>, _Wytwórnia
 
@@ -39,11 +39,11 @@ Jury graficzne konkursu Polskiej Sekcji IBBY „Książka Roku 2016” w składz
 
 <img class="alignleft wp-image-3690 size-thumbnail" src="http://www.ibby.pl/wp-content/uploads/2016/12/nagroda_graf_ilustr-102x100.jpg" alt="nagroda_graf_ilustr" width="102" height="100" srcset="http://www.ibby.pl/wp-content/uploads/2016/12/nagroda_graf_ilustr-102x100.jpg 102w, http://www.ibby.pl/wp-content/uploads/2016/12/nagroda_graf_ilustr-205x200.jpg 205w, http://www.ibby.pl/wp-content/uploads/2016/12/nagroda_graf_ilustr.jpg 516w" sizes="(max-width: 102px) 100vw, 102px" />
 
-&nbsp;
+ 
 
-&nbsp;
+ 
 
-&nbsp;
+ 
 
 **Agacie Dudek, Małgorzacie Nowak** za ilustracje i projekt graficzny do książki _<a href="http://www.ibby.pl/?page_id=3854" target="_blank">Daję słowo. Wędrówki po języku i literaturze</a>, _Wydawnictwo Tamaryn
 
@@ -55,11 +55,11 @@ _w kategorii książka obrazkowa_
 
 <img class="alignleft wp-image-3695 size-thumbnail" src="http://www.ibby.pl/wp-content/uploads/2016/12/wyroznienie_obrazkowa-102x100.jpg" alt="wyroznienie_obrazkowa" width="102" height="100" srcset="http://www.ibby.pl/wp-content/uploads/2016/12/wyroznienie_obrazkowa-102x100.jpg 102w, http://www.ibby.pl/wp-content/uploads/2016/12/wyroznienie_obrazkowa-205x200.jpg 205w, http://www.ibby.pl/wp-content/uploads/2016/12/wyroznienie_obrazkowa.jpg 516w" sizes="(max-width: 102px) 100vw, 102px" />
 
-&nbsp;
+ 
 
-&nbsp;
+ 
 
-&nbsp;
+ 
 
   * **Monice Hanulak**, **Grażce Lange** za książkę <a href="http://www.ibby.pl/?page_id=3882" target="_blank"><em>Wytwórnik. Kalendarz 2017</em></a>, Wytwórnia
 
@@ -79,11 +79,11 @@ Jury literackie konkursu Polskiej Sekcji IBBY „Książka Roku 2016” w skład
 
 <img class="wp-image-3692 size-thumbnail alignleft" src="http://www.ibby.pl/wp-content/uploads/2016/12/nagroda_lit-102x100.jpg" alt="nagroda_lit" width="102" height="100" srcset="http://www.ibby.pl/wp-content/uploads/2016/12/nagroda_lit-102x100.jpg 102w, http://www.ibby.pl/wp-content/uploads/2016/12/nagroda_lit-205x200.jpg 205w, http://www.ibby.pl/wp-content/uploads/2016/12/nagroda_lit.jpg 516w" sizes="(max-width: 102px) 100vw, 102px" />
 
-&nbsp;
+ 
 
-&nbsp;
+ 
 
-&nbsp;
+ 
 
   * **Marcinowi Szczygielskiemu** za książkę dla dzieci <a href="http://www.ibby.pl/?page_id=3729" target="_blank"><em>Klątwa dziewiątych urodzin</em></a>, Wydawnictwo Bajka
   * **Joannie Fabickiej** za książkę dla młodzieży <a href="http://www.ibby.pl/?page_id=3765" target="_blank"><em>Rutka</em></a>, Wydawnictwo Agora
@@ -94,11 +94,11 @@ Jury przyznało **wyróżnienia**:
 
 <img class="alignleft wp-image-3696 size-thumbnail" src="http://www.ibby.pl/wp-content/uploads/2016/12/wyroznienie-lit-102x100.jpg" alt="wyroznienie-lit" width="102" height="100" srcset="http://www.ibby.pl/wp-content/uploads/2016/12/wyroznienie-lit-102x100.jpg 102w, http://www.ibby.pl/wp-content/uploads/2016/12/wyroznienie-lit-205x200.jpg 205w, http://www.ibby.pl/wp-content/uploads/2016/12/wyroznienie-lit.jpg 516w" sizes="(max-width: 102px) 100vw, 102px" />
 
-&nbsp;
+ 
 
-&nbsp;
+ 
 
-&nbsp;
+ 
 
   * **Grażynie Bąkiewicz** za książkę <a href="http://www.ibby.pl/?page_id=3769" target="_blank"><em>Mówcie mi Bezprym</em></a>. Wydawnictwo Literatura
   * **Jarosławowi Mikołajewskiemu** za książkę <a href="http://www.ibby.pl/?page_id=3773" target="_blank"><em>Wędrówka Nabu</em></a>, Austeria

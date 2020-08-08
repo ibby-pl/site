@@ -1,7 +1,6 @@
 ---
 title: Janusz Stanny nie żyje
 author: Michał Zając
-type: page
 date: 2014-02-14T17:43:47+00:00
 
 ---

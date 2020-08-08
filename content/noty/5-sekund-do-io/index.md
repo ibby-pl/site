@@ -1,7 +1,6 @@
 ---
 title: 5 sekund do Io
 author: Maria Kulik
-type: page
 date: 2015-12-14T07:17:49+00:00
 
 ---

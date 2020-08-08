@@ -1,11 +1,10 @@
 ---
 title: O wiadukcie kolejowym, który chciał zostać mostem nad rzeką
 author: Maria Kulik
-type: page
 date: 2014-12-06T16:47:08+00:00
 
 ---
-&nbsp;
+ 
 
 **Tekst**: Tina Oziewicz
 

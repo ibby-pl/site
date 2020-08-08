@@ -1,7 +1,6 @@
 ---
 title: Jak Stańczyk z dworzan zażartował
 author: Michał Zając
-type: page
 date: 2014-01-04T15:30:11+00:00
 
 ---

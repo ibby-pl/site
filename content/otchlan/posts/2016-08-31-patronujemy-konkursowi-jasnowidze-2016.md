@@ -21,12 +21,11 @@ Z najciekawszych zgłoszonych projektów stworzono interaktywną <a href="http
   
   <p class="wp-caption-text">
     ????
-  </p>
-</div>
+  
 
 Przybrała ona także formę książki aktywnościowej – katalogu konkursowego wydanego we współpracy z Narodowym Centrum Kultury (<a href="http://www.wydawnictwodwiesiostry.pl/jasnowidze/katalog_jasnowidze_2014_2015.pdf" target="_blank">http://www.wydawnictwodwiesiostry.pl/jasnowidze/katalog_jasnowidze_2014_2015.pdf</a>).
 
-&nbsp;
+ 
 
 **Zasady konkursu**
 
@@ -61,4 +60,4 @@ Regulamin konkursu:  <a href="http://www.wydawnictwodwiesiostry.pl/dwiesiostry_
 
 ** **
 
-&nbsp;
+ 

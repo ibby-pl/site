@@ -1,7 +1,6 @@
 ---
 title: Iqbal
 author: Michał Zając
-type: page
 date: 2014-02-16T17:57:18+00:00
 
 ---

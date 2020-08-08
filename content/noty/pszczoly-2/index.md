@@ -1,7 +1,6 @@
 ---
 title: Pszczoły
 author: Tomasz Osadowski
-type: page
 date: 2016-03-28T15:31:51+00:00
 
 ---

@@ -28,4 +28,3 @@ Każdy czytelnik ma coś wspólnego z drugim odbiorcą tej samej opowieści. Oso
 
 Czytajcie !
 
-&nbsp;

@@ -1,7 +1,6 @@
 ---
 title: Król
 author: Maria Kulik
-type: page
 date: 2015-12-14T07:23:12+00:00
 
 ---
@@ -15,4 +14,4 @@ Rec. Danuta Świerczyńska-Jelonek
 
 WYRÓŻNIENIE   LITERACKIE KSIĄŻKA ROKU 2015
 
-&nbsp;
+ 

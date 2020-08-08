@@ -20,7 +20,7 @@ Więcej informacji o targach: <a href="http://targi-ksiazki.waw.pl/Program" tar
 
 <ol start="8">
   <li>
-    <strong> Warszawskie Targi Książki to:</strong>
+     Warszawskie Targi Książki to:
   </li>
 </ol>
 

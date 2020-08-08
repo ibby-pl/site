@@ -21,5 +21,4 @@ must have 2016:
 <div class="text_exposed_show">
   <p>
     Gratulujemy!!!
-  </p>
-</div>
+  

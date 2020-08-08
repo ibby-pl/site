@@ -1,7 +1,6 @@
 ---
 title: M jak dżem
 author: Michał Zając
-type: page
 date: 2014-02-16T17:51:16+00:00
 
 ---

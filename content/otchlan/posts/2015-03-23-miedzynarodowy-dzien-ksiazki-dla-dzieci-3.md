@@ -14,4 +14,3 @@ W tym roku gospodarzem dnia są **Zjednoczone Emiraty Arabskie**, plakat projekt
 
 Tekst tego przesłania, w tłumaczeniu Anny Onichimowskiej, znajduje się  <a href="http://www.ibby.pl/files/icbd_motto2015.pdf" target="_blank">tutaj</a>
 
-&nbsp;

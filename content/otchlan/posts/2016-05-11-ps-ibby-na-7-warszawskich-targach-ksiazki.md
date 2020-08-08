@@ -12,7 +12,7 @@ categories:
 
 **Targi odbędą się w dniach 19-22 maja** **na PGE Narodowym. Gościem ****Honorowym Targów są Węgry, Gościem Specjalnym – Barcelona i literatura katalońska.**
 
-<a href="http://www.ibby.pl/?p=3153" target="_blank">PS IBBY zaprasza na stoisko <strong>11/BC, </strong>w tym na spotkania autorskie z czołowymi polskimi twórcami książek dla dzieci i młodzieży.</a>
+<a href="http://www.ibby.pl/?p=3153" target="_blank">PS IBBY zaprasza na stoisko 11/BC, w tym na spotkania autorskie z czołowymi polskimi twórcami książek dla dzieci i młodzieży.</a>
 
 <!--more-->
 

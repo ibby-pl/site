@@ -1,7 +1,6 @@
 ---
 title: Majn Alef Bejs
 author: Michał Zając
-type: page
 date: 2014-01-04T15:32:49+00:00
 
 ---

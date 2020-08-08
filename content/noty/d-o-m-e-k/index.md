@@ -1,7 +1,6 @@
 ---
 title: D.O.M.E.K
 author: Maria Kulik
-type: page
 date: 2014-05-28T12:19:02+00:00
 
 ---

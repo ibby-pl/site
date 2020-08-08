@@ -1,7 +1,6 @@
 ---
 title: Wilk, pies i owce
 author: Michał Zając
-type: page
 date: 2014-01-04T13:11:55+00:00
 
 ---

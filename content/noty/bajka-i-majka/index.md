@@ -1,7 +1,6 @@
 ---
 title: Bajka i Majka
 author: Michał Zając
-type: page
 date: 2014-01-04T13:20:13+00:00
 
 ---

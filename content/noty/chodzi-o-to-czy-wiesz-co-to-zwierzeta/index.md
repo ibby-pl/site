@@ -1,7 +1,6 @@
 ---
 title: Chodzi o to, czy wiesz co to. Zwierzęta?
 author: Maria Kulik
-type: page
 date: 2014-12-06T15:59:15+00:00
 
 ---

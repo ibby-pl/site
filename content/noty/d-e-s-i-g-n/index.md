@@ -1,7 +1,6 @@
 ---
 title: D.E.S.I.G.N
 author: Maria Kulik
-type: page
 date: 2014-02-18T07:43:02+00:00
 
 ---

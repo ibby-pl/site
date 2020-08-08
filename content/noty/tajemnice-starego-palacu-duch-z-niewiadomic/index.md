@@ -1,7 +1,6 @@
 ---
 title: Tajemnice starego pałacu. Duch z Niewiadomic
 author: Maria Kulik
-type: page
 date: 2014-12-06T15:27:00+00:00
 
 ---

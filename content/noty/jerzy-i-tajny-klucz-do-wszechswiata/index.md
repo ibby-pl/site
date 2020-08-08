@@ -1,7 +1,6 @@
 ---
 title: Jerzy i tajny klucz do Wszechświata
 author: Michał Zając
-type: page
 date: 2014-02-17T08:00:57+00:00
 
 ---

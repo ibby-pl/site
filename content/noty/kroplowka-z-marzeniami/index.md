@@ -1,7 +1,6 @@
 ---
 title: Kroplówka z marzeniami
 author: Maria Kulik
-type: page
 date: 2014-05-28T12:27:06+00:00
 
 ---
@@ -13,6 +12,6 @@ Bohaterka powieści Lilka ma 13 lat, kiedy ulega groźnemu wypadkowi. Jej życie
 
 NOMINACJA  LITERACKA KSIĄŻKA ROKU 2008
 
-&nbsp;
+ 
 
 ** **

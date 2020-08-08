@@ -1,7 +1,6 @@
 ---
 title: Wielka księga młodego filozofa
 author: Maria Kulik
-type: page
 date: 2014-02-18T08:19:06+00:00
 
 ---

@@ -1,7 +1,6 @@
 ---
 title: Dzicy lokatorzy
 author: Maria Kulik
-type: page
 date: 2014-12-06T15:31:03+00:00
 
 ---

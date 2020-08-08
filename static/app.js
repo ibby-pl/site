@@ -1,8 +1,5 @@
-// -------search form---------
-document.querySelector('.searchbox [type="reset"]').addEventListener('click', function() {  this.parentNode.querySelector('input').focus();});
-
 // ---------------carousel-------
-$('#myCarousel').carousel({
+$('#nominacjeLiteratura').carousel({
   interval: 4000
 });
 
@@ -11,10 +8,11 @@ $('.carousel .item').each(function(){
   if (!next.length) {
     next = $(this).siblings(':first');
   }
+
   next.children(':first-child').clone().appendTo($(this));
 
-  for (var i=0;i<2;i++) {
-    next=next.next();
+  for (var i=0; i<2; i++) {
+    next = next.next();
     if (!next.length) {
       next = $(this).siblings(':first');
     }
@@ -25,7 +23,7 @@ $('.carousel .item').each(function(){
 
 // ----------carousel2------------
 
-$('#myCarousel2').carousel({
+$('#nominacjeGrafika').carousel({
   interval: 5000
 });
 

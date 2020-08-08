@@ -1,7 +1,6 @@
 ---
 title: Nic
 author: Maria Kulik
-type: page
 date: 2014-05-28T12:22:57+00:00
 
 ---

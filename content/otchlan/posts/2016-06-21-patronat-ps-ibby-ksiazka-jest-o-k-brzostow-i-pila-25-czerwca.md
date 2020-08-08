@@ -25,28 +25,27 @@ Info: PiMBP, tel. 67 351 – 79 03, email: informacja@biblioteka.pila.pl
 
 *Adam Wójcicki: malarz, rysownik komiksowy i ilustrator. Absolwent katowickiej Akademii Sztuk Pięknych. Dyplom z wyróżnieniem &#8211; współczesną wizualna interpretację wybranych baśni Jacoba i Wilhelma Grimm &#8211; &#8222;Grimm Fairy tales&#8221; zrealizował w pracowni książki autorskiej Bogny Otto Węgrzyn w 2014 r. Obecnie zajmuje się głównie ilustrowaniem książek i plakatem. Współpracował z wydawnictwami &#8222;Tibum&#8221;, &#8222;Portal&#8221;, &#8222;Ha Art!&#8221;, &#8222;Dwie siostry&#8221; czy &#8222;Format&#8221;. Wraz z Markiem Bieńczykiem i wydawnictwem „Format” nagrodzony wyróżnieniem &#8222;Pióra Fredry w 2012 roku za książkę &#8222;Nussi i coś więcej&#8221;.
 
-&nbsp;
+ 
 
-&nbsp;
+ 
 
-&nbsp;
+ 
 
-&nbsp;
+ 
 
-&nbsp;
+ 
 
-&nbsp;
+ 
 
-&nbsp;
+ 
 
-&nbsp;
+ 
 
-&nbsp;
+ 
 
-&nbsp;
+ 
 
-&nbsp;
+ 
 
-&nbsp;
+ 
 
-&nbsp;

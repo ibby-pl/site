@@ -9,26 +9,19 @@ categories:
 
 ---
 <div>
-  Członkom PS IBBY przypominamy, że spotykamy się w najbliższą sobotę <strong>13 maja 2017 r.</strong> na Zwyczajnym Walnym Zgromadzeniu Członków.
-</div>
+  Członkom PS IBBY przypominamy, że spotykamy się w najbliższą sobotę 13 maja 2017 r. na Zwyczajnym Walnym Zgromadzeniu Członków.
+
 
 <div>
-</div>
+
 
 <div>
   <p>
-    Miejsce: sala konferencyjno-widowiskowa <a href="http://www.mbddim.pl/">Multimedialnej Biblioteki dla Dzieci i Młodzieży nr XXXI</a> <strong>Warszawa – Mokotów, ul Tyniecka 40 a.</strong>
-  </p>
-  
+    Miejsce: sala konferencyjno-widowiskowa <a href="http://www.mbddim.pl/">Multimedialnej Biblioteki dla Dzieci i Młodzieży nr XXXI</a> Warszawa – Mokotów, ul Tyniecka 40 a.
   <p>
-    Początek: godzina <strong>10.00</strong>.
-  </p>
-  
+    Początek: godzina 10.00.
   <p>
     <a href="http://www.ibby.pl/wp-content/uploads/2013/02/SPRAWOZDANIE_z_dzialalno%C5%9Bci_zarza%CC%A8du_PS-IBBY_2016.pdf" target="_blank" rel="noopener noreferrer">Sprawozdanie z działalności zarządu</a> w roku 2016 znajdą Państwo w zakładce &#8222;Sprawozdania&#8221;.
-  </p>
-  
   <p>
     Do zobaczenia!
-  </p>
-</div>
+  

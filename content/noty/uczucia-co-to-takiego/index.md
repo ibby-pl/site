@@ -1,7 +1,6 @@
 ---
 title: Uczucia. Co to takiego?
 author: Maria Kulik
-type: page
 date: 2014-02-18T09:03:50+00:00
 
 ---

@@ -27,6 +27,5 @@ jest wysoki poziom literacki i artystyczny, a także uniwersalne
 przesłanie, dające książce możliwość i szansę zaistnienia na
 szerokim rynku.</pre>
 
-&nbsp;
+ 
 
-&nbsp;

@@ -1,7 +1,6 @@
 ---
 title: Diabełek
 author: Maria Kulik
-type: page
 date: 2014-02-18T07:39:53+00:00
 
 ---

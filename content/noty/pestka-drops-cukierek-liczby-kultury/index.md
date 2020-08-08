@@ -1,7 +1,6 @@
 ---
 title: Pestka, drops, cukierek. Liczby kultury
 author: Michał Zając
-type: page
 date: 2014-01-04T13:13:02+00:00
 
 ---

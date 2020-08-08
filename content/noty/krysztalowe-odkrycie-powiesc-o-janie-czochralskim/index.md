@@ -1,7 +1,6 @@
 ---
 title: Kryształowe odkrycie. Powieść o Janie Czochralskim
 author: Michał Zając
-type: page
 date: 2014-01-04T13:10:57+00:00
 
 ---

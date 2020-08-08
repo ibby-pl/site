@@ -24,6 +24,5 @@ Zachęcamy wszystkich członków i sympatyków do uczestnictwa w zbiórce, a tak
 
 Bez Waszej pomocy realizacja naszych ambitnych zamierzeń może stanąć pod znakiem zapytania. Nieopłacenie składki rocznej do Centrali będzie skutkować zamknięciem naszej polskiej sekcji.
 
-&nbsp;
+ 
 
-&nbsp;

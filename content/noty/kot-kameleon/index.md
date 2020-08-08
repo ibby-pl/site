@@ -1,7 +1,6 @@
 ---
 title: Kot kameleon
 author: Maria Kulik
-type: page
 date: 2014-12-06T16:19:04+00:00
 
 ---

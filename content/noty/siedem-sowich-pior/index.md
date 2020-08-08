@@ -1,7 +1,6 @@
 ---
 title: Siedem sowich piór
 author: Maria Kulik
-type: page
 date: 2014-05-28T12:28:42+00:00
 
 ---

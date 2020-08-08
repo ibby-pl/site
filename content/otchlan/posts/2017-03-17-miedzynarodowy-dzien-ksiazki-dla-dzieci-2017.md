@@ -42,7 +42,7 @@ _            Kiedy jakikolwiek chłopiec lub dziewczynka mówią: „
 
 _            Właśnie dla niej pisarze dla dzieci piszą swoje książki!_
 
-&nbsp;
+ 
 
 * * *
 
@@ -148,8 +148,8 @@ Międzynarodowy Dzień Książki dla Dzieci obchodzony jest po raz 50. Pierwszy 
 
 2016 Brazylia
 
-&nbsp;
+ 
 
-&nbsp;
+ 
 
  [1]: http://www.ibby.pl/wp-content/uploads/2017/03/poster_02.04.2017.pdf

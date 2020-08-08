@@ -1,11 +1,10 @@
 ---
 title: Lokomotywa/Ideolo
 author: Maria Kulik
-type: page
 date: 2014-12-06T15:38:25+00:00
 
 ---
-&nbsp;
+ 
 
 **Koncepcja: **Ma<span style="font-family: Calibri;"><span lang="P">łgorzata Gurowska / Joanna Ruszczyk, </span></span>**Wybór tekstów: **Joanna Ruszczyk, **Projekt graficzny: **Ma<span style="font-family: Calibri;"><span lang="P">łgorzata Gurowska<b> ,</b></span></span>**Wydawnictwo:** FUNDACJA SZTUCZNA/WYTWÓRNIA, Zrealizowano na zlecenie Instytutu Ksi<span style="font-family: Calibri;"><span lang="P">ążki, </span></span>Warszawa 2014, **Oprawa**: twarda, 25 x 23 cm, s. <span style="font-family: Calibri;">164, </span>**ISBN**: 978-83-64011-04-7
 
@@ -13,4 +12,4 @@ date: 2014-12-06T15:38:25+00:00
 
 <span style="color: #222222;">WYRÓ</span><span style="color: #222222; font-family: Calibri;"><span style="color: #222222; font-family: Calibri;"><span lang="P">Ż</span></span></span><span style="color: #222222;"><span lang="EN">NIENIE GRAFICZNE KSI</span></span><span style="color: #222222; font-family: Calibri;"><span style="color: #222222; font-family: Calibri;"><span lang="P">ĄŻKA ROKU 2014</span></span></span>
 
-&nbsp;
+ 

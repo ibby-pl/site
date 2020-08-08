@@ -1,7 +1,6 @@
 ---
 title: Teatr Niewidzialnych Dzieci
 author: Tomasz Osadowski
-type: page
 date: 2016-12-17T15:45:06+00:00
 
 ---

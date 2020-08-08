@@ -1,7 +1,6 @@
 ---
 title: Opowieści spod oliwnego drzewa
 author: Maria Kulik
-type: page
 date: 2014-12-06T15:28:00+00:00
 
 ---

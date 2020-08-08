@@ -23,4 +23,3 @@ Ustanowiona przez Parę Prezydencką w 2014 roku nagroda ma wspierać ideę wych
 
 Więcej na <a href="http://www.prezydent.pl" target="_blank">www.prezydent.pl</a>
 
-&nbsp;

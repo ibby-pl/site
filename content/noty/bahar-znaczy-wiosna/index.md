@@ -1,7 +1,6 @@
 ---
 title: Bahar znaczy Wiosna
 author: Tomasz Osadowski
-type: page
 date: 2016-12-17T16:17:43+00:00
 
 ---

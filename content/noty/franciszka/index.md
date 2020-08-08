@@ -1,7 +1,6 @@
 ---
 title: Franciszka
 author: Maria Kulik
-type: page
 date: 2014-12-06T16:23:13+00:00
 
 ---

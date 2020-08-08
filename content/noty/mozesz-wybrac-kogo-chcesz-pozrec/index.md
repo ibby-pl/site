@@ -1,7 +1,6 @@
 ---
 title: Możesz wybrać, kogo chcesz pożreć
 author: Maria Kulik
-type: page
 date: 2014-12-06T16:21:12+00:00
 
 ---
@@ -13,6 +12,6 @@ Pobudzająca do refleksji powieść nastolatkach i o tym, że zawsze można znal
 
 NOMINACJA  LITERACKA KSIĄŻKA ROKU 2014
 
-&nbsp;
+ 
 
-&nbsp;
+ 

@@ -1,7 +1,6 @@
 ---
 title: Pelikan; opowieść z miasta
 author: Michał Zając
-type: page
 date: 2014-02-17T08:03:38+00:00
 
 ---

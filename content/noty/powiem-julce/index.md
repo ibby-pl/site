@@ -1,7 +1,6 @@
 ---
 title: Powiem Julce
 author: Maria Kulik
-type: page
 date: 2014-05-28T12:21:23+00:00
 
 ---
@@ -15,4 +14,4 @@ Krystyna Siesicka, na przykładzie losów jednostki, podejmuje ważny wątek his
 
 WYRÓŻNIENIE LITERACKIE KSIĄŻKA ROKU 2008
 
-&nbsp;
+ 

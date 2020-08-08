@@ -1,7 +1,6 @@
 ---
 title: Jedno oko na Maroko
 author: Michał Zając
-type: page
 date: 2014-01-04T13:09:48+00:00
 
 ---

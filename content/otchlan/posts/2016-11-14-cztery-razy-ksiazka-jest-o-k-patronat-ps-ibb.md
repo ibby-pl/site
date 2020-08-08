@@ -31,7 +31,7 @@ Joanna Rudniańska, z wykształcenia matematyk. Współpracowała z „Fantastyk
 
 <ol start="2">
   <li>
-    <strong><a href="http://www.ibby.pl/?page_id=2726" target="_blank">„Cuda Wianki. Polski folklor dla młodszych i starszych”</a> z Marianną Oklejak</strong>
+    <a href="http://www.ibby.pl/?page_id=2726" target="_blank">„Cuda Wianki. Polski folklor dla młodszych i starszych”</a> z Marianną Oklejak
   </li>
 </ol>
 
@@ -47,6 +47,6 @@ Czy sztuka tradycyjna jest czymś innym niż cepelią? Jest wciąż żywa, intry
 
 Marianna Oklejak &#8211;  graficzka, ilustratorka (seria „Basia”, „Jestem miasto. Warszawa”, „ Siedmiu wspaniałych”, „Król Maciuś Pierwszy”), miłośniczka polskiej kultury ludowej.
 
-&nbsp;
+ 
 
-&nbsp;
+ 

@@ -9,12 +9,12 @@ categories:
 
 ---
 <pre><span style="color: #000000;">9 maja</span> Akademia Sztuk Pięknych w Katowicach po raz piąty zorganizowała 
-wydarzenie <strong>„Książka dobrze zaprojektowana –  zacznijmy od dzieci”</strong>. 
+wydarzenie „Książka dobrze zaprojektowana –  zacznijmy od dzieci”. 
 W programie: konkurs na projekt książki, konferencja oraz wystawy towarzyszące, 
 m.in. ilustracji Iwony Chmielewskiej.
-<span style="text-decoration: underline;"><strong>Wystawa czynna do 9 czerwca!</strong></span>
+<span style="text-decoration: underline;">Wystawa czynna do 9 czerwca!</span>
 
-<strong>Oto wyniki konkursu na najlepszy projekt książki dla najmłodszych odbiorców:</strong>
+Oto wyniki konkursu na najlepszy projekt książki dla najmłodszych odbiorców:
 - Piotr Kowalczyk - I nagroda + wyróżnienie wyd. Wytwórnia za projekt Cisza
 - Huang Ya-Ling - II nagroda za projekty See you later Aligator i The day after yesterday
 - Anna Trzpil - III nagroda za projekt Jaś i Małgosia
@@ -47,43 +47,43 @@ na wystawę pokonkursową 51 autorów.
 <em>Lista autorów i prac zakwalifikowanych na wystawę: <a href="http://tiny.pl/grgs2" target="_blank">http://tiny.pl/grgs2</a></em>
 
 W programie:
-<span style="color: #000000;"><strong>Konferencja „Książka dla dzieci – jak to się robi?”</strong> </span>
+<span style="color: #000000;">Konferencja „Książka dla dzieci – jak to się robi?” </span>
 (ul. Raciborska 50, nowy budynek ASP, sala kinowa)
 
-<strong>9.15</strong> uroczyste otwarcie
-<strong>9.30</strong> Karolina Kornek, ASP Katowice „Ilustracja – swobodna ekspresja 
+9.15 uroczyste otwarcie
+9.30 Karolina Kornek, ASP Katowice „Ilustracja – swobodna ekspresja 
 artystyczna czy rzetelny proces projektowy?”
-<strong>10.00</strong> Magdalena Wosik, ASP Wrocław „Dziecinnie proste?”
-<strong>10.30</strong> Anita Wincencjusz-Patyna, ASP Wrocław „Cudze znamy, swoje 
+10.00 Magdalena Wosik, ASP Wrocław „Dziecinnie proste?”
+10.30 Anita Wincencjusz-Patyna, ASP Wrocław „Cudze znamy, swoje 
 chwalimy. Promocja polskiej książki obrazkowej za granicą. Projekt Look!
 Polish Picturebook”
-<strong>11.15</strong> (do 12.00) Mateusz Kokot, UA w Poznaniu „Ilustracja musi tańczyć!
+11.15 (do 12.00) Mateusz Kokot, UA w Poznaniu „Ilustracja musi tańczyć!
 – o potrzebie czwartego wymiaru w projektowaniu ilustracji”; Dominika 
 Czerniak, UA w Poznaniu „Małe PIWo – czyli o Pracowni Ilustracji 
 Wydawniczej w skrócie”
-<strong>12.30</strong> Grażka Lange, Monika Hanulak, ASP Warszawa „Czadowe
+12.30 Grażka Lange, Monika Hanulak, ASP Warszawa „Czadowe
 książeczki”
-<strong>13.00</strong> Magda Kłos-Podsiadło, wydawnictwo Wytwórnia „Tu czy tam? O 
+13.00 Magda Kłos-Podsiadło, wydawnictwo Wytwórnia „Tu czy tam? O 
 wystawie współczesnej polskiej ilustracji dla dzieci w Zachęcie. 
 Komentarz kuratorki”
-<strong>13.30</strong> Iwona Chmielewska „Między pokorą a pychą – o dylematach
+13.30 Iwona Chmielewska „Między pokorą a pychą – o dylematach
 autorki”
 
-<strong>Wystawy</strong> (galeria ASP w Katowicach Rondo Sztuki, Rondo im. gen. Jerzego 
+Wystawy (galeria ASP w Katowicach Rondo Sztuki, Rondo im. gen. Jerzego 
 Ziętka 1)
 
-<strong>16.30</strong>, galeria poziom +1
+16.30, galeria poziom +1
 Wernisaż wystawy pokonkursowej „Książka dobrze zaprojektowana – 
 zacznijmy od dzieci”, uroczyste wręczenie nagród
-<strong>17.00</strong>, galeria poziom 0, 
+17.00, galeria poziom 0, 
 Wernisaż wystawy Iwony Chmielewskiej „Magazyn ogólnego przeznaczenia”
 w ramach cyklu „Mistrzowie Ilustracji”. Na wystawie zaprezentowane 
 zostanie kilkadziesiąt oryginalnych dzieł wykonanych w charakterystycznych 
 dla artystki technikach plastycznych łączących m.in. rysunek, grafikę, tkaninę 
 oraz collage z wykorzystaniem gazet, starych papierów, papierów fakturowych, 
 fotografii, drobnych przedmioty codziennego użytku. 
-<strong>Wystawa będzie czynna do 9 czerwca.</strong> Kurator wystawy: Wojciech Luchowski.
+Wystawa będzie czynna do 9 czerwca. Kurator wystawy: Wojciech Luchowski.
 
 </pre>
 
-&nbsp;
+ 

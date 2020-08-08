@@ -1,7 +1,6 @@
 ---
 title: Obcy w lesie
 author: Maria Kulik
-type: page
 date: 2015-12-14T07:20:56+00:00
 
 ---

@@ -1,7 +1,6 @@
 ---
 title: KrUlewna Śnieżka
 author: Michał Zając
-type: page
 date: 2014-02-17T07:56:38+00:00
 
 ---

@@ -1,7 +1,6 @@
 ---
 title: Klątwa dziewiątych urodzin
 author: Tomasz Osadowski
-type: page
 date: 2016-12-17T15:13:24+00:00
 
 ---

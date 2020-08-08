@@ -1,7 +1,6 @@
 ---
 title: Przygody przyrody
 author: Maria Kulik
-type: page
 date: 2014-05-28T12:20:01+00:00
 
 ---
@@ -13,4 +12,4 @@ Książka nagrodzona za spójność w obrazowaniu serii zabawnych wierszy; ilust
 
 NAGRODA GRAFICZNA KSIĄŻKA ROKU 2008
 
-&nbsp;
+ 

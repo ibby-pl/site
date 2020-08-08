@@ -1,7 +1,6 @@
 ---
 title: Florka
 author: Michał Zając
-type: page
 date: 2014-02-17T08:01:49+00:00
 
 ---

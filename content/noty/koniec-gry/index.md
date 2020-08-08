@@ -1,7 +1,6 @@
 ---
 title: Koniec gry
 author: Michał Zając
-type: page
 date: 2013-06-23T15:55:02+00:00
 
 ---
@@ -13,4 +12,4 @@ Rec. Weronika Kostecka.
 
 NOMINACJA LITERACKA KSIĄŻKA ROKU 2012
 
-&nbsp;
+ 

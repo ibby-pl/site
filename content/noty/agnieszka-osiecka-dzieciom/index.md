@@ -1,7 +1,6 @@
 ---
 title: Agnieszka Osiecka dzieciom
 author: Maria Kulik
-type: page
 date: 2014-02-18T07:42:08+00:00
 
 ---

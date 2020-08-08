@@ -1,7 +1,6 @@
 ---
 title: Drzwi. Opowieść o św. Wojciechu
 author: Tomasz Osadowski
-type: page
 date: 2016-12-17T17:23:36+00:00
 
 ---

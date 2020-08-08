@@ -24,4 +24,3 @@ Partnerem warsztatów Ciotki Książkuli jest NARODOWE CENTRUM KULTURY w ramach 
   
 NARODOWE CENTRUM KULTURY przekazało także materiały i nagrody do warsztatów na postawie książki „Puszek, Druciak, Zakładka i inne isty” autorstwa Anny Karwińskiej.
 
-&nbsp;

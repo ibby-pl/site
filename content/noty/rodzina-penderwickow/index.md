@@ -1,7 +1,6 @@
 ---
 title: Rodzina Penderwicków
 author: Michał Zając
-type: page
 date: 2014-02-16T17:50:41+00:00
 
 ---

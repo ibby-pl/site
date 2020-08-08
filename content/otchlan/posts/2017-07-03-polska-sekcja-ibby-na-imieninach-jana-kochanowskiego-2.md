@@ -15,24 +15,21 @@ W sobotni pogodny dzień 1 lipca Ogrody Krasińskich w Warszawie wypełniły si�
   
   <p class="wp-caption-text">
     Fot. Nika Jaworowska-Duchlińska
-  </p>
-</div>
+  
 
 <div id="attachment_4232" style="width: 310px" class="wp-caption alignnone">
   <img class="wp-image-4232 size-medium" src="http://www.ibby.pl/wp-content/uploads/2017/07/IMG_5815-300x200.jpg" alt="" width="300" height="200" srcset="http://www.ibby.pl/wp-content/uploads/2017/07/IMG_5815-300x200.jpg 300w, http://www.ibby.pl/wp-content/uploads/2017/07/IMG_5815-150x100.jpg 150w, http://www.ibby.pl/wp-content/uploads/2017/07/IMG_5815-768x512.jpg 768w, http://www.ibby.pl/wp-content/uploads/2017/07/IMG_5815-800x533.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" />
   
   <p class="wp-caption-text">
     Fot. Nika Jaworowska-Duchlińska
-  </p>
-</div>
+  
 
 <div id="attachment_4233" style="width: 310px" class="wp-caption alignnone">
   <img class="wp-image-4233 size-medium" src="http://www.ibby.pl/wp-content/uploads/2017/07/IMG_5854-300x200.jpg" alt="" width="300" height="200" srcset="http://www.ibby.pl/wp-content/uploads/2017/07/IMG_5854-300x200.jpg 300w, http://www.ibby.pl/wp-content/uploads/2017/07/IMG_5854-150x100.jpg 150w, http://www.ibby.pl/wp-content/uploads/2017/07/IMG_5854-768x512.jpg 768w, http://www.ibby.pl/wp-content/uploads/2017/07/IMG_5854-800x533.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" />
   
   <p class="wp-caption-text">
     Fot. Nika Jaworowska-Duchlińska
-  </p>
-</div>
+  
 
 Zobacz pełny fotoreportaż: <a href="https://www.facebook.com/pg/PolskaSekcjaIBBY/photos/?tab=album&album_id=1412427332206784" target="_blank" rel="noopener noreferrer">https://www.facebook.com/pg/PolskaSekcjaIBBY/photos/?tab=album&album_id=1412427332206784</a>
 

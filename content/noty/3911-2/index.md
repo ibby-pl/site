@@ -1,7 +1,6 @@
 ---
 title: Gry i zabawy z dawnych lat
 author: Tomasz Osadowski
-type: page
 date: 2016-12-17T17:54:10+00:00
 
 ---
@@ -17,4 +16,4 @@ Podróż w czasie, którą zapowiada tytuł, ma w tej książce swój wymiar wiz
 
  <img class="alignnone wp-image-3914 size-large" src="http://www.ibby.pl/wp-content/uploads/2016/12/gry-i-zabawy-z-dawnych-lat2-800x521.jpg" alt="gry-i-zabawy-z-dawnych-lat2" width="800" height="521" srcset="http://www.ibby.pl/wp-content/uploads/2016/12/gry-i-zabawy-z-dawnych-lat2-800x521.jpg 800w, http://www.ibby.pl/wp-content/uploads/2016/12/gry-i-zabawy-z-dawnych-lat2-150x98.jpg 150w, http://www.ibby.pl/wp-content/uploads/2016/12/gry-i-zabawy-z-dawnych-lat2-300x195.jpg 300w, http://www.ibby.pl/wp-content/uploads/2016/12/gry-i-zabawy-z-dawnych-lat2-768x500.jpg 768w, http://www.ibby.pl/wp-content/uploads/2016/12/gry-i-zabawy-z-dawnych-lat2.jpg 1106w" sizes="(max-width: 800px) 100vw, 800px" /><img class="alignnone wp-image-3913 size-large" src="http://www.ibby.pl/wp-content/uploads/2016/12/gry-i-zabawy-z-dawnych-lat1-800x521.jpg" alt="gry-i-zabawy-z-dawnych-lat1" width="800" height="521" srcset="http://www.ibby.pl/wp-content/uploads/2016/12/gry-i-zabawy-z-dawnych-lat1-800x521.jpg 800w, http://www.ibby.pl/wp-content/uploads/2016/12/gry-i-zabawy-z-dawnych-lat1-150x98.jpg 150w, http://www.ibby.pl/wp-content/uploads/2016/12/gry-i-zabawy-z-dawnych-lat1-300x195.jpg 300w, http://www.ibby.pl/wp-content/uploads/2016/12/gry-i-zabawy-z-dawnych-lat1-768x500.jpg 768w, http://www.ibby.pl/wp-content/uploads/2016/12/gry-i-zabawy-z-dawnych-lat1.jpg 1106w" sizes="(max-width: 800px) 100vw, 800px" />
 
-&nbsp;
+ 

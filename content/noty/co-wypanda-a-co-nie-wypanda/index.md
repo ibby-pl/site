@@ -1,11 +1,10 @@
 ---
 title: Co wypanda a co nie wypanda?
 author: Maria Kulik
-type: page
 date: 2014-12-06T15:57:45+00:00
 
 ---
-&nbsp;
+ 
 
 <span style="font-size: medium;">Tekst, ilustracje i projekt graficzny: Ola Cie</span><span style="font-family: Calibri; font-size: medium;"><span style="font-family: Calibri; font-size: medium;"><span lang="P">ślak</span></span></span>
 
@@ -25,4 +24,4 @@ date: 2014-12-06T15:57:45+00:00
 
 <span style="font-size: medium;">NOMINACJA GRAFICZNA KSI</span><span style="font-family: Calibri; font-size: medium;"><span style="font-family: Calibri; font-size: medium;"><span lang="P">ĄŻKA ROKU 2014</span></span></span>
 
-&nbsp;
+ 

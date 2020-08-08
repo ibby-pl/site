@@ -1,7 +1,6 @@
 ---
 title: Pompon w rodzinie Fisiów
 author: Michał Zając
-type: page
 date: 2014-02-16T17:48:46+00:00
 
 ---

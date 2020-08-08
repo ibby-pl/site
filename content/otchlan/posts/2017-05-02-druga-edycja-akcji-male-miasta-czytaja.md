@@ -12,15 +12,15 @@ categories:
   
 <img class="size-medium wp-image-4125 alignleft" src="http://www.ibby.pl/wp-content/uploads/2017/05/tlo_male_miasta-300x166.png" alt="" width="300" height="166" srcset="http://www.ibby.pl/wp-content/uploads/2017/05/tlo_male_miasta-300x166.png 300w, http://www.ibby.pl/wp-content/uploads/2017/05/tlo_male_miasta-150x83.png 150w, http://www.ibby.pl/wp-content/uploads/2017/05/tlo_male_miasta.png 672w" sizes="(max-width: 300px) 100vw, 300px" />
 
-&nbsp;
+ 
 
-&nbsp;
+ 
 
-&nbsp;
+ 
 
-&nbsp;
+ 
 
-&nbsp;
+ 
 
 Pierwsza edycja akcji odbyła się w Warszawie. Gdy starsi czytali _13 pięter_ Filipa Springera (w ramach 4. edycji Warszawa Czyta), niedorośli poznawali _Kawalerką_ Weroniki Przybylskiej (Dwie Siostry). Wybór nie był przypadkowy, zależało nam, by tytuł książki „małej” Warszawy wiązał się z tematem książki „dużej”. Podobnie jest i w tym roku: _Pani Stefie_ Magdaleny Kicińskiej (więcej: [Warszawaczyta.org][1]) towarzyszy _Pamiętnik Blumki_ Iwony Chmielewskiej. Obie książki opowiadają o przedwojennej Warszawie, o dziele Janusza Korczaka i Stefanii Wilczyńskiej.
 
@@ -94,18 +94,18 @@ Hebraika w Bibliotece Narodowej i nie tylko
   
 Zwiedzanie czytelniczej części BN, poznanie historii biblioteki i jej zbiorów. Przewodniczki, Marta Szczechowska-Frączyk i Joanna Piekarska, zaprezentują hebraika znajdujące się w zbiorach BN, opowiedzą o cyfrowej bibliotece POLONA, pokażą, jak z niej korzystać, wyszukując m.in. publikacje Janusza Korczaka oraz zdjęcia przedwojennej Warszawy. W ramach wizyty w BN odbędą się warsztaty, podczas których dzieci m.in. „zrekonstruują” przedwojenne losy bohaterów „Pamiętnika Blumki”, wychowanków Domu Sierot.
 
-<span class="gmail-_4n-j gmail-_fbReactionComponent__eventDetailsContentTags gmail-fsl"><span class="gmail-text_exposed_show"><strong>* 13 maja</strong>, godz. 16-19, boisko przy ulicy Wileńskiej 55/57<br /> Piknik sąsiedzki z &#8222;Pamiętnikiem Blumki&#8221;<br /> Po wspólnym i głośnym czytaniu tekstu stworzymy wielkie graffiti inspirowane książką. Ponadto będzie można zrobić czytelniczą przypinkę, skosztować przysmaków z kuchni Praskiej Światoteki i spotkać naszą Biblioteczkę Społecznościową, w której można wymienić książki. Spotkanie jest organizowane w ramach projektu &#8222;Spotkajmy się na rogu&#8221; współfinansowane przez Miasto Stołeczne Warszawa.</span></span>
+<span class="gmail-_4n-j gmail-_fbReactionComponent__eventDetailsContentTags gmail-fsl"><span class="gmail-text_exposed_show">* 13 maja, godz. 16-19, boisko przy ulicy Wileńskiej 55/57<br /> Piknik sąsiedzki z &#8222;Pamiętnikiem Blumki&#8221;<br /> Po wspólnym i głośnym czytaniu tekstu stworzymy wielkie graffiti inspirowane książką. Ponadto będzie można zrobić czytelniczą przypinkę, skosztować przysmaków z kuchni Praskiej Światoteki i spotkać naszą Biblioteczkę Społecznościową, w której można wymienić książki. Spotkanie jest organizowane w ramach projektu &#8222;Spotkajmy się na rogu&#8221; współfinansowane przez Miasto Stołeczne Warszawa.</span></span>
 
-<span class="gmail-_4n-j gmail-_fbReactionComponent__eventDetailsContentTags gmail-fsl"><span class="gmail-text_exposed_show"><strong>*  13 maja</strong>, godz. 12, Księgarnia Dwie Siostry, dzieci 6-10 lat<br /> Warsztaty „Co to jest pamiętnik. Kiedy, jak i po co się go tworzy?”<br /> Na spotkaniu inspirowanym &#8222;Pamiętnikiem Blumki&#8221; poskładamy z małych fragmentów różne historie różnych osób. Każdy będzie miał szansę stworzyć minipamiętnik, wybierając taką opowieść i formę, słowną lub graficzną, jaka będzie mu najbliższa.</span></span>
+<span class="gmail-_4n-j gmail-_fbReactionComponent__eventDetailsContentTags gmail-fsl"><span class="gmail-text_exposed_show">*  13 maja, godz. 12, Księgarnia Dwie Siostry, dzieci 6-10 lat<br /> Warsztaty „Co to jest pamiętnik. Kiedy, jak i po co się go tworzy?”<br /> Na spotkaniu inspirowanym &#8222;Pamiętnikiem Blumki&#8221; poskładamy z małych fragmentów różne historie różnych osób. Każdy będzie miał szansę stworzyć minipamiętnik, wybierając taką opowieść i formę, słowną lub graficzną, jaka będzie mu najbliższa.</span></span>
 
-*****<span class="gmail-_4n-j gmail-_fbReactionComponent__eventDetailsContentTags gmail-fsl"><span class="gmail-text_exposed_show"><strong> 14 maja</strong>, godz. 14-15.30, księgarnia Tarabuk w Teatrze Lalka (Pałac Kultury i Nauki, wejście od ul. Świętokrzyskiej), dzieci w wieku 7+<br /> Zajęcia &#8222;Bo pamiętnik jest po to, żeby nie zapomnieć&#8221;, podczas których będziemy czytać i oglądać niezwykły &#8222;Pamiętnik Blumki&#8221;. Zabierzemy Ryfkę, Blumkę, Abramka i inne dzieci z książki Iwony Chmielewskiej w świat swojej wyobraźni.<br /> Zajęcia poprowadzi Mariola Mindak z Fundacji Tarabuk. Kultura słowa.<br /> Uwaga! Miejsce zajęć jest szczególny. Właśnie tu w czasie wojny stał budynek, w którym działał ostatni Dom Dziecka Janusza Korczaka.</span></span>
+*****<span class="gmail-_4n-j gmail-_fbReactionComponent__eventDetailsContentTags gmail-fsl"><span class="gmail-text_exposed_show"> 14 maja, godz. 14-15.30, księgarnia Tarabuk w Teatrze Lalka (Pałac Kultury i Nauki, wejście od ul. Świętokrzyskiej), dzieci w wieku 7+<br /> Zajęcia &#8222;Bo pamiętnik jest po to, żeby nie zapomnieć&#8221;, podczas których będziemy czytać i oglądać niezwykły &#8222;Pamiętnik Blumki&#8221;. Zabierzemy Ryfkę, Blumkę, Abramka i inne dzieci z książki Iwony Chmielewskiej w świat swojej wyobraźni.<br /> Zajęcia poprowadzi Mariola Mindak z Fundacji Tarabuk. Kultura słowa.<br /> Uwaga! Miejsce zajęć jest szczególny. Właśnie tu w czasie wojny stał budynek, w którym działał ostatni Dom Dziecka Janusza Korczaka.</span></span>
 
-<span class="gmail-_4n-j gmail-_fbReactionComponent__eventDetailsContentTags gmail-fsl"><span class="gmail-text_exposed_show"><strong>* 14 maja</strong>, JCC, gpdz. 12-15.30, ul. Chmielna 9A<br /> Zajęcia klubu dziecięcego Moadon, podczas których Beata Frankowska z Grupy Studnia O opowie Pamiętnik Blumki.</span></span>
+<span class="gmail-_4n-j gmail-_fbReactionComponent__eventDetailsContentTags gmail-fsl"><span class="gmail-text_exposed_show">* 14 maja, JCC, gpdz. 12-15.30, ul. Chmielna 9A<br /> Zajęcia klubu dziecięcego Moadon, podczas których Beata Frankowska z Grupy Studnia O opowie Pamiętnik Blumki.</span></span>
 
 ***  14 maja**, godz. 11-12, Muzeum Historii Żydów Polskich POLIN
   
 Warsztaty rodzinne wokół „Pamiętnika Blumki” i postaci Janusza Korczaka.
 
-<span class="gmail-_4n-j gmail-_fbReactionComponent__eventDetailsContentTags gmail-fsl"><span class="gmail-text_exposed_show"><strong>* Maj-czerwiec</strong>, Muzeum Książki Dziecięcej przy ul. Koszykowej 26/28, uczniowie klas podstawowych (klasy 0-6)<br /> Godzinne warsztaty poświęcone prawom dzieci i młodzieży. podczas których czytamy &#8222;Pamiętnik Blumki&#8221; oraz dyskutujemy o prawach dziecka i młodego człowieka. Posłuchamy wiersza laureatki konkursu Korczakowskiego &#8222;Janusz Korczak, czarodziej naszej wyobraźni&#8221; dotyczący praw dziecka z jego perspektywy. Obejrzymy picturebook Iwony Chmielewskiej poprzez urządzenie biblioteczne przeznaczone do oglądania rękopisów, zdjęć i starych druków Videomatic. Zaprojektujemy małe formy graficznr (plakaty, ulotki, komiksy) lub słowne (slogan, haiku) dotyczące propagowania praw dziecka.<br /> Prowadząca: Ewelina Rąbkowska<br /> Na zajęcia można się zapisać, dzwoniąc do Muzeum, tel. 22 537 40 26, 22 537 40 27, hasło: Mała Warszawa Czyta.</span></span>
+<span class="gmail-_4n-j gmail-_fbReactionComponent__eventDetailsContentTags gmail-fsl"><span class="gmail-text_exposed_show">* Maj-czerwiec, Muzeum Książki Dziecięcej przy ul. Koszykowej 26/28, uczniowie klas podstawowych (klasy 0-6)<br /> Godzinne warsztaty poświęcone prawom dzieci i młodzieży. podczas których czytamy &#8222;Pamiętnik Blumki&#8221; oraz dyskutujemy o prawach dziecka i młodego człowieka. Posłuchamy wiersza laureatki konkursu Korczakowskiego &#8222;Janusz Korczak, czarodziej naszej wyobraźni&#8221; dotyczący praw dziecka z jego perspektywy. Obejrzymy picturebook Iwony Chmielewskiej poprzez urządzenie biblioteczne przeznaczone do oglądania rękopisów, zdjęć i starych druków Videomatic. Zaprojektujemy małe formy graficznr (plakaty, ulotki, komiksy) lub słowne (slogan, haiku) dotyczące propagowania praw dziecka.<br /> Prowadząca: Ewelina Rąbkowska<br /> Na zajęcia można się zapisać, dzwoniąc do Muzeum, tel. 22 537 40 26, 22 537 40 27, hasło: Mała Warszawa Czyta.</span></span>
 
  [1]: http://Warszawaczyta.org/

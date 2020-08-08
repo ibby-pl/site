@@ -1,7 +1,6 @@
 ---
 title: Legendy warszawskie. Antologia
 author: Tomasz Osadowski
-type: page
 date: 2016-12-17T17:04:05+00:00
 
 ---

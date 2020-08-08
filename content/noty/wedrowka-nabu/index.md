@@ -1,7 +1,6 @@
 ---
 title: Wędrówka Nabu
 author: Tomasz Osadowski
-type: page
 date: 2016-12-17T15:29:27+00:00
 
 ---

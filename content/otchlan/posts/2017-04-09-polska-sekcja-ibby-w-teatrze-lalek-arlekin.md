@@ -20,4 +20,3 @@ Dziękujemy gościnnemu Teatrowi Lalek Arlekin, Joannie Hrk oraz naszym wolontar
 
 Mamy nadzieję na dalszą współpracę z tą zasłużoną instytucją kultury.
 
-&nbsp;

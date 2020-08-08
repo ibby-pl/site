@@ -1,7 +1,6 @@
 ---
 title: Felix, Net i Nika oraz Pułapka Nieśmiertelności
 author: Michał Zając
-type: page
 date: 2014-02-16T17:56:36+00:00
 
 ---

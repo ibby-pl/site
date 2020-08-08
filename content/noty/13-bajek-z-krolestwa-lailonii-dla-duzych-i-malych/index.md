@@ -1,7 +1,6 @@
 ---
 title: 13 bajek z królestwa Lailonii dla dużych i małych
 author: Maria Kulik
-type: page
 date: 2015-12-15T07:41:15+00:00
 
 ---

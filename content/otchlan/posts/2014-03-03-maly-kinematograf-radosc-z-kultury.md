@@ -24,4 +24,4 @@ W programie znajdą się spotkania, warsztaty i projekcje dla dzieci w wieku od 
   * zajęcia plastyczne i działania twórcze
   * warsztaty animacji i projekcje filmowe
 
-Wśród zaproszonych gości znaleźli się uhonorowany twórcy i ilustratorzy: Iwona Chmielewska, Krystyna Lipka-Sztarbałło, Anita Andrzejewska i Andrzej Pilichowski-Ragno. Program spotkań do czerwca 2014 roku znajduje się na stronie <a href="http://www.kinomuzeum.pl/index.php?action=kino3" target="_blank"><strong>Mały Kinematograf</strong></a>.
+Wśród zaproszonych gości znaleźli się uhonorowany twórcy i ilustratorzy: Iwona Chmielewska, Krystyna Lipka-Sztarbałło, Anita Andrzejewska i Andrzej Pilichowski-Ragno. Program spotkań do czerwca 2014 roku znajduje się na stronie <a href="http://www.kinomuzeum.pl/index.php?action=kino3" target="_blank">Mały Kinematograf</a>.

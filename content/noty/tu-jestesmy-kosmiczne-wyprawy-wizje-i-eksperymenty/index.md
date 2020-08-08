@@ -1,7 +1,6 @@
 ---
 title: Tu jesteśmy. Kosmiczne, wyprawy, wizje i eksperymenty
 author: Maria Kulik
-type: page
 date: 2014-02-18T08:13:32+00:00
 
 ---

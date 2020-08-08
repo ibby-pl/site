@@ -1,7 +1,6 @@
 ---
 title: Morze ciche
 author: Michał Zając
-type: page
 date: 2014-02-16T17:50:05+00:00
 
 ---

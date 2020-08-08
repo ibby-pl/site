@@ -14,6 +14,5 @@ Dla upamiętnienia tej ważnej dla kultury i nauki polskiej rocznicy, Komitet Po
 
 Polska Sekcja IBBY przystąpiła do udziału w tym projekcie, realizując jeden ze swoich celów statutowych. Więcej na www.sbp.pl/650.
 
-&nbsp;
+ 
 
-&nbsp;

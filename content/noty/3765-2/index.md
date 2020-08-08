@@ -1,7 +1,6 @@
 ---
 title: Rutka
 author: Tomasz Osadowski
-type: page
 date: 2016-12-17T15:20:29+00:00
 
 ---

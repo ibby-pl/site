@@ -28,4 +28,3 @@ Szczegółowe informacje oraz dokumenty potrzebne w procesie rekrutacji znajduj�
   
 Zapraszamy też do odwiedzenia nas na Facebooku.
 
-&nbsp;

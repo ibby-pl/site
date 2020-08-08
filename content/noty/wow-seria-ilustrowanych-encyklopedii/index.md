@@ -1,7 +1,6 @@
 ---
 title: WOW! – seria ilustrowanych encyklopedii
 author: Maria Kulik
-type: page
 date: 2014-02-18T07:50:46+00:00
 
 ---

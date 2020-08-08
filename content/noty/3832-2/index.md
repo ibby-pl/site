@@ -1,7 +1,6 @@
 ---
 title: Koniec świata nr 13
 author: Tomasz Osadowski
-type: page
 date: 2016-12-17T16:28:00+00:00
 
 ---

@@ -1,7 +1,6 @@
 ---
 title: Książka wszystkich rzeczy
 author: Maria Kulik
-type: page
 date: 2014-02-18T09:15:20+00:00
 
 ---

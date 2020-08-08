@@ -18,7 +18,7 @@ Autorką listu jest Luciana Sandroni. Plakat zaprojektował Ziraldo.
 
 * * *
 
-&nbsp;
+ 
 
 ## **_Dawno, dawno temu&#8230;_**
 
@@ -112,18 +112,17 @@ W ostatniej chwili pojawili się również bohaterowie brazylijskich bajek: Saci
 
 * * *
 
-&nbsp;
+ 
 
 _Autorką przesłania jest **Luciana Sandroni,** brazylijska pisarka książek dla dzieci i młodzieży, wielokrotnie nagradzanych. Jej &#8222;Minhas memórias de Lobato&#8221; z ilustracjami Laerte Coutinho otrzymała: Jabuti Prize, FNLIJ Award, była też nominowana do Listy Honorowej IBBY, czyli listy najlepszych książek dla dzieci. Podobny sukces odniosła &#8222;O Mário que nčo é de Andrade&#8221; z ilustracjami Spacca, której przyznano FNLIJ Award. Najbardziej znaną bohaterką pisarki jest dziewczynka o imieniu Ludi. Pierwsze książki z serii jej poświęconej, to znaczy &#8222;Ludi vai a praia&#8221; oraz &#8222;Ludi na TV&#8221;, wystawiono w teatrze, a całość, którą uzupełniają tytuły: &#8222;Ludi na Revolta da Vacina&#8221;, &#8222;Ludi na chegada e no bota-fora da Família Real&#8221; i &#8222;Ludi e os fantasmas da Biblioteca Nacional&#8221;, otrzymała najwyższą rekomendację Fundaćčo Nacional do Livro Infantil e Juvenil (FNLIJ zajmujące się m.in. promocją czytelnictwa). Luciana Sandroni urodziła się w Rio de Janerio, w 1962 roku. Studiowała literaturę na Pontifícia Universidade Católica do Rio de Janeiro, przez 10 lat pracowała w bibliotekach szkolnych._
 
-&nbsp;
+ 
 
 _Autorem plakatu jest **Ziraldo**, ilustrator, projektant, rysownik i karykaturzysta. W 1969 roku wydał książkę &#8222;Flicts&#8221;, która jest już klasykiem, a w 1980 roku – &#8222;O menino maluquinho&#8221;, która szybko stała się hitem – do 2005 roku sprzedano ponad dwa i pół miliona egzemplarzy. Wystawiono ją w teatrze i operze, doczekała się też ekranizacji, była inspiracją dla twórców gier i komiksów. W 2010 roku Ziraldo otrzymał Quevedos Award, nagrodę przyznawaną co dwa lata przez wydział grafiki hiszpańskiego Uniwersytetu Alcalá. Jego książki były tłumaczone w całej Ameryce Łacińskiej, niektóre także poza nią, m.in. w Japonii i Korei. Ziraldo był trzykrotnie nominowany do nagrody IBBY – Hans Christian Andersen Award. Urodził się w Caratindze, w 1932 roku. Obecnie mieszka w Rio de Janeiro._
 
-&nbsp;
+ 
 
 <a href="http://www.ibby.org/fileadmin/user_upload/Dili2016_final_folder_01.pdf" target="_blank">Plakat  i przesłanie IBBY 2016 oraz noty o autorach (w jęz. angielskim).</a>
 
 Polska była gospodarzem Międzynarodowego Dnia Książki dla Dzieci  w roku 1980. Motto „Książka moim oknem na świat” wymyślił Wojciech Żukrowski, a plakat projektował Jerzy Czerniawski.
 
-&nbsp;

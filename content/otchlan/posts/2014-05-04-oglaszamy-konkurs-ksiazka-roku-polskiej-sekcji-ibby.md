@@ -29,18 +29,16 @@ Zgłoszenia do nagrody przyjmujemy od każdego zainteresowanego konkursem:
   
         z dopiskiem na kopercie &#8222;Książka Roku IBBY&#8221;.
 
-<p style="text-align: justify;">
+
   Pobierz dokumenty:
-</p>
+* 
+      <a href="http://www.ibby.pl/files/IBBY_Regulamin_nagrody_KR2014.pdf" target="_blank">Regulamin – Nagroda „Książka Roku”</a>
+    
 
-  * <div style="text-align: justify;">
-      <strong><a href="http://www.ibby.pl/files/IBBY_Regulamin_nagrody_KR2014.pdf" target="_blank">Regulamin – Nagroda „Książka Roku”</a></strong>
-    </div>
+  * 
+      <a href="http://www.ibby.pl/files/IBBY_Regulamin_Nagroda_za_upowszechnianie.pdf" target="_blank">Regulamin – Nagroda za upowszechnienie czytelnictwa</a>
+    
 
-  * <div style="text-align: justify;">
-      <strong><a href="http://www.ibby.pl/files/IBBY_Regulamin_Nagroda_za_upowszechnianie.pdf" target="_blank">Regulamin – Nagroda za upowszechnienie czytelnictwa</a></strong>
-    </div>
-
-  * <div style="text-align: justify;">
-      <strong><a href="http://www.ibby.pl/files/IBBY_Formularz_zgloszeniowy.pdf" target="_blank">Formularz zgłoszeniowy</a></strong>
-    </div>
+  * 
+      <a href="http://www.ibby.pl/files/IBBY_Formularz_zgloszeniowy.pdf" target="_blank">Formularz zgłoszeniowy</a>
+    

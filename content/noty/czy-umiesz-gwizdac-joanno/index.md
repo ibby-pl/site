@@ -1,7 +1,6 @@
 ---
 title: Czy umiesz gwizdać, Joanno?
 author: Michał Zając
-type: page
 date: 2014-02-17T08:12:49+00:00
 
 ---

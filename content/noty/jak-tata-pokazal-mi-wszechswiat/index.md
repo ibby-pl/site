@@ -1,7 +1,6 @@
 ---
 title: Jak tata pokazał mi wszechświat
 author: Michał Zając
-type: page
 date: 2014-02-17T08:14:11+00:00
 
 ---

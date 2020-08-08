@@ -1,7 +1,6 @@
 ---
 title: Szare śniegi Syberii
 author: Maria Kulik
-type: page
 date: 2014-02-18T08:23:49+00:00
 
 ---

@@ -19,8 +19,7 @@ W sobotni wieczór odbyła się gala wręczenia Nagrody Literackiej „Gryfia”
   
   <p class="wp-caption-text">
     Od lewej: Wioleta Słoka, Joanna Fabicka, Monika Hałucha i Małgorzata Narożna
-  </p>
-</div>
+  
 
 Naszą wizytą w Szczecinie zainaugurowaliśmy także cykl spotkań pod hasłem „Świetlica IBBY”. W pierwszy weekend lipca odbyły się dwa pierwsze – dla dorosłych (o tym, czym jest IBBY i dlaczego warto kierować się  rekomendacjami) oraz dla dzieci (warsztaty wokół książki „Uczucia. Co to takiego?”). Spotkania organizuje Małgorzata Narożna z księgarni <a href="https://www.facebook.com/FiKa.Szczecin/" target="_blank" rel="noopener noreferrer">FiKa</a>. Wszystkich Szczecinian zachęcamy do udziału.
 

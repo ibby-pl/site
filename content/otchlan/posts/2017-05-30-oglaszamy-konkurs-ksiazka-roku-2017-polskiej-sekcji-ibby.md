@@ -36,7 +36,7 @@ I do zobaczenia w grudniu 2017 r. na uroczystej gali konkursowej, kiedy  ogłos
 
 * * *
 
-&nbsp;
+ 
 
 **REGULAMIN KONKURSU KSIĄŻKA ROKU POLSKIEJ SEKCJI IBBY – EDYCJA 2017 R.**
 
@@ -54,7 +54,7 @@ Nagrody pieniężne w Konkursie przyznawane są dzięki sponsorowi – LOTOS POL
 
 <ol start="2">
   <li>
-    <strong> Zasady</strong>
+     Zasady
   </li>
 </ol>
 
@@ -90,7 +90,7 @@ O przyznaniu nagród głównych i wyróżnień w kategorii literackiej i graficz
 
 <ol start="3">
   <li>
-    <strong> Zgłoszenia</strong>
+     Zgłoszenia
   </li>
 </ol>
 
@@ -124,7 +124,7 @@ z dopiskiem na kopercie „_Konkurs __Książka Roku 2017 POLSKIEJ SEKCJI IBBY 
 
 <ol start="4">
   <li>
-    <strong> Postanowienia końcowe</strong>
+     Postanowienia końcowe
   </li>
 </ol>
 
@@ -132,9 +132,9 @@ Wydawcy nagrodzonych i wyróżnionych książek uzyskują prawo do nieodpłatneg
 
 Regulamin niniejszy został przyjęty przez Zarząd Główny Stowarzyszenia Przyjaciół Książki dla Młodych (Polska Sekcja IBBY) dnia  21  maja 2017 roku.
 
-&nbsp;
+ 
 
-&nbsp;
+ 
 
  [1]: http://www.ibby.pl/wp-content/uploads/2017/05/FORMULARZ-ZGŁOSZENIOWY-DO-KONKURSU-KSIĄŻKA-ROKU-2017-POLSKIEJ-SEKCJI-IBBY_m.docx
  [2]: http://www.ibby.pl/

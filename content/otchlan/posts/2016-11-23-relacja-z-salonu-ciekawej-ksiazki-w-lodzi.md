@@ -30,4 +30,3 @@ Dziękujemy wolontariuszkom za pomoc przy obsłudze stoiska oraz  w czasie wars
 
 W chwili zamykania CSK umówiliśmy się z organizatorem salonu na partnerstwo Polskiej  Sekcji IBBY podczas przyszłorocznej VII. edycji imprezy. Rok szybko minie !
 
-&nbsp;

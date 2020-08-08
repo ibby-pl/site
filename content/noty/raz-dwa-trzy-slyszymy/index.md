@@ -1,7 +1,6 @@
 ---
 title: Raz, DWA, trzy – słyszymy
 author: Tomasz Osadowski
-type: page
 date: 2016-12-17T17:15:12+00:00
 
 ---

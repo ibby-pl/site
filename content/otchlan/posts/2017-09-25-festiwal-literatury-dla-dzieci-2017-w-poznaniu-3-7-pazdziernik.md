@@ -23,16 +23,14 @@ W październiku do Poznania zawitają największe gwiazdy literatury dla dzieci 
   
   <p class="wp-caption-text">
     Åsa Lind
-  </p>
-</div>
+  
 
 <div id="attachment_4370" style="width: 310px" class="wp-caption alignnone">
   <img class="wp-image-4370 size-medium" src="http://www.ibby.pl/wp-content/uploads/2017/09/jacek_cygan_fot.dawid_.prząda-300x200.jpg" alt="" width="300" height="200" srcset="http://www.ibby.pl/wp-content/uploads/2017/09/jacek_cygan_fot.dawid_.prząda-300x200.jpg 300w, http://www.ibby.pl/wp-content/uploads/2017/09/jacek_cygan_fot.dawid_.prząda-150x100.jpg 150w, http://www.ibby.pl/wp-content/uploads/2017/09/jacek_cygan_fot.dawid_.prząda.jpg 360w" sizes="(max-width: 300px) 100vw, 300px" />
   
   <p class="wp-caption-text">
     Jacek Cygan
-  </p>
-</div>
+  
 
 <img class="alignnone size-medium wp-image-4368" src="http://www.ibby.pl/wp-content/uploads/2017/09/budyń_julka_tuwima_fot.dawid_.prząda-300x200.jpg" alt="" width="300" height="200" srcset="http://www.ibby.pl/wp-content/uploads/2017/09/budyń_julka_tuwima_fot.dawid_.prząda-300x200.jpg 300w, http://www.ibby.pl/wp-content/uploads/2017/09/budyń_julka_tuwima_fot.dawid_.prząda-150x100.jpg 150w, http://www.ibby.pl/wp-content/uploads/2017/09/budyń_julka_tuwima_fot.dawid_.prząda.jpg 360w" sizes="(max-width: 300px) 100vw, 300px" />
 

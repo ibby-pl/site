@@ -14,6 +14,5 @@ Przypomnijmy, że seria uzyskała wyróżnienie w konkursie Nagroda Donga w 2013
 
 <a href="http://www.ibby.pl/wp-content/uploads/2014/02/Czytam-sobie.png" rel="lightbox[1520]"><img class="alignnone size-thumbnail wp-image-1524" alt="Czytam sobie" src="http://www.ibby.pl/wp-content/uploads/2014/02/Czytam-sobie-150x59.png" width="150" height="59" srcset="http://www.ibby.pl/wp-content/uploads/2014/02/Czytam-sobie-150x59.png 150w, http://www.ibby.pl/wp-content/uploads/2014/02/Czytam-sobie-300x118.png 300w, http://www.ibby.pl/wp-content/uploads/2014/02/Czytam-sobie.png 619w" sizes="(max-width: 150px) 100vw, 150px" /></a>
 
-&nbsp;
+ 
 
-&nbsp;

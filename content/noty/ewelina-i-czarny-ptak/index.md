@@ -1,7 +1,6 @@
 ---
 title: Ewelina i Czarny Ptak
 author: Michał Zając
-type: page
 date: 2014-01-04T12:31:05+00:00
 
 ---

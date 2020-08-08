@@ -1,7 +1,6 @@
 ---
 title: Krystyna Michałowska
 author: Tomasz Osadowski
-type: page
 date: 2016-09-30T14:19:00+00:00
 
 ---
@@ -127,10 +126,10 @@ Ponadto:
   * projekt okładki i opracowanie graficzne serii _Lista Honorowa Hansa Christiana Andersena_
   * znak-wyróżnik graficzny serii _Poczytaj mi, mamo_ (z motylkiem)
 
-&nbsp;
+ 
 
-&nbsp;
+ 
 
-&nbsp;
+ 
 
-&nbsp;
+ 

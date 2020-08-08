@@ -1,7 +1,6 @@
 ---
 title: Chodzi, chodzi, baj po ścianie…
 author: Michał Zając
-type: page
 date: 2014-02-16T17:54:24+00:00
 
 ---

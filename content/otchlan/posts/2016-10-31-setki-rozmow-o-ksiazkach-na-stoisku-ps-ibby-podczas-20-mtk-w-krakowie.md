@@ -19,8 +19,7 @@ Nasi goście z uznaniem wypowiadali się o działalności PS IBBY. Dostaliśmy t
   
   <p class="wp-caption-text">
     Magdalena Kłos-Podsiadło (Wytwórnia) prezentuje kalendarz, z którego część dochodu zasili PS IBBY
-  </p>
-</div>
+  
 
 Na półce z mądrymi i pięknymi książkami przysiadł w tym roku <a href="http://www.swierszczyk.pl/" target="_blank">Świerszczyk</a> Bajetan Hops &#8211; maskotka jednego z naszych członków wspierających.  <a href="http://wytwornia.com" target="_blank">Wydawnictwo Wytwórnia</a> zdążyło wydrukować i przywieźć do Krakowa Kalendarz/Wytwórnik na rok 2017 wg projektu Grażki Lange i Moniki Hanulak. Jest to dla nas wyjątkowa pozycja wydawnicza nie tylko z uwagi na niezwykle oryginalną formę. <a href="http://wytwornia.com" target="_blank">Wytwórnia</a>, członek wspierający PS IBBY, część wpływów ze sprzedaży Kalendarza przeznaczy na dodatkowe wsparcie finansowe naszego stowarzyszenia. Zachęcamy do kupowania tego niezwykłego kalendarza ściennego.
 
@@ -29,32 +28,29 @@ Na półce z mądrymi i pięknymi książkami przysiadł w tym roku <a href="htt
   
   <p class="wp-caption-text">
     Prof. UP dr hab. Katarzyna Wądolny-Tatar
-  </p>
-</div>
+  
 
 <div id="attachment_3493" style="width: 160px" class="wp-caption alignleft">
   <img class="wp-image-3493 size-thumbnail" src="http://www.ibby.pl/wp-content/uploads/2016/10/panel-1-150x100.jpg" alt="panel-1" width="150" height="100" srcset="http://www.ibby.pl/wp-content/uploads/2016/10/panel-1-150x100.jpg 150w, http://www.ibby.pl/wp-content/uploads/2016/10/panel-1-300x200.jpg 300w, http://www.ibby.pl/wp-content/uploads/2016/10/panel-1-768x512.jpg 768w, http://www.ibby.pl/wp-content/uploads/2016/10/panel-1-800x533.jpg 800w, http://www.ibby.pl/wp-content/uploads/2016/10/panel-1.jpg 960w" sizes="(max-width: 150px) 100vw, 150px" />
   
   <p class="wp-caption-text">
     Krystyna Rybicka
-  </p>
-</div>
+  
 
 <div id="attachment_3495" style="width: 160px" class="wp-caption alignleft">
   <img class="wp-image-3495 size-thumbnail" src="http://www.ibby.pl/wp-content/uploads/2016/10/panel-3-150x100.jpg" alt="panel-3" width="150" height="100" srcset="http://www.ibby.pl/wp-content/uploads/2016/10/panel-3-150x100.jpg 150w, http://www.ibby.pl/wp-content/uploads/2016/10/panel-3-300x200.jpg 300w, http://www.ibby.pl/wp-content/uploads/2016/10/panel-3-768x512.jpg 768w, http://www.ibby.pl/wp-content/uploads/2016/10/panel-3-800x533.jpg 800w, http://www.ibby.pl/wp-content/uploads/2016/10/panel-3.jpg 960w" sizes="(max-width: 150px) 100vw, 150px" />
   
   <p class="wp-caption-text">
     Dr Katarzyna Slany
-  </p>
-</div>
+  
 
-&nbsp;
+ 
 
-&nbsp;
+ 
 
-&nbsp;
+ 
 
-&nbsp;
+ 
 
 Cieszy nas, że  z dobrym przyjęciem spotkał się panel zorganizowany przez Polską Sekcję IBBY  „Konkurs Książka Roku 2015 Polskiej Sekcji IBBY – nowe trendy w polskiej książce dla niedorosłych”, który niezwykle interesująco poprowadziły prof.UP dr hab. Katarzyna Wądolny-Tatar,  dr Katarzyna Slany oraz Krystyna  Rybicka.
 
@@ -69,7 +65,6 @@ Wraz z wolontariuszami dwoiliśmy się, a nawet troiliśmy, aby cztery targowe d
   
   <p class="wp-caption-text">
     Dziękujemy  wszystkim odwiedzającym , wolontariuszom, panelistkom  i osobom  drugiego planu, bez których nie moglibyśmy zrealizować  naszych  targowych zamierzeń.
-  </p>
-</div>
+  
 
 Do zobaczenia  za rok !

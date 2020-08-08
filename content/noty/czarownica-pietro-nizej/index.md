@@ -1,7 +1,6 @@
 ---
 title: Czarownica piętro niżej
 author: Michał Zając
-type: page
 date: 2014-01-04T13:18:34+00:00
 
 ---

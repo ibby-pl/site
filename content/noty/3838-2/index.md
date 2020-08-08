@@ -1,7 +1,6 @@
 ---
 title: Kern. Wiersze dla dzieci
 author: Tomasz Osadowski
-type: page
 date: 2016-12-17T16:32:38+00:00
 
 ---

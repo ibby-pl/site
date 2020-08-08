@@ -1,7 +1,6 @@
 ---
 title: Gdzie jest tort?
 author: Michał Zając
-type: page
 date: 2014-02-17T08:06:49+00:00
 
 ---

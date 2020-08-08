@@ -12,4 +12,3 @@ Olga Siemaszko urodziła się w Krakowie i tam ukończyła Akademię Sztuk Pięk
 
 Za swoją twórczość otrzymała wiele nagród i wyróżnień, w 2000 roku została pierwszą laureatką Medalu IBBY za całokształt twórczości.
 
-&nbsp;

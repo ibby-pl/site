@@ -1,7 +1,6 @@
 ---
 title: Mój tata z obcej planety
 author: Maria Kulik
-type: page
 date: 2014-05-28T12:27:55+00:00
 
 ---

@@ -1,7 +1,6 @@
 ---
 title: Dżok. Legenda o psiej wierności
 author: Michał Zając
-type: page
 date: 2014-02-16T17:57:50+00:00
 
 ---

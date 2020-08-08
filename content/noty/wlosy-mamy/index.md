@@ -1,7 +1,6 @@
 ---
 title: Włosy mamy
 author: Maria Kulik
-type: page
 date: 2014-02-18T07:35:52+00:00
 
 ---

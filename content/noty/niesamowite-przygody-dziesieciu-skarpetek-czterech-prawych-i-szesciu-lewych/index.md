@@ -1,7 +1,6 @@
 ---
 title: Niesamowite przygody dziesięciu skarpetek (czterech prawych i sześciu lewych)
 author: Maria Kulik
-type: page
 date: 2015-12-14T15:27:56+00:00
 
 ---

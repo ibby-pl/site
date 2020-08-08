@@ -1,7 +1,6 @@
 ---
 title: Tuczarnia motyli
 author: Maria Kulik
-type: page
 date: 2015-12-14T15:35:06+00:00
 
 ---
@@ -13,4 +12,4 @@ Gdy Warszawę przykrywa warstwa śniegu, znane z wcześniejszej powieści Marcin
 
 NOMINACJA LITERACKA KSIĄŻKA ROKU 2015
 
-&nbsp;
+ 

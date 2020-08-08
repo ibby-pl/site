@@ -14,4 +14,3 @@ W dniach 18-23 sierpnia w Auckland (Nowa Zelandia) odbył się 35. Międzynarodo
 
 Pierwsze relacje fotograficzne &#8211; zobacz na: <https://www.facebook.com/ibbycongress2016/>
 
-&nbsp;

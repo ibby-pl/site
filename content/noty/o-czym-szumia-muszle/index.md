@@ -1,7 +1,6 @@
 ---
 title: O czym szumią muszle
 author: Maria Kulik
-type: page
 date: 2014-12-06T15:25:13+00:00
 
 ---

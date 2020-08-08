@@ -10,10 +10,9 @@ categories:
 ---
 Dwutygodnik internetowy &#8222;kontakt&#8221; pisze o idei IBBY (w artykule Agnieszki Dobrowolskiej m.in. wypowiedź Anny Czernow, prezeski PS IBBY).
 
-&nbsp;
+ 
 
 <blockquote data-secret="g6cMChr7WY" class="wp-embedded-content">
   <p>
     <a href="http://magazynkontakt.pl/ibby-tajemniczy-skrot.html">IBBY &#8211; tajemniczy skrót</a>
-  </p>
-</blockquote>
+  </blockquote>

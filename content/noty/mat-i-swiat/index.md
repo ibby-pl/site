@@ -1,7 +1,6 @@
 ---
 title: Mat i świat
 author: Maria Kulik
-type: page
 date: 2015-12-14T07:16:44+00:00
 
 ---

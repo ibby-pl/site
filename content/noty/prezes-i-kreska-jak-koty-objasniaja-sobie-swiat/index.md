@@ -1,7 +1,6 @@
 ---
 title: Prezes i Kreska. Jak koty objaśniają sobie świat
 author: Michał Zając
-type: page
 date: 2014-02-17T08:08:50+00:00
 
 ---

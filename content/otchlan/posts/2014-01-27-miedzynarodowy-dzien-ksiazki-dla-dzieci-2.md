@@ -8,22 +8,11 @@ categories:
   - Aktualności
 
 ---
-<p style="text-align: justify;">
+
   <a href="http://www.ibby.pl/wp-content/uploads/2014/01/ICBD2014_plakat.jpg" rel="lightbox[1511]"><img class="alignleft size-medium wp-image-1512" alt="ICBD2014_plakat" src="http://www.ibby.pl/wp-content/uploads/2014/01/ICBD2014_plakat-141x200.jpg" width="141" height="200" srcset="http://www.ibby.pl/wp-content/uploads/2014/01/ICBD2014_plakat-141x200.jpg 141w, http://www.ibby.pl/wp-content/uploads/2014/01/ICBD2014_plakat-70x100.jpg 70w, http://www.ibby.pl/wp-content/uploads/2014/01/ICBD2014_plakat-424x600.jpg 424w, http://www.ibby.pl/wp-content/uploads/2014/01/ICBD2014_plakat.jpg 707w" sizes="(max-width: 141px) 100vw, 141px" /></a>Światowy Dzień Książki dla Dzieci został ustanowiony w celu promowania pięknej literatury i grafiki dla młodego czytelnika. Obchodzony jest 2 IV, w dniu urodzin Andersena. Co roku inny kraj jest gospodarzem tego dnia, projektując i rozsyłając plakat z mottem. Polska była gospodarzem tego dnia w roku 1980, motto „Książka moim oknem na świat” wymyślił Wojciech Żukrowski, a sam plakat projektował Jerzy Czerniawski.
-</p>
-
-<p style="text-align: justify;">
-  <!--more-->
-</p>
-
-<p style="text-align: justify;">
-  W tym roku gospodarzem dnia jest Irlandia, plakat projektowała Niamh Sharkey, a autorką „Listu do dzieci całego świata” jest Siobhan Parkinson. Tekst listu, w tłumaczeniu Katarzyny Ryrych, brzmi następująco:
-</p>
-
-<p style="text-align: justify;">
-  &#8212;
-</p>
-
+<!--more-->
+W tym roku gospodarzem dnia jest Irlandia, plakat projektowała Niamh Sharkey, a autorką „Listu do dzieci całego świata” jest Siobhan Parkinson. Tekst listu, w tłumaczeniu Katarzyny Ryrych, brzmi następująco:
+&#8212;
 _**List do dzieci świata**_
 
 _**Międzynarodowy Dzień Książki dla Dzieci**_

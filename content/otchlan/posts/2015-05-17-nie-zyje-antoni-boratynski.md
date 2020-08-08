@@ -16,4 +16,3 @@ Laureat wielu nagród, m.in.: w konkursach PTWK na Najpiękniejsze Książki Rok
 
 <a href="http://www.ibby.pl/wp-content/uploads/2015/05/images1.jpg" rel="lightbox[2561]"><img class="alignnone size-full wp-image-2563" src="http://www.ibby.pl/wp-content/uploads/2015/05/images1.jpg" alt="images" width="113" height="160" srcset="http://www.ibby.pl/wp-content/uploads/2015/05/images1.jpg 113w, http://www.ibby.pl/wp-content/uploads/2015/05/images1-71x100.jpg 71w" sizes="(max-width: 113px) 100vw, 113px" /></a>
 
-&nbsp;

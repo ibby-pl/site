@@ -1,7 +1,6 @@
 ---
 title: Mówcie mi Bezprym
 author: Tomasz Osadowski
-type: page
 date: 2016-12-17T15:27:43+00:00
 
 ---

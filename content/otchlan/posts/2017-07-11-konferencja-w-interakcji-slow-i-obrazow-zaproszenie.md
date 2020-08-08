@@ -18,6 +18,6 @@ Badacze książek obrazkowych, komiksów oraz powieści graficznych, badacze ryn
 
 Więcej szczegółów na temat konferencji oraz abstraktów [W interakcji słów i obrazów, konferencja, Gdańsk][1]
 
-&nbsp;
+ 
 
  [1]: http://www.ibby.pl/wp-content/uploads/2017/07/W-interakcji-słów-i-obrazów-konferencja-Gdańsk.pdf

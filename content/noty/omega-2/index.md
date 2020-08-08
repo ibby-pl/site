@@ -1,13 +1,12 @@
 ---
 title: Omega
 author: Michał Zając
-type: page
 date: 2013-06-23T16:30:41+00:00
 
 ---
 Marcin Szczygielski, , s. 595, 21&#215;14,5 cm, Instytut Wydawniczy „Latarnik”, ISBN 978-83-60000-32-8
 
-&nbsp;
+ 
 
 Pewnego dnia życie dwunastoletniej Omegi zamienia się w grę komputerową. Kluczem do pokonywania kolejnych poziomów jest wykonywanie zadań  i poleceń, nadsyłanych smsem. Zadanie wykonane nieprawidłowo skutkuje utratą życia.
 

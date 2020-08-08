@@ -1,7 +1,6 @@
 ---
 title: Chodzi, chodzi baj po ścianie…
 author: Maria Kulik
-type: page
 date: 2014-05-28T12:34:45+00:00
 
 ---
@@ -13,4 +12,4 @@ Zabawa plamą koloru, skalą, kompozycją – tworzą całość lekką, wrażliw
 
 NOMINACJA  GRAFICZNA KSIĄŻKA ROKU 2008
 
-&nbsp;
+ 

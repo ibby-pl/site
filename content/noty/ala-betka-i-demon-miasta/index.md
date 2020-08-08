@@ -1,7 +1,6 @@
 ---
 title: Ala Betka i demon miasta
 author: Michał Zając
-type: page
 date: 2014-01-04T15:26:00+00:00
 
 ---

@@ -1,7 +1,6 @@
 ---
 title: IBBY ogłosiło laureata nagrdy ASAHI 2016
 author: Tomasz Osadowski
-type: page
 date: 2016-04-05T18:52:49+00:00
 
 ---

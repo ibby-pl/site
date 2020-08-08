@@ -24,4 +24,3 @@ Maria Kulik
 
 Prezes Polskiej Sekcji IBBY
 
-&nbsp;

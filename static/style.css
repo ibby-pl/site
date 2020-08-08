@@ -3,7 +3,6 @@
 
 * {
   box-sizing: border-box;
-/*  border: 0.2px yellow solid;*/
 }
 
 body {
@@ -318,6 +317,15 @@ li {
             transform: none;
     opacity: 1;
   }
+}
+
+.logo {
+    background: white;
+}
+
+.logo img {
+    height: 30px;
+    width: auto;
 }
 
 /*-----------hero-----------------*/
@@ -1187,4 +1195,9 @@ bottom: 7px;
     margin-right: auto;
     margin-top: 15px;
     margin-bottom: 30px;
+}
+/*-----------pages inside--------------*/
+
+.author {
+    font-style: italic;
 }

@@ -14,6 +14,5 @@ Warszawskie Centrum Innowacji Edukacyjno-Społecznych i Szkoleń proponuje naucz
 
 Projektowi patronuje Polska Sekcja IBBY, więcej na www.wcies.edu.pl
 
-&nbsp;
+ 
 
-&nbsp;

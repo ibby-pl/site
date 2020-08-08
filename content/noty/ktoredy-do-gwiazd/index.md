@@ -1,7 +1,6 @@
 ---
 title: Którędy do gwiazd?
 author: Maria Kulik
-type: page
 date: 2014-12-06T15:56:45+00:00
 
 ---

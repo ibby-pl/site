@@ -1,7 +1,6 @@
 ---
 title: Praktyczny pan
 author: Tomasz Osadowski
-type: page
 date: 2016-12-17T16:08:25+00:00
 
 ---
@@ -12,7 +11,7 @@ date: 2016-12-17T16:08:25+00:00
 
 Opracowanie graficzne i ilustracje: Adam Pękalski, Bajka, Warszawa 2016, 31 s.,  oprawa twarda, 210&#215;265 mm, ISBN 978-83-65479-07-05, wiek: 5+
 
-&nbsp;
+ 
 
 <img class="size-medium wp-image-3821" src="http://www.ibby.pl/wp-content/uploads/2016/12/Praktyczny-pan-300dpi-1-157x200.jpg" alt="Praktyczny pan-okladka" width="157" height="200" srcset="http://www.ibby.pl/wp-content/uploads/2016/12/Praktyczny-pan-300dpi-1-157x200.jpg 157w, http://www.ibby.pl/wp-content/uploads/2016/12/Praktyczny-pan-300dpi-1-79x100.jpg 79w, http://www.ibby.pl/wp-content/uploads/2016/12/Praktyczny-pan-300dpi-1.jpg 236w" sizes="(max-width: 157px) 100vw, 157px" />
 

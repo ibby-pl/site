@@ -1,7 +1,6 @@
 ---
 title: Brisingr
 author: Michał Zając
-type: page
 date: 2014-02-17T08:09:40+00:00
 
 ---

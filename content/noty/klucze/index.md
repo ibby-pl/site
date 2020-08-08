@@ -1,7 +1,6 @@
 ---
 title: Klucze
 author: Maria Kulik
-type: page
 date: 2015-12-14T15:30:27+00:00
 
 ---
@@ -13,6 +12,6 @@ Adam Lang, narrator i bohater _Kluczy_, opowiada swoją historię sprawnie, bły
 
 NOMINACJA LITERACKA KSIĄŻKA ROKU 2015
 
-&nbsp;
+ 
 
-&nbsp;
+ 

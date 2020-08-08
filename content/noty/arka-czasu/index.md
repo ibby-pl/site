@@ -1,7 +1,6 @@
 ---
 title: Arka czasu
 author: Michał Zając
-type: page
 date: 2014-01-04T15:27:52+00:00
 
 ---

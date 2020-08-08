@@ -1,11 +1,10 @@
 ---
 title: Skrytki
 author: Maria Kulik
-type: page
 date: 2014-12-06T16:49:22+00:00
 
 ---
-&nbsp;
+ 
 
 **Tekst**: Mateusz Wysocki
 
@@ -29,4 +28,4 @@ date: 2014-12-06T16:49:22+00:00
 
 <span style="color: #222222;">NOMINACJA GRAFICZNA KSI</span><span style="color: #222222; font-family: Calibri;"><span style="color: #222222; font-family: Calibri;"><span lang="P">ĄŻKA ROKU 2014</span></span></span>
 
-&nbsp;
+ 

@@ -8,10 +8,8 @@ categories:
   - Aktualności
 
 ---
-<p style="text-align: justify;">
-  <strong>Medal PS IBBY i Książka Roku 2012</strong>
-</p>
 
+  Medal PS IBBY i Książka Roku 2012
 <span style="text-decoration: underline;">Nominacje literackie:</span>
 
   1. Paweł Beręsewicz Wszystkie lajki Marczuka (wydawnictwo Literatura, Łódź 2012)
@@ -30,94 +28,83 @@ categories:
  14. Michał Rusinek Wierszyki domowe (wydawnictwo Znak Emotikon, Kraków 2012)
  15. Marcin Wicha Klara. Słowo na „Szy” (wydawnictwo Czarna Owieczka, Warszawa 2012)
 
-<p style="text-align: justify;">
+
    
-</p>
-
-<p style="text-align: justify;">
-  <span style="text-decoration: underline;">Nominacje graficzne:</span>
-</p>
-
-  1. <div style="text-align: justify;">
+<span style="text-decoration: underline;">Nominacje graficzne:</span>
+1. 
       Jacek Ambrożewski za ilustracje i Emilia Pyza za projekt graficzny książki XY z tekstem Joanny Rudniańskiej (wydawnictwo Muchomor, Warszawa 2012)
-    </div>
+    
 
-  2. <div style="text-align: justify;">
+  2. 
       Jan Bajtlik za ilustracje i projekt graficzny oraz Urszula Woźniak za projekt graficzny książki Wiesława Lasockiego Wojtek spod Monte Cassino (wydawnictwo Muchomor, Warszawa 2012)
-    </div>
+    
 
-  3. <div style="text-align: justify;">
+  3. 
       Mikołaj Chylak za ilustracje do tomu Czesława Miłosza Świat. Poema naiwne (wydawnictwo Muchomor, Warszawa 2012)
-    </div>
+    
 
-  4. <div style="text-align: justify;">
+  4. 
       Ola Cieślak za książkę autorską Złe sny (wydawnictwo Bona, Kraków 2011)
-    </div>
+    
 
-  5. <div style="text-align: justify;">
+  5. 
       Piotr Fąfrowicz za ilustracje do książki Bezpowrotna góra. Baśnie japońskie (wydawnictwo Media Rodzina, Poznań 2012)
-    </div>
+    
 
-  6. <div style="text-align: justify;">
+  6. 
       Małgorzata Frąckiewicz/Poważne Studio za opracowanie zdjęć i projekt graficzny książki Po drugiej stronie okna. Opowieść o Januszu Korczaku z tekstem Anny Czerwińskiej-Rydel (wydawnictwo Muchomor, Warszawa 2012)
-    </div>
+    
 
-  7. <div style="text-align: justify;">
+  7. 
       Marta Ignerska za ilustracje i projekt graficzny książki Wszystko gra z tekstem Anny Czerwińskiej-Rydel (wydawnictwo Wytwórnia, Warszawa 2011)
-    </div>
+    
 
-  8. <div style="text-align: justify;">
+  8. 
       Grażka Lange za opracowanie graficzne książki Cyrk z tekstem Macieja Byliniaka, zawierającej plakaty z Muzeum Plakatu w Wilanowie (wydawnictwo Dwie Siostry, Warszawa 2012)
-    </div>
+    
 
-  9. <div style="text-align: justify;">
+  9. 
       Aleksandra i Daniel Mizielińscy za książkę autorską Mapy. Obrazkowa podróż po lądach, morzach i kulturach świata (wydawnictwo Dwie Siostry, Warszawa 2012)
-    </div>
+    
 
- 10. <div style="text-align: justify;">
+ 10. 
       Patryk Mogilnicki za ilustracje do książki Brud z tekstem Olgi Woźniak (wydawnictwo Hokus-Pokus, Warszawa 2012)
-    </div>
+    
 
- 11. <div style="text-align: justify;">
+ 11. 
       Marianna Oklejak za ilustracje do książki Jestem miasto. Warszawa z tekstem Aleksandry Szkody (wydawnictwo Czuły Barbarzyńca Press, Warszawa 2012)
-    </div>
+    
 
- 12. <div style="text-align: justify;">
+ 12. 
       Paweł Pawlak za książkę autorską Czarostatki i parodzieje (wydawnictwo Tatarak, Warszawa 2012)
-    </div>
+    
 
- 13. <div style="text-align: justify;">
+ 13. 
       Agnieszka Skopińska za ilustracje do książki Sylvii Plath Garnitur na każdą okazję (wydawnictwo Dwie Siostry, Warszawa 2012)
-    </div>
+    
 
-<p style="text-align: justify;">
+
    
-</p>
-
-<p style="text-align: justify;">
-  <span style="text-decoration: underline;">Nominacje do nagrody za upowszechnianie czytelnictwa:</span>
-</p>
-
-  1. <div style="text-align: justify;">
+<span style="text-decoration: underline;">Nominacje do nagrody za upowszechnianie czytelnictwa:</span>
+1. 
       Dom Kultury 502 w Łodzi.
-    </div>
+    
 
-  2. <div style="text-align: justify;">
+  2. 
       Ewa Gruda, kierownik Muzeum Książki Dziecięcej w Warszawie
-    </div>
+    
 
-  3. <div style="text-align: justify;">
+  3. 
       Bożena Kazanowska i Renata Łęczyńska, założycielki ogólnopolskiej Wypożyczalni Książek Dotykowych
-    </div>
+    
 
-  4. <div style="text-align: justify;">
+  4. 
       Marta Lipczyńska-Gil, redaktor naczelna czasopisma o książce dla dzieci RYMS
-    </div>
+    
 
-  5. <div style="text-align: justify;">
+  5. 
       Alina Zielińska, nauczycielka Gimnazjum w Gdyni
-    </div>
+    
 
-<p style="text-align: justify;">
+
    
-</p>

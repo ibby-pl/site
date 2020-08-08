@@ -8,7 +8,7 @@ categories:
   - Aktualności
 
 ---
-**Zapraszamy** na <a href="http://www.targiksiazki.pl" target="_blank"><strong>Targi Książki dla Dzieci, Młodzieży i Rodziców w Poznaniu</strong></a>!
+**Zapraszamy** na <a href="http://www.targiksiazki.pl" target="_blank">Targi Książki dla Dzieci, Młodzieży i Rodziców w Poznaniu</a>!
 
 Polska Sekcja IBBY też tam będzie.
 

@@ -1,7 +1,6 @@
 ---
 title: Pięć sprytnych kun
 author: Tomasz Osadowski
-type: page
 date: 2016-12-17T15:54:06+00:00
 
 ---

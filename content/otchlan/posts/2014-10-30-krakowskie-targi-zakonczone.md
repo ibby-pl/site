@@ -16,4 +16,3 @@ W siedzibie Fundacji „Znaczy Się” Marianna Oklejak i Zofia Stanecka poprowa
   
 Wkładem targowym Polskiej Sekcji IBBY  były dwugodzinne wykłady dla bibliotekarzy i studentów. Nasze prelegentki skupiły się na współczesnej polskiej ilustracji i zjawiskach literackich, w tym biblioterapii.
 
-&nbsp;

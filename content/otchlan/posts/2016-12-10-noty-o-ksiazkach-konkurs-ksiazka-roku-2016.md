@@ -14,4 +14,3 @@ Pobierz noty o książkach nominowanych, wyróżnionych i nagrodzonych w konkurs
 
 <a href="http://www.ibby.pl/wp-content/uploads/2016/12/Noty-o-książkach-konkurs-Książka-Roku-2016-PS-IBBY.pdf" target="_blank">noty-o-ksiazkach-konkurs-ksiazka-roku-2016-ps-ibby</a>
 
-&nbsp;

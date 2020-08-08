@@ -12,4 +12,3 @@ Już  w przyszłym tygodniu spotkamy się na Stadionie Narodowym jako uczestni
 
 <a href="http://www.ibby.pl/wp-content/uploads/2015/05/515x728-WTK-pol.jpg" rel="lightbox[2554]"><img class="alignnone size-medium wp-image-2555" src="http://www.ibby.pl/wp-content/uploads/2015/05/515x728-WTK-pol-142x200.jpg" alt="515x728-WTK-pol" width="142" height="200" srcset="http://www.ibby.pl/wp-content/uploads/2015/05/515x728-WTK-pol-142x200.jpg 142w, http://www.ibby.pl/wp-content/uploads/2015/05/515x728-WTK-pol-71x100.jpg 71w, http://www.ibby.pl/wp-content/uploads/2015/05/515x728-WTK-pol.jpg 317w" sizes="(max-width: 142px) 100vw, 142px" /></a>
 
-&nbsp;

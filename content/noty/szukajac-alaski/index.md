@@ -1,7 +1,6 @@
 ---
 title: Szukając Alaski
 author: Michał Zając
-type: page
 date: 2014-02-16T17:47:18+00:00
 
 ---

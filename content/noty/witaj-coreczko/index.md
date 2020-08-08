@@ -1,7 +1,6 @@
 ---
 title: Witaj, córeczko!
 author: Michał Zając
-type: page
 date: 2013-06-23T16:39:00+00:00
 
 ---

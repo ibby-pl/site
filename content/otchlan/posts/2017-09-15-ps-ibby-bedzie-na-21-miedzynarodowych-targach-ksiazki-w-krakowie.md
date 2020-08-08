@@ -39,8 +39,7 @@ Od soboty 28 października na terenie Targów pojawi się specjalna Strefa Autor
   
   <p class="wp-caption-text">
     Foto: z archiwum Międzynarodowych Targów Książki w Krakowie
-  </p>
-</div>
+  
 
 Już znamy pierwsze nazwiska autorów, którzy pojawią się na tegorocznych Targach. Jesteście ciekawi?
   

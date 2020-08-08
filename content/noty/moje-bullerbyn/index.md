@@ -1,7 +1,6 @@
 ---
 title: Moje Bullerbyn
 author: Maria Kulik
-type: page
 date: 2014-02-18T07:48:41+00:00
 
 ---

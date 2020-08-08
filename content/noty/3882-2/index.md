@@ -1,7 +1,6 @@
 ---
 title: Wytwórnik. Kalendarz 2017
 author: Tomasz Osadowski
-type: page
 date: 2016-12-17T17:12:37+00:00
 
 ---

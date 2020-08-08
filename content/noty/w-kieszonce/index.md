@@ -1,7 +1,6 @@
 ---
 title: W kieszonce
 author: Maria Kulik
-type: page
 date: 2015-12-15T07:48:20+00:00
 
 ---

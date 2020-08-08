@@ -1,7 +1,6 @@
 ---
 title: Czytam sobie
 author: Maria Kulik
-type: page
 date: 2014-02-18T09:09:21+00:00
 
 ---

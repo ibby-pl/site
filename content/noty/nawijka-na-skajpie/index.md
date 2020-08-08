@@ -1,7 +1,6 @@
 ---
 title: Nawijka na skajpie
 author: Maria Kulik
-type: page
 date: 2014-12-06T16:20:10+00:00
 
 ---

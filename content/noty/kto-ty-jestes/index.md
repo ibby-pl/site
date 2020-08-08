@@ -1,7 +1,6 @@
 ---
 title: Kto ty jesteś?
 author: Michał Zając
-type: page
 date: 2014-01-04T13:16:45+00:00
 
 ---

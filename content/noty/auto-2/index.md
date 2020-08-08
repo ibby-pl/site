@@ -1,7 +1,6 @@
 ---
 title: Auto
 author: Michał Zając
-type: page
 date: 2014-01-04T12:25:01+00:00
 
 ---

@@ -1,7 +1,6 @@
 ---
 title: Cholera i inne choroby
 author: Tomasz Osadowski
-type: page
 date: 2016-12-17T17:37:57+00:00
 
 ---

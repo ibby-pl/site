@@ -1,7 +1,6 @@
 ---
 title: Cześć, tato!
 author: Michał Zając
-type: page
 date: 2014-02-16T17:55:07+00:00
 
 ---

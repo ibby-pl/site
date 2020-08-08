@@ -23,4 +23,3 @@ Zgłoszone książki prezentowane są podczas Kongresów IBBY. Następnie ksią�
 
 Wpisanie na Listę Honorową IBBY jest równoznaczne z poleceniem książki wydawcom z całego świata jako wartościowej do publikacji.
 
-&nbsp;

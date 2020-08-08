@@ -1,7 +1,6 @@
 ---
 title: Cuda wianki. Polski folklor dla młodszych i starszych
 author: Maria Kulik
-type: page
 date: 2015-12-15T07:40:05+00:00
 
 ---

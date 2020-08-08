@@ -1,7 +1,6 @@
 ---
 title: Przygody Rodziny Mellopsów
 author: Maria Kulik
-type: page
 date: 2014-02-18T07:40:50+00:00
 
 ---

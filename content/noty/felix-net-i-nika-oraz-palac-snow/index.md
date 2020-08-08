@@ -1,11 +1,10 @@
 ---
 title: Felix, Net i Nika oraz Pałac Snów
 author: Michał Zając
-type: page
 date: 2013-06-19T19:30:37+00:00
 
 ---
-&nbsp;
+ 
 
 Rafał Kosik, Wyd.Powergraph, s. 458;135 X215 mm; wiek+9 ISBN 83-921466-5-4;
 
@@ -17,4 +16,4 @@ Pierwsze tomy serii były również nagrodzone w minionych edycjach „Książki
 
 NOMINACJA  LITERACKA KSIĄŻKA ROKU 2007
 
-&nbsp;
+ 

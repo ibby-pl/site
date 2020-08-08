@@ -1,7 +1,6 @@
 ---
 title: Która to Malala?
 author: Maria Kulik
-type: page
 date: 2015-12-14T15:34:02+00:00
 
 ---
@@ -11,4 +10,4 @@ Książka oparta na faktach. Malala Yousafzai, pakistańska nastolatka, dziewczy
 
 NOMINACJA LITERACKA KSIĄŻKA ROKU 2015
 
-&nbsp;
+ 

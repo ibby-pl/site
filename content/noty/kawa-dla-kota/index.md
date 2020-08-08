@@ -1,7 +1,6 @@
 ---
 title: Kawa dla kota
 author: Maria Kulik
-type: page
 date: 2014-05-28T12:31:08+00:00
 
 ---

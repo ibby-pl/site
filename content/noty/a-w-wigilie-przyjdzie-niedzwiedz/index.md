@@ -1,7 +1,6 @@
 ---
 title: A w Wigilię przyjdzie Niedźwiedź
 author: Michał Zając
-type: page
 date: 2014-02-16T17:48:05+00:00
 
 ---

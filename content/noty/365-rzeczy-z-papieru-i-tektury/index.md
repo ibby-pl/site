@@ -1,7 +1,6 @@
 ---
 title: 365 rzeczy z papieru i tektury
 author: Maria Kulik
-type: page
 date: 2014-02-18T08:53:45+00:00
 
 ---

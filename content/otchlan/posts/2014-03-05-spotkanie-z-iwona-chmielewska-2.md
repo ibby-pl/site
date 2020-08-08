@@ -14,4 +14,3 @@ categories:
 
 Spotkanie z wyjątkową autorką książek, która wierzy w społeczną siłę oddziaływania słowa i obrazu &#8211; **Iwoną Chmielewską** &#8211; i jej niewydaną w Polsce książką, laureatką Bologna Ragazzi Award 2013 w kategorii non-fiction &#8211; &#8222;Oczy&#8221; (Wydawnictwo Changbi, Seul 2012).
 
-&nbsp;

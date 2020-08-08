@@ -30,8 +30,7 @@ Grzegorz Kasdepke został wyróżniony statuetką Pegazika dla twórcy książek
 
 Wróciliśmy z Poznania uskrzydleni niczym targowy Pegazik. To miejsce, w którym utwierdzamy się w przekonaniu, że to co robi Polska Sekcja IBBY ma sens. Do zobaczenia za rok!
 
-&nbsp;
+ 
 
-&nbsp;
+ 
 
-&nbsp;

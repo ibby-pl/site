@@ -1,7 +1,6 @@
 ---
 title: Bajki dla Idy
 author: Maria Kulik
-type: page
 date: 2014-05-28T12:26:17+00:00
 
 ---
@@ -15,4 +14,4 @@ Pełna zaskakujących pomysłów, dowcipna, wzruszająca książka, dla małych 
 
 NOMINACJA  LITERACKA  oraz GRAFICZNA KSIĄŻKA ROKU 2008
 
-&nbsp;
+ 

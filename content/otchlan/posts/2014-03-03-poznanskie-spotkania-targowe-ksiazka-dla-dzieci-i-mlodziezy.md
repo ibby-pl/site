@@ -8,7 +8,7 @@ categories:
   - Aktualności
 
 ---
-&nbsp;
+ 
 
 Zakończyła się XIII edycja tych targów, w których Polska Sekcja IBBY aktywnie uczestniczy. Mistrzem Ilustracji, prezentującym swoje dokonania, była znakomita ilustratorka, Elżbieta Butlewska-Krygowska. Wśród zaproszonych osób było wielu laureatów nagród, m. in. Krystyna Lipka-Sztarbałło, Anna Czerwińska- Rydel, Iwona Chmielewska i wielu innych.
 

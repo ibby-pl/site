@@ -14,10 +14,9 @@ Laureatem nagrody **ASAHI 2016** wręczanej przez IBBY za upowszechnianie czytel
 
 <a href="http://www.ibby.org/index.php?id=272" target="_blank">O idei nagrody ASAHI (w jęz. ang.)</a>.
 
-&nbsp;
+ 
 
-&nbsp;
+ 
 
-&nbsp;
+ 
 
-&nbsp;

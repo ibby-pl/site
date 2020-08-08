@@ -1,7 +1,6 @@
 ---
 title: Prawdziwa bajka
 author: Michał Zając
-type: page
 date: 2014-01-04T15:31:48+00:00
 
 ---

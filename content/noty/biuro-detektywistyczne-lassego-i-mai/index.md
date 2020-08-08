@@ -1,7 +1,6 @@
 ---
 title: Biuro detektywistyczne Lassego i Mai
 author: Maria Kulik
-type: page
 date: 2014-02-18T07:44:54+00:00
 
 ---

@@ -1,7 +1,6 @@
 ---
 title: W czepku urodzone
 author: Maria Kulik
-type: page
 date: 2014-02-18T08:12:06+00:00
 
 ---

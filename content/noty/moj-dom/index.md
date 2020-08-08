@@ -1,11 +1,10 @@
 ---
 title: Mój dom
 author: Maria Kulik
-type: page
 date: 2014-02-18T09:17:04+00:00
 
 ---
-&nbsp;
+ 
 
 tekst i ilustracje Delphine Durand, przeł. Marek Puszczewicz, wyd. Entliczek, ISBN 978-83-63156-02-2, ss. 44 + wyklejka, oprawa twarda, 205&#215;205,wiek 3+
 
@@ -17,4 +16,4 @@ Obecnie ilustrację wszechogarniającą, przetwarzającą świstki, kwity, opako
 
 WYRÓŻNIENIE  DONG 2012
 
-&nbsp;
+ 

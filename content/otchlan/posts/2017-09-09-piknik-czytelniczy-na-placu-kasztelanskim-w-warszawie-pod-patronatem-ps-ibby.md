@@ -10,21 +10,19 @@ categories:
 ---
 <div>
   <span class="gmail-_4n-j gmail-_fbReactionComponent__eventDetailsContentTags gmail-fsl"><b>Zapraszamy wszystkich rodziców z dziećmi na Piknik Czytelniczy na Placu Kasztelańskim w Warszawie.<br /> </b><img class="alignnone wp-image-4339 size-thumbnail" src="http://www.ibby.pl/wp-content/uploads/2017/09/piknik-czytelniczy-150x73.jpg" alt="" width="150" height="73" srcset="http://www.ibby.pl/wp-content/uploads/2017/09/piknik-czytelniczy-150x73.jpg 150w, http://www.ibby.pl/wp-content/uploads/2017/09/piknik-czytelniczy-300x146.jpg 300w, http://www.ibby.pl/wp-content/uploads/2017/09/piknik-czytelniczy.jpg 720w" sizes="(max-width: 150px) 100vw, 150px" /><br /> Wspólnie pokażemy dzieciom i młodzieży, że książka to nie przeżytek ani relikt przeszłości; że może mieć różne formy; że inspiruje do wielu działań; że czytanie można zamienić na działanie!<br /> </span><span class="gmail-_4n-j gmail-_fbReactionComponent__eventDetailsContentTags gmail-fsl"><b>Kiedy: w sobotę, 23 września w godzinach 12:00-17:00<br /> Gdzie: Plac Kasztelański w Warszawie</b><br /> </span>
-</div>
+
 
 <div>
   <span class="gmail-_4n-j gmail-_fbReactionComponent__eventDetailsContentTags gmail-fsl"><br /> W czasie pikniku będzie można zapoznać się z dobrą książką dla dzieci i młodzieży, usiąść na kocu, poczytać, kupić książkę lub wymienić przyniesioną przez sie<span class="gmail-text_exposed_show">bie na inną.<br /> Plac Kasztelański to ciekawa przestrzeń miejska. Warto ją wykorzystać, by promować czytanie. Piknik Czytelniczy to: spotkania z pisarzami oraz ludźmi związanymi z rynkiem i promocją wartościowej, ciekawej książki dla młodego czytelnika; warsztaty zachęcające do czytania i innych form twórczości oraz konkursy.<br /> Zapraszamy do wspólnej zabawy wszystkich miłośników książek!</span></span>
-</div>
+
 
 <div>
-  <span class="gmail-_4n-j gmail-_fbReactionComponent__eventDetailsContentTags gmail-fsl"><span class="gmail-_4n-j gmail-_fbReactionComponent__eventDetailsContentTags gmail-fsl"><span class="gmail-text_exposed_show"><br /> Partnerzy projektu: Bemowskie Centrum Kultury, Miejsce Aktywności Lokalnej <a href="https://www.facebook.com/dwajelonki/" target="_blank" rel="noopener noreferrer">Dwa Jelonki</a>,<br /> <strong>Patronat nad wydarzeniem objęła Polska Sekcja IBBY/Polish Section of IBBY.</strong><br /> </span></span></span></p> 
+  <span class="gmail-_4n-j gmail-_fbReactionComponent__eventDetailsContentTags gmail-fsl"><span class="gmail-_4n-j gmail-_fbReactionComponent__eventDetailsContentTags gmail-fsl"><span class="gmail-text_exposed_show"><br /> Partnerzy projektu: Bemowskie Centrum Kultury, Miejsce Aktywności Lokalnej <a href="https://www.facebook.com/dwajelonki/" target="_blank" rel="noopener noreferrer">Dwa Jelonki</a>,<br /> Patronat nad wydarzeniem objęła Polska Sekcja IBBY/Polish Section of IBBY.<br /> </span></span></span></p> 
   
   <hr />
   
   <p>
-    <span class="gmail-_4n-j gmail-_fbReactionComponent__eventDetailsContentTags gmail-fsl"><span class="gmail-_4n-j gmail-_fbReactionComponent__eventDetailsContentTags gmail-fsl"><span class="gmail-text_exposed_show"><strong>Szczegółowy program spotkań literackich i warsztatów</strong> </span></span></span>
-  </p>
-  
+    <span class="gmail-_4n-j gmail-_fbReactionComponent__eventDetailsContentTags gmail-fsl"><span class="gmail-_4n-j gmail-_fbReactionComponent__eventDetailsContentTags gmail-fsl"><span class="gmail-text_exposed_show">Szczegółowy program spotkań literackich i warsztatów </span></span></span>
   <ul>
     <li>
       W czasie pikniku towarzyszyć nam będzie <a href="https://www.facebook.com/agata.jo.matras/" target="_blank" rel="noopener noreferrer">Gackolandia &#8211; rysunki Agaty Matraś</a><br /> <a href="https://www.facebook.com/agata.jo.matras/" target="_blank" rel="noopener noreferrer">https://www.facebook.com/<wbr />agata.jo.matras/</a>, <a href="https://l.facebook.com/l.php?u=http%3A%2F%2Fgackolandia.blox.pl%2Fhtml&h=ATMIqmVe-wpY_t45lJ1czC7KSoLkkOky8zOT8b3r1b0HpwOBtkQ0yh2wUD6ey9NrnIFzKeWOOgqATfCe5eeW26WdDelv5D7O-vWtfsJ716ErOupxKlpFT1DA1Qom00MkmM_X0GhcvAP1qx6RURJ_TMiC4W4d6UPU2uF0e869cxjwGmEzcA" target="_blank" rel="noopener noreferrer">http://<wbr />gackolandia.blox.pl/html</a><br /> Jej autorka, Agata Matraś przygotowuje właśnie warsztaty komiksowe związane z&#8230; Placem Kasztelańskim! Jacy bohaterowie komiksu mogą się w tym miejscu pojawić? Wszystko okaże się niebawem.
@@ -51,11 +49,8 @@ categories:
   
   <p>
     Patronat medialny objęła nad imprezą czytelniczą TV Górczewska. Pierwszy materiał o inicjatywie pikniku pojawił się 24 sierpnia w programie informacyjnym o godzinie 18.00.
-  </p>
-  
   <hr />
   
   <p>
     <span class="gmail-_4n-j gmail-_fbReactionComponent__eventDetailsContentTags gmail-fsl"><span class="gmail-text_exposed_show"><br /> Projekt powstaje w ramach Programu Laboratorium Projektów okolic Placu Kasztelańskiego. Autorka projektu <a href="https://www.facebook.com/magdalena.sadowskamaciejewska" target="_blank" rel="noopener noreferrer">Magdalena Sadowska-Maciejewska</a> jest miłośniczką dobrej książki i mamą, która kocha czytać swoim córkom; czasem pisze wiersze.</span></span>
-  </p>
-</div>
+  

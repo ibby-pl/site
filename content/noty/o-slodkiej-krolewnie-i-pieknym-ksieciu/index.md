@@ -1,7 +1,6 @@
 ---
 title: O słodkiej królewnie i pięknym księciu
 author: Maria Kulik
-type: page
 date: 2014-05-28T12:25:18+00:00
 
 ---

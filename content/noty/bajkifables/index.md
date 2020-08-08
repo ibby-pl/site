@@ -1,7 +1,6 @@
 ---
 title: Bajki/Fables
 author: Maria Kulik
-type: page
 date: 2015-12-15T07:49:42+00:00
 
 ---

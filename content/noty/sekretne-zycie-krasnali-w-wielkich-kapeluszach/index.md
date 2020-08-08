@@ -1,7 +1,6 @@
 ---
 title: Sekretne życie Krasnali w Wielkich Kapeluszach
 author: Maria Kulik
-type: page
 date: 2014-05-28T12:35:35+00:00
 
 ---
@@ -9,7 +8,7 @@ date: 2014-05-28T12:35:35+00:00
 
 Wojciech Widłak, il. i oprac. graf. Paweł Pawlak, wyd. Format, s. 39, 978-83-921483-9-5, +6
 
-&nbsp;
+ 
 
 Piękny, acz nietypowy suwenir z wycieczki do Wrocławia, opowieść o krasnalach z tamtejszej fontanny (z mapą!).
 
@@ -19,8 +18,8 @@ Elementy typograficzne i ilustracyjne stanowią ciekawe nawiązanie do tradycyjn
 
 NOMINACJA  GRAFICZNA KSIĄŻKA ROKU 2008
 
-&nbsp;
+ 
 
-&nbsp;
+ 
 
-&nbsp;
+ 

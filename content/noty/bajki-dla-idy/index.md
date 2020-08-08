@@ -1,7 +1,6 @@
 ---
 title: Bajki dla Idy
 author: Michał Zając
-type: page
 date: 2014-02-17T08:04:36+00:00
 
 ---

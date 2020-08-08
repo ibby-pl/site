@@ -1,7 +1,6 @@
 ---
 title: Wielkie marzenia
 author: Maria Kulik
-type: page
 date: 2014-05-28T12:22:02+00:00
 
 ---
@@ -19,4 +18,4 @@ Wyróżnienie za bogactwo form i gest, za zaproszenie w świat bujnej wyobraźni
 
 WYRÓŻNIENIE GRAFICZNE  KSIĄŻKA ROKU 2008
 
-&nbsp;
+ 

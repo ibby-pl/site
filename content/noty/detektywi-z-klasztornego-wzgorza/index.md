@@ -1,7 +1,6 @@
 ---
 title: Detektywi z klasztornego wzgórza
 author: Maria Kulik
-type: page
 date: 2015-12-14T15:32:39+00:00
 
 ---

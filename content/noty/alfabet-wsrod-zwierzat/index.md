@@ -1,7 +1,6 @@
 ---
 title: Alfabet wśród zwierząt
 author: Tomasz Osadowski
-type: page
 date: 2016-12-17T16:24:40+00:00
 
 ---

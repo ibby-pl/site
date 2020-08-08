@@ -1,7 +1,6 @@
 ---
 title: Magiczne tenisówki mojego przyjaciela Percy`ego
 author: Maria Kulik
-type: page
 date: 2014-02-18T08:14:33+00:00
 
 ---

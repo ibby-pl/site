@@ -1,7 +1,6 @@
 ---
 title: Baśnie japońskie. Bezpowrotna góra
 author: Michał Zając
-type: page
 date: 2013-06-19T19:53:50+00:00
 
 ---

@@ -1,7 +1,6 @@
 ---
 title: Legenda o głowie wawelskiej
 author: Michał Zając
-type: page
 date: 2014-01-04T15:33:41+00:00
 
 ---

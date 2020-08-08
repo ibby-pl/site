@@ -1,7 +1,6 @@
 ---
 title: O snach
 author: Maria Kulik
-type: page
 date: 2014-02-18T07:49:42+00:00
 
 ---

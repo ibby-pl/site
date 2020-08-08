@@ -10,18 +10,10 @@ categories:
 ---
 <a href="http://www.ibby.pl/wp-content/uploads/2013/03/icbd2013.jpg" rel="lightbox[504]"><img class="alignleft size-medium wp-image-505" alt="ICBD 2013" src="http://www.ibby.pl/wp-content/uploads/2013/03/icbd2013-137x200.jpg" width="137" height="200" srcset="http://www.ibby.pl/wp-content/uploads/2013/03/icbd2013-137x200.jpg 137w, http://www.ibby.pl/wp-content/uploads/2013/03/icbd2013-68x100.jpg 68w, http://www.ibby.pl/wp-content/uploads/2013/03/icbd2013-411x600.jpg 411w, http://www.ibby.pl/wp-content/uploads/2013/03/icbd2013.jpg 446w" sizes="(max-width: 137px) 100vw, 137px" /></a>
 
-<p style="text-align: justify;">
-  <strong>Światowy Dzień Książki dla Dzieci</strong> został ustanowiony w celu promowania pięknej literatury i grafiki dla młodego czytelnika. Obchodzony jest 2 IV, w dniu urodzin Andersena. Co roku inny kraj jest gospodarzem tego dnia, projektując i rozsyłając plakat z mottem. Polska była gospodarzem tego dnia w roku 1980, motto &#8222;Książka moim oknem na świat&#8221; wymyślił Wojciech Żukrowski, a sam plakat projektował Jerzy Czerniawski.
-</p>
 
-<p style="text-align: justify;">
-  <!--more-->
-</p>
-
-<p style="text-align: justify;">
-  W tym roku gospodarzem dnia są Stany Zjednoczone, plakat projektował Ashley Bryan, a autorką motta &#8222;Bookjoy Around the World…&#8221; jest Pat Mora.
-</p>
-
+  Światowy Dzień Książki dla Dzieci został ustanowiony w celu promowania pięknej literatury i grafiki dla młodego czytelnika. Obchodzony jest 2 IV, w dniu urodzin Andersena. Co roku inny kraj jest gospodarzem tego dnia, projektując i rozsyłając plakat z mottem. Polska była gospodarzem tego dnia w roku 1980, motto &#8222;Książka moim oknem na świat&#8221; wymyślił Wojciech Żukrowski, a sam plakat projektował Jerzy Czerniawski.
+<!--more-->
+W tym roku gospodarzem dnia są Stany Zjednoczone, plakat projektował Ashley Bryan, a autorką motta &#8222;Bookjoy Around the World…&#8221; jest Pat Mora.
 <table width="100%" border="0" align="center">
   <tr>
     <td align="middle" valign="top" width="50%">
@@ -34,20 +26,9 @@ categories:
   </tr>
 </table>
 
-<p style="text-align: justify;">
-  <p style="text-align: justify;">
-    <strong>Ashley Bryan</strong>, amerykański artysta, pochodzi z Karaibów, a wychował się w zróżnicowanej etnicznie dzielnicy Bronx.
-  </p>
+
   
-  <p style="text-align: justify;">
-    Jest jednym z najbardziej cenionych ilustratorów w USA, został nominowany przez amerykańską sekcję IBBY do nagrody Hansa Christiana Andersena oraz został uhonorowany prestiżowymi nagrodami takimi jak Laura Ingalls Wilder Award, Regina Medal oraz Coretta Scott King-Virginia Hamilton Award, W roku 2008 otrzymał tytuł Lwa Nowojorskiej Biblioteki Publicznej (&#8222;New York City Library Lion”) za „najwyższe osiągnięcia w swojej dziedzinie sztuki&#8221;.
-  </p>
-  
-  <p style="text-align: justify;">
-    <p style="text-align: justify;">
-      <strong>Pat Mora</strong>, poetka i autorka przesłania Międzynarodowego Dnia Książki Dziecięcej w roku 2013, pochodzi z w El Paso w Teksasie, napisała ponad 40 nagrodzonych książek dla dzieci, młodzieży i dorosłych.
-    </p>
-    
-    <p style="text-align: justify;">
-      Wychowana w dwujęzycznej rodzinie Pat Mora, była nauczycielka, zainicjowała akcję na rzecz piśmienności <em>El día de los niños, El día de los libros/Children’s Day, Book Day (Día)</em>, obecnie realizowaną przez Amerykańskie Stowarzyszenie Bibliotekarskie. Za swe książki Pat Mora otrzymała wiele nagród takich jak Pura Belpré Award, Américas Award, Golden Kite Award, Tomás Rivera Mexican American Children’s Award.
-    </p>
+    Ashley Bryan, amerykański artysta, pochodzi z Karaibów, a wychował się w zróżnicowanej etnicznie dzielnicy Bronx.
+  Jest jednym z najbardziej cenionych ilustratorów w USA, został nominowany przez amerykańską sekcję IBBY do nagrody Hansa Christiana Andersena oraz został uhonorowany prestiżowymi nagrodami takimi jak Laura Ingalls Wilder Award, Regina Medal oraz Coretta Scott King-Virginia Hamilton Award, W roku 2008 otrzymał tytuł Lwa Nowojorskiej Biblioteki Publicznej (&#8222;New York City Library Lion”) za „najwyższe osiągnięcia w swojej dziedzinie sztuki&#8221;.
+  Pat Mora, poetka i autorka przesłania Międzynarodowego Dnia Książki Dziecięcej w roku 2013, pochodzi z w El Paso w Teksasie, napisała ponad 40 nagrodzonych książek dla dzieci, młodzieży i dorosłych.
+    Wychowana w dwujęzycznej rodzinie Pat Mora, była nauczycielka, zainicjowała akcję na rzecz piśmienności <em>El día de los niños, El día de los libros/Children’s Day, Book Day (Día)</em>, obecnie realizowaną przez Amerykańskie Stowarzyszenie Bibliotekarskie. Za swe książki Pat Mora otrzymała wiele nagród takich jak Pura Belpré Award, Américas Award, Golden Kite Award, Tomás Rivera Mexican American Children’s Award.

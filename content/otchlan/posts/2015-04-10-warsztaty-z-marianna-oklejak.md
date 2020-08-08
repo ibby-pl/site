@@ -18,12 +18,12 @@ Więcej na www.biblioteka.pila.pl
 
 [<img class="alignnone size-medium wp-image-2475" src="http://www.ibby.pl/wp-content/uploads/2015/04/ksiązka-jest-O.K-148x200.jpg" alt=",ksiązka jest O.K" width="148" height="200" srcset="http://www.ibby.pl/wp-content/uploads/2015/04/ksiązka-jest-O.K-148x200.jpg 148w, http://www.ibby.pl/wp-content/uploads/2015/04/ksiązka-jest-O.K-74x100.jpg 74w, http://www.ibby.pl/wp-content/uploads/2015/04/ksiązka-jest-O.K-443x600.jpg 443w, http://www.ibby.pl/wp-content/uploads/2015/04/ksiązka-jest-O.K.jpg 680w" sizes="(max-width: 148px) 100vw, 148px" />][1]
 
-&nbsp;
+ 
 
-&nbsp;
+ 
 
 ** **
 
-&nbsp;
+ 
 
  [1]: http://www.ibby.pl/wp-content/uploads/2015/04/ksiązka-jest-O.K.jpg

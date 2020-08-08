@@ -1,7 +1,6 @@
 ---
 title: Miłek z Czarnego Lasu
 author: Maria Kulik
-type: page
 date: 2014-05-28T12:18:07+00:00
 
 ---
@@ -13,4 +12,4 @@ To kameralna opowieść o małych i dużych sprawach, o problemach, na które mo
 
 NAGRODA LITERACKA  KSIĄŻKA ROKU 2008
 
-&nbsp;
+ 

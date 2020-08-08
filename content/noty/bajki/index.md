@@ -1,7 +1,6 @@
 ---
 title: Bajki
 author: Maria Kulik
-type: page
 date: 2015-12-15T07:42:30+00:00
 
 ---

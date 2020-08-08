@@ -1,7 +1,6 @@
 ---
 title: Legendy Poznania i Brna
 author: Tomasz Osadowski
-type: page
 date: 2016-12-17T17:35:33+00:00
 
 ---

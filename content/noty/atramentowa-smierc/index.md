@@ -1,7 +1,6 @@
 ---
 title: Atramentowa śmierć
 author: Michał Zając
-type: page
 date: 2014-02-17T07:58:55+00:00
 
 ---

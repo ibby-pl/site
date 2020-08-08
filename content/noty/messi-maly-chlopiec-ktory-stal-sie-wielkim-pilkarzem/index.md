@@ -1,7 +1,6 @@
 ---
 title: Messi. Mały chłopiec, który stał się wielkim piłkarzem
 author: Maria Kulik
-type: page
 date: 2014-12-06T16:26:23+00:00
 
 ---

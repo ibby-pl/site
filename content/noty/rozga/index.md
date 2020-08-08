@@ -1,7 +1,6 @@
 ---
 title: Rózga
 author: Michał Zając
-type: page
 date: 2014-02-17T08:02:32+00:00
 
 ---

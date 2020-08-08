@@ -1,7 +1,6 @@
 ---
 title: Apel w sprawie składki członkowskiej
 author: Tomasz Osadowski
-type: page
 date: 2016-11-13T08:09:19+00:00
 
 ---

@@ -1,7 +1,6 @@
 ---
 title: Jak przeklinać. Poradnik dla dzieci
 author: Maria Kulik
-type: page
 date: 2014-05-28T12:32:33+00:00
 
 ---
@@ -15,4 +14,4 @@ Znakomite i bardzo klasyczne rysunki tworzą galerię portretów nietuzinkowych,
 
 NOMINACJA  GRAFICZNA KSIĄŻKA ROKU 2008
 
-&nbsp;
+ 

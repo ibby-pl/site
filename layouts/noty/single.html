@@ -1,0 +1,40 @@
+{{ define "content"}}
+<article id="content" class="container everyman">
+    <div class="row">
+        <div class="col-md-4">
+            {{ range .Resources.ByType "image" }}
+            <div class="ilustracja" >
+                <img alt="{{ .Params.title}}" style="width: 350px" src="{{ .Permalink }}" />
+            </div>
+            {{ end }}
+            <div class="opis">
+                {{ range .Params.wydawca }} {{ . }} {{ end }}, {{ .Params.opis }}
+            </div>
+        </div>
+        <div class="col-md-8">
+            <h1>{{ .Params.title }}</h1>
+            <div class="authors">
+                {{ if .Params.tekst }}
+                tekst: {{ range .Params.tekst }} <strong>{{ . }}</strong> {{- end -}}
+                {{- end -}}
+
+                {{- if (and .Params.tekst .Params.ilustracje) -}}
+                ,
+                {{- end }}
+
+                {{ if .Params.ilustracje }}
+                ilustracje: {{ range .Params.ilustracje }} <strong>{{ . }}</strong> {{ end }}
+                {{ end }}
+            </div>
+            <div class="wiek">
+                Wiek: <strong>{{ .Params.wiek }}</strong>
+            </div>
+            <hr />
+            {{ .Content }}
+            <div class="author">
+                ({{ .Params.author}})
+            </div>
+        </div>
+    </div>
+</article>
+{{ end }}

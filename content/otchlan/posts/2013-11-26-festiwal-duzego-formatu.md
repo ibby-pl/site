@@ -12,6 +12,5 @@ categories:
 
 Wstęp wolny. Szczegóły także na https://www.facebook.com/FestiwalDuzegoFormatu
 
-&nbsp;
+ 
 
-&nbsp;

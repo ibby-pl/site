@@ -22,9 +22,8 @@ Krystyna Rybicka jest jedną z nominowanych osób do nagrody za upowszechnianie 
   <img class="wp-image-4376 size-medium" src="http://www.ibby.pl/wp-content/uploads/2017/09/Krystyna-Rybicka_baza-—-kopia-237x200.jpg" alt="" width="237" height="200" srcset="http://www.ibby.pl/wp-content/uploads/2017/09/Krystyna-Rybicka_baza-—-kopia-237x200.jpg 237w, http://www.ibby.pl/wp-content/uploads/2017/09/Krystyna-Rybicka_baza-—-kopia-119x100.jpg 119w, http://www.ibby.pl/wp-content/uploads/2017/09/Krystyna-Rybicka_baza-—-kopia.jpg 243w" sizes="(max-width: 237px) 100vw, 237px" />
   
   <p class="wp-caption-text">
-    Rys. Nika Jaworowska-Duchlińska<strong style="font-size: 16px;"> </strong>
-  </p>
-</div>
+    Rys. Nika Jaworowska-Duchlińska<strong style="font-size: 16px;"> 
+  
 
 Wszystko zaczęło się od galerii sztuki usytuowanej w jednej z bibliotecznych filii. Długoletnie poszukiwania jej docelowego profilu zbiegły się, w 2008 roku, z wystawą prac Bohdana Butenki. Dla Krystyny Rybickiej była to okazja do zweryfikowania swoich dotychczasowych działań i oczekiwań. Artysta otworzył przed nią mentalne drzwi, dając jednocześnie odwagę do organizowania kolejnych spotkań z ilustratorami. I tak już zostało. Od tamtej pory poprawa warunków lokalowych, potrzeba kolekcjonowania książek i znajomości grafiki użytkowej oraz rzetelnego przygotowywania się do spotkań autorskich stała się priorytetem.
 
@@ -54,7 +53,7 @@ Trudność w uszeregowaniu książki obrazkowej w bibliotecznych zbiorach stanow
 
 * * *
 
-&nbsp;
+ 
 
 **<img class="alignnone size-medium wp-image-4378" src="http://www.ibby.pl/wp-content/uploads/2017/09/Krystyna-Rybicka_zdjęcie-221x200.jpg" alt="" width="221" height="200" srcset="http://www.ibby.pl/wp-content/uploads/2017/09/Krystyna-Rybicka_zdjęcie-221x200.jpg 221w, http://www.ibby.pl/wp-content/uploads/2017/09/Krystyna-Rybicka_zdjęcie-110x100.jpg 110w, http://www.ibby.pl/wp-content/uploads/2017/09/Krystyna-Rybicka_zdjęcie-768x696.jpg 768w, http://www.ibby.pl/wp-content/uploads/2017/09/Krystyna-Rybicka_zdjęcie-662x600.jpg 662w" sizes="(max-width: 221px) 100vw, 221px" />**
 

@@ -1,7 +1,6 @@
 ---
 title: Trylogia czasu
 author: Maria Kulik
-type: page
 date: 2014-02-18T08:21:09+00:00
 
 ---

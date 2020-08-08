@@ -1,7 +1,6 @@
 ---
 title: Małe Instrumenty grają Chopina
 author: Maria Kulik
-type: page
 date: 2014-02-18T07:34:49+00:00
 
 ---

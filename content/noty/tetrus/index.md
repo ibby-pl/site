@@ -1,7 +1,6 @@
 ---
 title: Tetrus
 author: Maria Kulik
-type: page
 date: 2015-12-14T15:36:37+00:00
 
 ---
@@ -13,4 +12,4 @@ Sparaliżowany po wypadku samochodowym szesnastolatek trafia do ośrodka Caritas
 
 NOMINACJA LITERACKA KSIĄŻKA ROKU 2015
 
-&nbsp;
+ 

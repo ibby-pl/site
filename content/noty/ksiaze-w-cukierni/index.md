@@ -1,7 +1,6 @@
 ---
 title: Książę w cukierni
 author: Michał Zając
-type: page
 date: 2014-01-04T13:14:36+00:00
 
 ---

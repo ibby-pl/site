@@ -1,7 +1,6 @@
 ---
 title: Most nad Missisipi
 author: Michał Zając
-type: page
 date: 2014-01-04T15:26:56+00:00
 
 ---

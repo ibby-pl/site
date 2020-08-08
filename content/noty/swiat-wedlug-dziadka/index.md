@@ -1,7 +1,6 @@
 ---
 title: Świat według dziadka
 author: Michał Zając
-type: page
 date: 2014-01-04T13:17:39+00:00
 
 ---

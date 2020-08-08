@@ -1,7 +1,6 @@
 ---
 title: Uciekinierzy
 author: Maria Kulik
-type: page
 date: 2014-05-28T12:31:51+00:00
 
 ---

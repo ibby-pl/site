@@ -1,7 +1,6 @@
 ---
 title: Wiersze z kąpieli
 author: Maria Kulik
-type: page
 date: 2014-12-06T16:23:57+00:00
 
 ---

@@ -24,7 +24,7 @@ tych, którzy mają poetycką duszę (warsztaty poetyckie);
 
 tych, co poezji chętnie posłuchają – Mroczne czytanki po zmroku.
 
-&nbsp;
+ 
 
 Poruszone zostaną bardzo ważne tematy, takie jak: prawa człowieka, patriotyzm, tolerancja. Zaprezentuje się literaturę dotykającą problemów choroby, śmierci, rozwodu, depresji. Przedstawiona też będą publikacje tak zaskakujące, że aż trudno w nie uwierzyć.
 
@@ -40,6 +40,5 @@ Imprezie patronuje m. in Polska Sekcja IBBY
 
 Więcej informacji na stronie http://fldd.pl/
 
-&nbsp;
+ 
 
-&nbsp;

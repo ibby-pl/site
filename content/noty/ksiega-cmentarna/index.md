@@ -1,7 +1,6 @@
 ---
 title: Księga cmentarna
 author: Michał Zając
-type: page
 date: 2014-02-17T07:59:51+00:00
 
 ---

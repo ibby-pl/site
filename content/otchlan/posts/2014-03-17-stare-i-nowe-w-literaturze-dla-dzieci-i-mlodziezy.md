@@ -10,10 +10,9 @@ categories:
 ---
 Instytut Polonistyki i Kulturoznawstwa Uniwersytetu Opolskiego organizuje w dniach 20 &#8211; 21 marca br kolejną konferencję z cyklu „Stare” i „nowe” w literaturze dla dzieci i młodzieży. Tym razem przedmiotem obrad będą biografie dla młodego odbiorcy. Konferencja ma ukazać mnogość tematów i możliwości badawczych penetracji, różne szkoły i metody naukowego podejścia do zagadnienia oraz pokazać miejsce biografii we współczesnym modelu edukacyjnym i wychowawczym.
 
-&nbsp;
+ 
 
-&nbsp;
+ 
 
-&nbsp;
+ 
 
-&nbsp;

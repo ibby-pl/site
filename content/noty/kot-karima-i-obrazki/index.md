@@ -1,7 +1,6 @@
 ---
 title: Kot Karima i obrazki
 author: Tomasz Osadowski
-type: page
 date: 2016-12-17T15:49:47+00:00
 
 ---

@@ -1,7 +1,6 @@
 ---
 title: Daję słowo. Wędrówki po języku i literaturze
 author: Tomasz Osadowski
-type: page
 date: 2016-12-17T16:41:31+00:00
 
 ---
@@ -17,6 +16,6 @@ Efektowne projekty spójnie łączące w obrębie jednolitej koncepcji wydawnicz
 
  <img class="alignnone wp-image-3858 size-medium" src="http://www.ibby.pl/wp-content/uploads/2016/12/DYSKRYMINACJA-300x196.jpg" alt="dyskryminacja" width="300" height="196" srcset="http://www.ibby.pl/wp-content/uploads/2016/12/DYSKRYMINACJA-300x196.jpg 300w, http://www.ibby.pl/wp-content/uploads/2016/12/DYSKRYMINACJA-150x98.jpg 150w, http://www.ibby.pl/wp-content/uploads/2016/12/DYSKRYMINACJA.jpg 679w" sizes="(max-width: 300px) 100vw, 300px" /><img class="alignnone size-medium wp-image-3859" src="http://www.ibby.pl/wp-content/uploads/2016/12/ERUDYCJA-300x196.jpg" alt="erudycja" width="300" height="196" srcset="http://www.ibby.pl/wp-content/uploads/2016/12/ERUDYCJA-300x196.jpg 300w, http://www.ibby.pl/wp-content/uploads/2016/12/ERUDYCJA-150x98.jpg 150w, http://www.ibby.pl/wp-content/uploads/2016/12/ERUDYCJA.jpg 679w" sizes="(max-width: 300px) 100vw, 300px" />
 
-&nbsp;
+ 
 
-&nbsp;
+ 

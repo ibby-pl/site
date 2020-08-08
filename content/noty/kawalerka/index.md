@@ -1,7 +1,6 @@
 ---
 title: Kawalerka
 author: Tomasz Osadowski
-type: page
 date: 2016-12-17T17:56:28+00:00
 
 ---

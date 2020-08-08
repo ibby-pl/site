@@ -1,7 +1,6 @@
 ---
 title: Nienawiść
 author: Maria Kulik
-type: page
 date: 2014-02-18T08:05:59+00:00
 
 ---

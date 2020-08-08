@@ -16,40 +16,31 @@
     </symbol>
     </svg>
 
-    <form novalidate="novalidate" onsubmit="return false;" class="searchbox sbx-custom">
-    <div role="search" class="sbx-custom__wrapper">
-    <input type="search" name="search" placeholder="Szukaj..." autocomplete="off" required="required" class="sbx-custom__input">
-    <button type="submit" title="Submit your search query." class="sbx-custom__submit">
-      <svg role="img" aria-label="Search">
-        <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#sbx-icon-search-11"></use>
-      </svg>
-    </button>
-    <button type="reset" title="Clear the search query." class="sbx-custom__reset">
-      <svg role="img" aria-label="Reset">
-        <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#sbx-icon-clear-1"></use>
-      </svg>
-    </button>
-    </div>
-    </form>
+  <script async src="https://cse.google.com/cse.js?cx=005268531010964870835:p_pmuhzamcw">
 
-<!-- ----------search form ends---------- -->
+  </script>
+  <div class="gcse-search">
+
+  </div>
+
   </div>
 </div>
   <div class="container">
     <div class="row row-hero">     
       <div class="col-md-4 col-logo">
-          <img src="images/logo2.png" alt="IBBY logo" class="img-responsive logo center-block" width="180">
-          <p>International Board on Books for Young People</p>
-          <h4>Międzynarodowa organizacja non-profit,<br> zajmująca się promocją <br>literatury dziecięcej i młodzieżowej.</h4>
+          <a href="https://ibby.org/">
+              <img src="images/logo2.png" alt="IBBY logo" class="img-responsive logo center-block" width="180">
+              <p>International Board on Books for Young People</p>
+              <h4>Międzynarodowa organizacja non-profit,<br> zajmująca się promocją <br>literatury dziecięcej i młodzieżowej.</h4>
+          </a>
       </div>
       <div class="col-md-4 col-social">
           <div class="row row-media">
             <div class="col-md-12">
               <span>
-                <a href="#"><i class="fa fa-facebook-official" aria-hidden="true"></i></a>
-                <a href="#"><i class="fa fa-youtube-square" aria-hidden="true"></i></a>
-                <a href="#"><i class="fa fa-rss-square" aria-hidden="true"></i></a>
-                <a href="#"><i class="fa fa-envelope" aria-hidden="true"></i></a>
+                <a href="https://www.facebook.com/PolskaSekcjaIBBY" target="_blank"><i class="fa fa-facebook-official" aria-hidden="true"></i></a>
+                <a href="https://www.youtube.com/channel/UCLk-58dOQ_rUL47-S0M2-Fw" target="_blank"><i class="fa fa-youtube-square" aria-hidden="true"></i></a>
+                <a href="mailto:ibby@ibby.pl"><i class="fa fa-envelope" aria-hidden="true"></i></a>
               </span>
             </div>
             </div>
@@ -116,9 +107,9 @@
             targetImg.alt = img.alt
             targetImg.title = img.title
         }
-        document.getElementById("blog_post_body").innerText = contentDiv.innerText
-        document.getElementById("blog_post_title").innerText = post.title
-        document.getElementById("blog_post_link").href = post.url
+        document.getElementById("blog_post_body").innerText = contentDiv.innerText;
+        document.getElementById("blog_post_title").innerText = post.title;
+        document.getElementById("blog_post_link").href = post.url;
         console.log(post)
 //        document.getElementById("content").innerHTML += "<h1>" + response.title + "</h1>" + response.content;
       }
@@ -149,39 +140,31 @@
 
 <!-------------------------------carousel---------------------------->
 
-  <div id="myCarouselWrapper" class="container-fluid">
+        {{ $edycja := "KR 2019"}}
 
-       <div id="myCarousel" class="carousel slide">
 
-  <div class="carousel-inner" role="listbox">
-    <div class="item active">
-      <div class="item-item col-md-3 col-sm-4"><a href="#"><img src="images/kr1.jpg" class="img-responsive img-thumbnail center-block" alt="okładka"></a></div>
-    </div>
-    <div class="item">
-      <div class="item-item col-md-3 col-sm-4"><a href="#"><img src="images/kr2.jpg" class="img-responsive img-thumbnail center-block" alt="okładka"></a></div>
-    </div>
-    <div class="item">
-      <div class="item-item col-md-3 col-sm-4"><a href="#"><img src="images/kr3.jpg" class="img-responsive img-thumbnail center-block" alt="okładka"></a></div>
-    </div>
-    <div class="item">
-      <div class="item-item col-md-3 col-sm-4"><a href="#"><img src="images/kr4.jpg" class="img-responsive img-thumbnail center-block" alt="okładka"></a></div>
-    </div>
-    <div class="item">
-      <div class="item-item col-md-3 col-sm-4"><a href="#"><img src="images/kr5.jpg" class="img-responsive img-thumbnail center-block" alt="okładka"></a></div>
-    </div>
-    <div class="item">
-      <div class="item-item col-md-3 col-sm-4"><a href="#"><img src="images/kr6.jpg" class="img-responsive img-thumbnail center-block" alt="okładka"></a></div>
-    </div>
+  <div class="container-fluid">
 
-    </div>
-  </div>
+       <div id="nominacjeLiteratura" class="carousel slide">
+
+          <div class="carousel-inner" role="listbox">
+              {{ range $index, $current := where (where site.RegularPages ".Params.nagrody" "intersect" (slice $edycja)) ".Params.nagrody" "intersect" (slice "KR Nominacja Literacka") }}
+              {{ range first 1 (.Resources.ByType "image") }}
+              <div class="item {{ if (eq $index 0) -}} active {{- end }}">
+                  <div class="item-item col-md-3 col-sm-4"><a href="{{ $current.Permalink }}"><img src="{{ .Permalink }}" class="img-responsive img-thumbnail center-block" alt="okładka"></a></div>
+              </div>
+              {{ end }}
+              {{ end }}
+          </div>
+
+       </div>
 
   <!-- Controls -->
-  <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+  <a class="left carousel-control" href="#nominacjeLiteratura" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
     <span class="sr-only">Previous</span>
   </a>
-  <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+  <a class="right carousel-control" href="#nominacjeLiteratura" role="button" data-slide="next">
     <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
   </a>
@@ -214,39 +197,28 @@
 
 <!-----------------------------carousel2------------------------>
 
-<div id="myCarouselWrapper" class="container-fluid">
+<div class="container-fluid">
 
-       <div id="myCarousel2" class="carousel slide">
+       <div id="nominacjeGrafika" class="carousel slide">
 
-  <div class="carousel-inner" role="listbox">
-    <div class="item active">
-      <div class="item-item col-md-3 col-sm-4"><a href="#"><img src="images/il1.jpg" class="img-responsive img-thumbnail center-block" alt="okładka"></a></div>
-    </div>
-    <div class="item">
-      <div class="item-item col-md-3 col-sm-4"><a href="#"><img src="images/il2.jpg" class="img-responsive img-thumbnail center-block" alt="okładka"></a></div>
-    </div>
-    <div class="item">
-      <div class="item-item col-md-3 col-sm-4"><a href="#"><img src="images/il3.jpg" class="img-responsive img-thumbnail center-block" alt="okładka"></a></div>
-    </div>
-    <div class="item">
-      <div class="item-item col-md-3 col-sm-4"><a href="#"><img src="images/il4.jpg" class="img-responsive img-thumbnail center-block" alt="okładka"></a></div>
-    </div>
-    <div class="item">
-      <div class="item-item col-md-3 col-sm-4"><a href="#"><img src="images/il5.jpg" class="img-responsive img-thumbnail center-block" alt="okładka"></a></div>
-    </div>
-    <div class="item">
-      <div class="item-item col-md-3 col-sm-4"><a href="#"><img src="images/il6.jpg" class="img-responsive img-thumbnail center-block" alt="okładka"></a></div>
-    </div>
+           <div class="carousel-inner" role="listbox">
+               {{ range $index, $current := where (where site.RegularPages ".Params.nagrody" "intersect" (slice $edycja)) ".Params.nagrody" "intersect" (slice "KR Nominacja Graficzna") }}
+               {{ range first 1 (.Resources.ByType "image") }}
+               <div class="item {{ if (eq $index 0) -}} active {{- end }}">
+                   <div class="item-item col-md-3 col-sm-4"><a href="{{ $current.Permalink }}"><img src="{{ .Permalink }}" class="img-responsive img-thumbnail center-block" alt="okładka"></a></div>
+               </div>
+               {{ end }}
+               {{ end }}
+           </div>
 
-    </div>
   </div>
 
   <!-- Controls -->
-  <a class="left carousel-control" href="#myCarousel2" role="button" data-slide="prev">
+  <a class="left carousel-control" href="#nominacjeGrafika" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
     <span class="sr-only">Previous</span>
   </a>
-  <a class="right carousel-control" href="#myCarousel2" role="button" data-slide="next">
+  <a class="right carousel-control" href="#nominacjeGrafika" role="button" data-slide="next">
     <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
   </a>

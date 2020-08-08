@@ -9,7 +9,7 @@ categories:
 
 ---
 <h3 style="text-align: left;">
-  <strong><em>Wystawa prezentująca wyniki konkursu „Książka Roku 2015” PS IBBY </em><em>gości </em></strong><strong style="font-size: 16px; line-height: 1.5;"><em>do 25 kwietnia w łódzkiej <a href="http://manufaktura.com" target="_blank">&#8222;Manufakturze&#8221;</a>.</em></strong>
+  <em>Wystawa prezentująca wyniki konkursu „Książka Roku 2015” PS IBBY </em><em>gości </em><strong style="font-size: 16px; line-height: 1.5;"><em>do 25 kwietnia w łódzkiej <a href="http://manufaktura.com" target="_blank">&#8222;Manufakturze&#8221;</a>.</em>
 </h3>
 
 <!--more-->
@@ -19,8 +19,7 @@ categories:
   
   <p class="wp-caption-text">
     Fot. Robert Wiluś
-  </p>
-</div>
+  
 
 Korzystając z gościnności <a href="http://www.manufaktura.com/" target="_blank">Centrum Handlowego „Manufaktura”</a> w Łodzi PS IBBY ma przyjemność pokazać łódzkiej publiczności wystawę prezentującą wyniki dorocznego konkursu „Książka Roku”.
 

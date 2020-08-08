@@ -1,7 +1,6 @@
 ---
 title: Szczęście według Niny
 author: Maria Kulik
-type: page
 date: 2014-02-18T07:46:46+00:00
 
 ---

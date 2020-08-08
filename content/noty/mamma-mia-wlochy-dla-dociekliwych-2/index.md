@@ -1,7 +1,6 @@
 ---
 title: Mamma mia. Włochy dla dociekliwych
 author: Tomasz Osadowski
-type: page
 date: 2016-03-28T15:39:52+00:00
 
 ---

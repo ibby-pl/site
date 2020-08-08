@@ -1,7 +1,6 @@
 ---
 title: Co słychać?
 author: Tomasz Osadowski
-type: page
 date: 2016-12-17T18:06:12+00:00
 
 ---

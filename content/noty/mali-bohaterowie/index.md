@@ -1,7 +1,6 @@
 ---
 title: Mali bohaterowie
 author: Maria Kulik
-type: page
 date: 2014-02-18T08:20:05+00:00
 
 ---

@@ -1,7 +1,6 @@
 ---
 title: Pionierzy, czyli poczet niewiarygodnie pracowitych Polaków
 author: Maria Kulik
-type: page
 date: 2014-12-06T16:25:38+00:00
 
 ---

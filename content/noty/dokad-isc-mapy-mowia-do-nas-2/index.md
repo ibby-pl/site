@@ -1,7 +1,6 @@
 ---
 title: Dokąd iść? Mapy mówią do nas
 author: Michał Zając
-type: page
 date: 2014-01-04T12:29:57+00:00
 
 ---

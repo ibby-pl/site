@@ -14,12 +14,11 @@ Słupska Wiosna Literacka jest cyklem spotkań autorskich, kierowanych do dziec
 
 W tym roku, w dniach 12-16 maja 2014, po raz dwudziesty pierwszy organizuje spotkania autorskie ze znanymi literatami, krytykami, rysownikami z kraju i regionu.
 
-&nbsp;
+ 
 
 Wśród zaproszonych gości są Wanda Chotomska, Ewa Chotomska, Emilia Kiereś, Barbara Kosmowska, Jolanta Nitkowska-Węglarz, Daniel Odija, Joanna Olech, Marcin Pałasz i Mariola Pryzwan.
 
-&nbsp;
+ 
 
-&nbsp;
+ 
 
-&nbsp;

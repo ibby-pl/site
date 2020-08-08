@@ -1,7 +1,6 @@
 ---
 title: Kanapka i innych wierszy kapka
 author: Michał Zając
-type: page
 date: 2014-02-17T07:57:54+00:00
 
 ---

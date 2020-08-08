@@ -1,7 +1,6 @@
 ---
 title: Nusia i wilki
 author: Michał Zając
-type: page
 date: 2014-02-16T17:51:52+00:00
 
 ---

@@ -1,7 +1,6 @@
 ---
 title: 13 poprzeczna
 author: Maria Kulik
-type: page
 date: 2014-05-28T12:15:55+00:00
 
 ---
@@ -9,7 +8,7 @@ date: 2014-05-28T12:15:55+00:00
 
 MAŁGORZATA GUTOWSKA-ADAMCZYK oprac. graf. Maciej Szymanowicz, wyd. Nasza Księgarnia, s. 293, ISBN 978-83-10-11527-0, +13
 
-&nbsp;
+ 
 
 Trzy gimnazjalistki z Anina – zbuntowana, ubrana na czarno Agata, wyzywająca i wulgarna Klaudia oraz idealna prymuska Zosia różnią się od siebie tak bardzo, że ich przyjaźń wydaje się niemożliwa. Zbiegiem okoliczności dostają wspólne zadanie – w ramach eksperymentu mają czytać pogrążonej w śpiączce Magdzie. Terapia okazuje się skuteczna dla nich wszystkich. Wspólne działanie, wspólny cel, a także podobne, związane z nim obawy zbliżają je do siebie. Powoli przełamują dzielące je bariery i rodzi się między nimi prawdziwa więź.
 
@@ -19,4 +18,4 @@ Tytułowa 13. Poprzeczna, realnie nieistniejąca jako ulica, jest w istocie symb
 
 NAGRODA LITERACKA KSIĄŻKA ROKU 2008
 
-&nbsp;
+ 

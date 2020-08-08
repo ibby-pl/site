@@ -1,7 +1,6 @@
 ---
 title: „Książka Roku” – nagrodzeni ilustratorzy
 author: admin
-type: page
 date: 2013-02-22T22:29:48+00:00
 
 ---
@@ -34,34 +33,29 @@ Nominacje graficzne
 
 **2015**
 
-  * <a href="http://www.ibby.pl/?page_id=2726" target="_blank"><strong>Marianna Oklejak </strong>za autorską książkę obrazkową <em>Cuda wianki. Polski folklor dla młodszych i starszych,  (</em>Egmont Polska 2015)</a>
-  * <a href="http://www.ibby.pl/?page_id=2728" target="_blank"><strong>Paweł Pawlak</strong> za ilustracje i opracowanie graficzne <em>13 bajek z królestwa Lailonii </em>Leszka Kołakowskiego, (Znak Emotikon 2015)</a>
+  * <a href="http://www.ibby.pl/?page_id=2726" target="_blank">Marianna Oklejak za autorską książkę obrazkową <em>Cuda wianki. Polski folklor dla młodszych i starszych,  (</em>Egmont Polska 2015)</a>
+  * <a href="http://www.ibby.pl/?page_id=2728" target="_blank">Paweł Pawlak za ilustracje i opracowanie graficzne <em>13 bajek z królestwa Lailonii </em>Leszka Kołakowskiego, (Znak Emotikon 2015)</a>
 
 Wyróżnienia graficzne
 
   * **  <a href="http://www.ibby.pl/?page_id=2850" target="_blank">Karol Banach </a>**<a href="http://www.ibby.pl/?page_id=2850" target="_blank"> za ilustracje do <em>Bajek </em>autorstwa Erny Rosenstein, (Warstwy 2014)</a>
-  *    <a href="http://www.ibby.pl/?page_id=2853" target="_blank"><strong>Grażka Lange</strong> za koncepcje i opracowanie graficzne <em>Warszawy</em>, (Tako 2015)</a>
+  *    <a href="http://www.ibby.pl/?page_id=2853" target="_blank">Grażka Lange za koncepcje i opracowanie graficzne <em>Warszawy</em>, (Tako 2015)</a>
   * **   <a href="http://www.ibby.pl/?page_id=2734" target="_blank">Monika i Adama Świerżewscy</a>** <a href="http://www.ibby.pl/?page_id=2734" target="_blank">za autorskie opracowanie graficzne      <em>Mmmmm</em>  (EneDueRabe, 2014)</a>
   * **   <a href="http://www.ibby.pl/?page_id=2859" target="_blank">Józef Wilkoń </a>**<a href="http://www.ibby.pl/?page_id=2859" target="_blank"> za autorską książkę  <em>Zbuntowany elektron </em>(Hokus-Pokus 2015)</a>
 
-<p style="text-align: justify;">
+
   <!--more-->
-</p>
+1990
 
-<p style="text-align: justify;">
-  <strong>1990</strong>
-</p>
-
-<div style="text-align: justify;">
   <ul>
     <li>
-      <strong>Mirosław Tokarczyk</strong> za il. do encyklopedii dla najmłodszych <em>Sezam</em> J. Navrátila
+      Mirosław Tokarczyk za il. do encyklopedii dla najmłodszych <em>Sezam</em> J. Navrátila
     </li>
     <li>
-      <strong>Bohdan Butenko</strong> za il. do książki <em>O Felku, Żbiku i Mamutku</em> W. Woroszylskiego
+      Bohdan Butenko za il. do książki <em>O Felku, Żbiku i Mamutku</em> W. Woroszylskiego
     </li>
   </ul>
-</div>
+
 
 **1992**
 
@@ -203,12 +197,12 @@ Wyróżnienia  graficzne
 
 ** **
 
-&nbsp;
+ 
 
-&nbsp;
+ 
 
-&nbsp;
+ 
 
-&nbsp;
+ 
 
-&nbsp;
+ 
