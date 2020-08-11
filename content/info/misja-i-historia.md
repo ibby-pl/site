@@ -1,5 +1,5 @@
 ---
-title: IBBY – Misja i historia
+title: IBBY – Misja i Historia
 author: Tomasz Osadowski
 date: 2016-10-02T19:13:58+00:00
 

@@ -58,8 +58,8 @@
           </div>
         </div> 
         <div class="col-md-4 col-partners">
-     <a href="https://kwasylak.github.io/Partnerzy-IBBY/" target="_blank"><img src="images/teamwork.png" width="100" class="img-responsive center-block" alt="Nasi partnerzy"></a>
-     <h3>Wspierają nas</h3>
+            <a href="/info/nasi-partnerzy" target="_blank"><img src="images/teamwork.png" width="100" class="img-responsive center-block" alt="Nasi partnerzy"></a>
+             <h3>Wspierają nas</h3>
         </div>
       </div>
     </div>
@@ -379,13 +379,21 @@
       </div> 
       
       <div class="col-md-4">
-        <img id="slider" src="http://placehold.it/50x200">
+          <img id="slider" src="http://placehold.it/50x200">
+          <div id="slider-data" style="display: none">
+              {{ $instytucje := where site.RegularPages ".Section" "instytucje" }}
+              {{ range where $instytucje ".Params.typ" "intersect" (slice "członek wspierający" "partner") }}
+                  {{ $images := .Resources.ByType "image" }}
+                  {{ $logo := index $images 0 }}
+                  <img src="{{ $logo.Permalink }}" alt="{{ .Name }}">
+              {{ end }}
+          </div>
       </div>
 
       <div class="col-md-4 col-partnerzy">
         <h3>IBBY dziękuje za wsparcie wszystkim naszym Partnerom i Członkom Wspierającym!</h3>
          <div>
-      <a class="slanted-btn btn-tip" href="https://kwasylak.github.io/Partnerzy-IBBY/" target="_blank">
+      <a class="slanted-btn btn-tip" href="/info/nasi-partnerzy">
             Wszyscy partnerzy
       </a>
     </div>

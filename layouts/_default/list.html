@@ -1,8 +1,10 @@
 {{ define "content" }}
 
+    <section>
   {{ range .Paginator.Pages }}
       <h2><a href="{{.Permalink}}">{{ .Title }}</a></h2>
   {{ end }}
+    </section>
 
   {{ template "_internal/pagination.html" . }}
 

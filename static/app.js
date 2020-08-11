@@ -30,15 +30,17 @@ $('#nominacjeGrafika').carousel({
 
 // -----------partnerzy---------------
 
-var imgArray = [
-    'images/par1.jpg',
-    'images/par2.jpg',
-    'images/par3.jpg',
-    'images/par4.jpg',
-    'images/par5.jpg',
-    'images/par6.jpg'],
-    curIndex = 0;
-    imgDuration = 3000;
+var imgs = document.querySelectorAll("#slider-data img");
+var imgArray = [];
+
+for (var i = 0; i < imgs.length; i++ ) {
+    imgArray.push(imgs[i].src);
+}
+
+shuffle(imgArray);
+
+var curIndex = 0;
+var imgDuration = 3000;
 
 function slideShow() {
     document.getElementById('slider').className += "fadeOut";
@@ -118,3 +120,22 @@ $("#nav").mouseleave(function() {
 });
 
 });
+
+
+// copied from https://github.com/Daplie/knuth-shuffle, Apache 2.0 licensed.
+
+function shuffle(array) {
+    var currentIndex = array.length, temporaryValue, randomIndex;
+
+    while (0 !== currentIndex) {
+
+        randomIndex = Math.floor(Math.random() * currentIndex);
+        currentIndex -= 1;
+
+        temporaryValue = array[currentIndex];
+        array[currentIndex] = array[randomIndex];
+        array[randomIndex] = temporaryValue;
+    }
+
+    return array;
+}

@@ -1196,8 +1196,15 @@ bottom: 7px;
     margin-top: 15px;
     margin-bottom: 30px;
 }
+
+#slider {
+    width: 250px;
+    height: auto;
+}
+
 /*-----------pages inside--------------*/
 
 .author {
     font-style: italic;
 }
+
