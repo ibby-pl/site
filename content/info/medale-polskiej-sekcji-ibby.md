@@ -17,7 +17,7 @@ Medale Polskiej Sekcji IBBY za całokształt twórczości otrzymali dotychczas:
 * 2006 - Marta Tomaszewska (literatura) i Elżbieta Gaudasińska (grafika)
 * 2007 - Ludwik Jerzy Kern (literatura) i Teresa Wilbik (grafika)
 * 2008 - Małgorzata Musierowicz (literatura) i Elżbieta i Marian Murawscy (grafika)
-* 2009 - Maria Ewa Letki (literatura) i Maria Ekier (grafika)
+* 2009 - Maria Ewa Letki (literatura) i Maria Ekier (grafika)
 * 2010 - Maciej Wojtyszko (literatura) i Andrzej Strumiłło (grafika)
 * 2011 - Anna Onichimowska (literatura) i Stasys Eidigrevicius (grafika)
 * 2012 - Liliana Bardijewska (literatura) i Krystyna LipkaSztarbałło (grafika)

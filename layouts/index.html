@@ -49,9 +49,9 @@
             <div class="col-md-12 btn-join">
 
               <div class="center">
-              <button class="btn btn-reverse btn-arrow">
+              <a class="btn btn-reverse btn-arrow" href="/info/dolacz-do-nas">
                <span>Dołącz do nas<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 36.1 25.8" enable-background="new 0 0 36.1 25.8" xml:space="preserve"><g><line fill="none" stroke="#FFFFFF" stroke-width="3" stroke-miterlimit="10" x1="0" y1="12.9" x2="34" y2="12.9"></line><polyline fill="none" stroke="#FFFFFF" stroke-width="3" stroke-miterlimit="10" points="22.2,1.1 34,12.9 22.2,24.7   "></polyline></g></svg></span>
-              </button>
+              </a>
               </div>
 
             </div>
@@ -239,6 +239,8 @@
 
 <section class="upowszechnianie kategorie">
 
+    {{ $edycja_upowszechnianie := (printf "%s Nominacja Upowszechnianie" $edycja)}}
+
 <!-- ------------zakladka kategoria------------- -->
 
   <div class="container">
@@ -250,8 +252,13 @@
     <div class="row row-bubble">
 
       <div class="col-md-8 col-czytelnictwo">
-        <h4>KATEGORIA: UPOWSZECHNIANIE CZYTELNICTWA</h4>
-        <p>Już starożytni Egipcjanie znali skuteczne metody krzewiące czytelnictwo wśród młodzieży: niechętnych lekturze uczniów trzymano za nogi nad ogniskiem i wystawiano ich twarze na działanie gryzącego dymu. IBBY kontynuuje tę tradycję.</p>
+        <h4>Nominowani w kategorii Upowszechnianie Czytelnictwa:</h4>
+<!--        <p>Już starożytni Egipcjanie znali skuteczne metody krzewiące czytelnictwo wśród młodzieży: niechętnych lekturze uczniów trzymano za nogi nad ogniskiem i wystawiano ich twarze na działanie gryzącego dymu. IBBY kontynuuje tę tradycję.</p>-->
+          <ul>
+              {{ range where site.RegularPages ".Params.nagrody" "intersect" (slice $edycja_upowszechnianie) }}
+              <li><a href="{{ .Permalink }}">{{ .Params.title }}</a></li>
+              {{ end }}
+          </ul>
       </div>
     
 
@@ -282,7 +289,7 @@
         <h3>THEMERSONÓW</h3>
         <p>Stefan Themerson (ur. 25 stycznia 1910 w Płocku, zm. 6 września 1988 w Londynie) – awangardowy artysta, prozaik, poeta, eseista, filozof, filmowiec i kompozytor; twórca koncepcji poezji semantycznej. Pisał w języku polskim, francuskim i angielskim.</p>
       <div>
-        <a class="btn-medal" href="#">
+        <a class="btn-medal" href="/nagrody/medal">
             Więcej
         </a>
       </div>
@@ -353,9 +360,10 @@
 
   <div class="col-md-4 col-wydarzenia">
     <h1>Wydarzenia</h1>
-    <p>IBBY organizuje różne wydarzenia, np. pieczenie ziemniaków, ściganie przestępców, głaskanie bezdomnych kotów i warsztaty ikebany.</p>
+<!--    <p>IBBY organizuje różne wydarzenia, np. pieczenie ziemniaków, ściganie przestępców, głaskanie bezdomnych kotów i warsztaty ikebany.</p>-->
+      <p>Polska Sekcja IBBY bierze udział - jako uczestnik i patron - w wielu inicjatywach podjętych przez naszych partnerów. Jesteśmy też organizatorem m.in. <em>Forum IBBY</em></p>
     <div>
-      <a class="slanted-btn btn-tip" href="#">
+      <a class="slanted-btn btn-tip" href="/wydarzenia">
             Więcej
       </a>
     </div>

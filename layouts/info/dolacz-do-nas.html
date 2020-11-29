@@ -1,0 +1,17 @@
+{{ define "content" }}
+<article id="content" class="container everyman">
+
+
+    {{ .Content }}
+
+    <aside style="float: right">
+        <h3>Formularze</h3>
+        <ul>
+            {{ range .Resources }}
+            <li><a href="{{ .Permalink }}">{{ . }}</a></li>
+            {{ end }}
+        </ul>
+    </aside>
+
+</article>
+{{ end }}

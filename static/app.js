@@ -55,29 +55,6 @@ function slideShow() {
 slideShow();
 
 
-// -------------Upowszechnianie---------------
-
-
-var firstImgArray = [
-    'images/bjork1.jpg',
-    'images/bjork2.jpg',
-    'images/bjork3.jpeg',
-    'images/bjork4.jpg',
-    'images/bjork5.jpg'],
-    nowIndex = 0;
-    imgDuration = 4000;
-
-function firstSlideShow() {
-    document.getElementById('first-slider').className += "fadeOut";
-    setTimeout(function() {
-        document.getElementById('first-slider').src = firstImgArray[nowIndex];
-        document.getElementById('first-slider').className = "";
-    },1000);
-    nowIndex++;
-    if (nowIndex == firstImgArray.length) { nowIndex = 0; }
-    setTimeout(firstSlideShow, imgDuration);
-}
-firstSlideShow();
 
 // -------scrolling to internal links----------------
 $(document).ready(function(){

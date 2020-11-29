@@ -1,0 +1,36 @@
+{{ define "content"}}
+<article id="content" class="container everyman">
+
+    {{ .Content }}
+
+    <table class="table">
+        <thead>
+        <tr>
+            <th>Rok</th>
+            <th>Literatura</th>
+            <th>Grafika</th>
+        </tr>
+        </thead>
+        <tbody>
+        {{ range seq 1000 }}
+        {{ $year := add . 2000 }}
+        {{ $literatura := (printf "Medal %d literatura" $year) }}
+        {{ $grafika := (printf "Medal %d grafika" $year) }}
+        {{ $laureat_grafika := (where site.RegularPages ".Params.nagrody" "intersect" (slice $grafika)) }}
+        {{ $laureat_literatura := (where site.RegularPages ".Params.nagrody" "intersect" (slice $literatura)) }}
+        {{ $items := (add (len $laureat_grafika) (len $laureat_literatura)) }}
+
+        {{ if (gt $items 0)}}
+            <tr>
+                <td> {{ $year }} </td>
+                <td> {{ range $laureat_literatura }} {{ .Title }} {{ end }}</td>
+                <td> {{ range $laureat_grafika }} {{ .Title }} {{ end }}</td>
+            </tr>
+        {{ end }}
+
+        {{ end }}
+        </tbody>
+    </table>
+
+</article>
+{{ end }}
